@@ -3,12 +3,12 @@
     "id": 51,
     "question": "Newborn jaundice under phototherapy: key nursing action?",
     "choices": {
-      "A": "Cover eyes and monitor temperature/fluids",
+      "A": "Apply oil to enhance light penetration",
       "B": "Keep lights close to skin without protection",
       "C": "Stop feeds during therapy",
-      "D": "Apply oil to enhance light penetration"
+      "D": "Cover eyes and monitor temperature/fluids"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Protect eyes and maintain hydration and temperature during phototherapy."
   },
   {
@@ -16,9 +16,9 @@
     "question": "Which vaccine is contraindicated in severe egg anaphylaxis (verify local guidance)?",
     "choices": {
       "A": "Influenza (some forms)",
-      "B": "Hepatitis B",
-      "C": "DTaP",
-      "D": "Inactivated polio (IPV)"
+      "B": "Inactivated polio (IPV)",
+      "C": "Hepatitis B",
+      "D": "DTaP"
     },
     "answer": "A",
     "answer_explanation": "Some influenza vaccines are egg-based; check local protocols for severe reactions."
@@ -27,12 +27,12 @@
     "id": 53,
     "question": "Dehydration best indicator in infants is",
     "choices": {
-      "A": "Decreased wet diapers",
+      "A": "Bulging fontanel",
       "B": "Increased tearing",
-      "C": "Bulging fontanel",
+      "C": "Decreased wet diapers",
       "D": "Weight gain"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Reduced urine output is a sensitive indicator of dehydration in infants."
   },
   {
@@ -51,24 +51,24 @@
     "id": 55,
     "question": "Best therapeutic response to a grieving client who is crying?",
     "choices": {
-      "A": "\u201cI\u2019m here with you. Tell me more about what you\u2019re feeling.\u201d",
-      "B": "\u201cDon\u2019t cry; you must be strong.\u201d",
-      "C": "\u201cEverything happens for a reason.\u201d",
-      "D": "\u201cLet\u2019s talk about something else.\u201d"
+      "A": "\u201cLet\u2019s talk about something else.\u201d",
+      "B": "\u201cI\u2019m here with you. Tell me more about what you\u2019re feeling.\u201d",
+      "C": "\u201cDon\u2019t cry; you must be strong.\u201d",
+      "D": "\u201cEverything happens for a reason.\u201d"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Use empathy and encourage expression; avoid false reassurance or minimizing."
   },
   {
     "id": 56,
     "question": "Which side effect of antipsychotics needs urgent action?",
     "choices": {
-      "A": "Neck stiffness and high fever",
-      "B": "Dry mouth",
-      "C": "Mild tremor after initiation",
+      "A": "Mild tremor after initiation",
+      "B": "Neck stiffness and high fever",
+      "C": "Dry mouth",
       "D": "Increased appetite"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Neuroleptic malignant syndrome: rigidity, hyperthermia; medical emergency."
   },
   {
@@ -76,9 +76,9 @@
     "question": "Lithium toxicity early sign is",
     "choices": {
       "A": "GI upset (nausea, vomiting, diarrhea)",
-      "B": "Bradycardia only",
-      "C": "Severe hypertension",
-      "D": "Hyperreflexia"
+      "B": "Severe hypertension",
+      "C": "Hyperreflexia",
+      "D": "Bradycardia only"
     },
     "answer": "A",
     "answer_explanation": "GI symptoms can be early signs; monitor levels and hydration."
@@ -87,12 +87,12 @@
     "id": 58,
     "question": "Before giving furosemide IV, assess",
     "choices": {
-      "A": "Blood pressure and potassium level",
+      "A": "Deep tendon reflexes",
       "B": "Capillary refill only",
       "C": "Pupillary reaction",
-      "D": "Deep tendon reflexes"
+      "D": "Blood pressure and potassium level"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Loop diuretics can cause hypotension and hypokalemia."
   },
   {
@@ -100,9 +100,9 @@
     "question": "Which patient should not receive a beta-blocker without caution?",
     "choices": {
       "A": "Asthma with active bronchospasm",
-      "B": "Stable hypothyroidism",
-      "C": "Controlled GERD",
-      "D": "Iron deficiency anemia"
+      "B": "Iron deficiency anemia",
+      "C": "Stable hypothyroidism",
+      "D": "Controlled GERD"
     },
     "answer": "A",
     "answer_explanation": "Beta-blockers can exacerbate bronchospasm in asthma."
@@ -111,36 +111,36 @@
     "id": 60,
     "question": "Heparin therapy effectiveness is monitored by",
     "choices": {
-      "A": "aPTT",
-      "B": "INR",
-      "C": "Platelet function assay",
-      "D": "Serum creatinine"
+      "A": "Serum creatinine",
+      "B": "Platelet function assay",
+      "C": "INR",
+      "D": "aPTT"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Unfractionated heparin is monitored by aPTT; warfarin by INR."
   },
   {
     "id": 61,
     "question": "Evisceration occurs at surgical site. First action?",
     "choices": {
-      "A": "Cover with sterile saline-moistened gauze and call surgeon",
-      "B": "Push organs back and tape firmly",
-      "C": "Apply dry gauze and ambulate",
-      "D": "Give oral analgesic and observe"
+      "A": "Push organs back and tape firmly",
+      "B": "Cover with sterile saline-moistened gauze and call surgeon",
+      "C": "Give oral analgesic and observe",
+      "D": "Apply dry gauze and ambulate"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Keep tissues moist/sterile and seek urgent surgical attention."
   },
   {
     "id": 62,
     "question": "Best indicator of effective fluid resuscitation post-op is",
     "choices": {
-      "A": "Improving urine output and stable vitals",
+      "A": "Patient feels thirsty",
       "B": "Warm hands",
-      "C": "Patient feels thirsty",
-      "D": "Dry incision site"
+      "C": "Dry incision site",
+      "D": "Improving urine output and stable vitals"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Perfusion is reflected in adequate urine output and stable hemodynamics."
   },
   {
@@ -159,108 +159,108 @@
     "id": 64,
     "question": "Informed consent for surgery is primarily the responsibility of the",
     "choices": {
-      "A": "Provider performing the procedure",
-      "B": "Circulating nurse",
+      "A": "Circulating nurse",
+      "B": "Provider performing the procedure",
       "C": "Charge nurse",
       "D": "Hospital administrator"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "The provider explains risks/benefits and obtains consent; nurse verifies and witnesses."
   },
   {
     "id": 65,
     "question": "When a medication error occurs, the nurse should first",
     "choices": {
-      "A": "Assess the patient",
+      "A": "Notify media relations",
       "B": "Alter the chart entry",
-      "C": "Notify media relations",
+      "C": "Assess the patient",
       "D": "Leave the unit"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Patient safety comes first; assess, then notify provider and complete incident report."
   },
   {
     "id": 66,
     "question": "A patient with pneumonia has RR 28, SpO2 88% on room air. First action?",
     "choices": {
-      "A": "Apply oxygen and reassess",
-      "B": "Offer fluids",
+      "A": "Offer fluids",
+      "B": "Apply oxygen and reassess",
       "C": "Call family",
       "D": "Keep NPO"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Treat hypoxemia first (ABCs)."
   },
   {
     "id": 67,
     "question": "Elderly patient on opioids has RR 8 and pin-point pupils. Antidote?",
     "choices": {
-      "A": "Naloxone",
+      "A": "Atropine",
       "B": "Flumazenil",
-      "C": "Atropine",
+      "C": "Naloxone",
       "D": "Protamine sulfate"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Naloxone reverses opioid-induced respiratory depression."
   },
   {
     "id": 68,
     "question": "BP cuff too small will cause readings to be",
     "choices": {
-      "A": "Falsely high",
-      "B": "Falsely low",
-      "C": "Unaffected",
+      "A": "Unaffected",
+      "B": "Falsely high",
+      "C": "Falsely low",
       "D": "Erratic only"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Small cuffs overestimate BP."
   },
   {
     "id": 69,
     "question": "Patient on ACE inhibitor develops swelling of lips and tongue. Concern?",
     "choices": {
-      "A": "Angioedema",
-      "B": "Urticaria only",
-      "C": "Dehydration",
-      "D": "Bronchitis"
+      "A": "Bronchitis",
+      "B": "Angioedema",
+      "C": "Urticaria only",
+      "D": "Dehydration"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "ACE inhibitors can cause life-threatening angioedema."
   },
   {
     "id": 70,
     "question": "Priority teaching for insulin lispro (rapid-acting)?",
     "choices": {
-      "A": "Eat within 15 minutes of injection",
-      "B": "Skip meals to lose weight",
-      "C": "Inject at bedtime only",
-      "D": "Shake vigorously"
+      "A": "Skip meals to lose weight",
+      "B": "Shake vigorously",
+      "C": "Eat within 15 minutes of injection",
+      "D": "Inject at bedtime only"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Lispro has rapid onset; prevent hypoglycemia by eating promptly."
   },
   {
     "id": 71,
     "question": "Patient with DVT suddenly has chest pain and dyspnea. Suspect",
     "choices": {
-      "A": "Pulmonary embolism",
+      "A": "Pneumothorax",
       "B": "MI only",
-      "C": "Pneumothorax",
+      "C": "Pulmonary embolism",
       "D": "Asthma"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "DVT can embolize to lungs causing PE."
   },
   {
     "id": 72,
     "question": "First action for epistaxis in hypertensive patient?",
     "choices": {
-      "A": "Sit forward and pinch soft part of nose",
+      "A": "Apply heat packs",
       "B": "Lie flat with neck extended",
-      "C": "Insert cotton swabs deeply",
-      "D": "Apply heat packs"
+      "C": "Sit forward and pinch soft part of nose",
+      "D": "Insert cotton swabs deeply"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Lean forward and apply pressure to control bleeding."
   },
   {
@@ -268,8 +268,8 @@
     "question": "Best position for a patient with heart failure and orthopnea?",
     "choices": {
       "A": "High Fowler\u2019s with legs dependent",
-      "B": "Supine",
-      "C": "Trendelenburg",
+      "B": "Trendelenburg",
+      "C": "Supine",
       "D": "Prone"
     },
     "answer": "A",
@@ -280,8 +280,8 @@
     "question": "Sterile gloving: after donning first glove, avoid touching",
     "choices": {
       "A": "Bare skin with gloved hand",
-      "B": "Inner glove surface",
-      "C": "Sterile field with sterile glove",
+      "B": "Sterile field with sterile glove",
+      "C": "Inner glove surface",
       "D": "Cuff of second glove"
     },
     "answer": "A",
@@ -291,12 +291,12 @@
     "id": 75,
     "question": "Suspected transfusion reaction. First step?",
     "choices": {
-      "A": "Stop the transfusion",
-      "B": "Increase rate and observe",
-      "C": "Give aspirin",
+      "A": "Increase rate and observe",
+      "B": "Give aspirin",
+      "C": "Stop the transfusion",
       "D": "Discard blood bag immediately"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Stop infusion, assess, keep IV with normal saline, notify provider/blood bank."
   }
 ]

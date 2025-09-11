@@ -3,36 +3,36 @@
     "id": 26,
     "question": "Therapeutic serum digoxin level is",
     "choices": {
-      "A": "0.5\u20132.0 ng/mL",
-      "B": "3\u20135 ng/mL",
+      "A": "2.5\u20133.5 ng/mL",
+      "B": "0.5\u20132.0 ng/mL",
       "C": "5\u20138 ng/mL",
-      "D": "2.5\u20133.5 ng/mL"
+      "D": "3\u20135 ng/mL"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Therapeutic digoxin range is ~0.5\u20132.0 ng/mL."
   },
   {
     "id": 27,
     "question": "Normal adult serum creatinine is approximately",
     "choices": {
-      "A": "0.6\u20131.3 mg/dL (53\u2013115 \u00b5mol/L)",
+      "A": "3.5\u20135.0 mg/dL",
       "B": "1.8\u20133.0 mg/dL",
-      "C": "3.5\u20135.0 mg/dL",
-      "D": "0.1\u20130.3 mg/dL"
+      "C": "0.1\u20130.3 mg/dL",
+      "D": "0.6\u20131.3 mg/dL (53\u2013115 \u00b5mol/L)"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Typical adult creatinine ~0.6\u20131.3 mg/dL."
   },
   {
     "id": 28,
     "question": "Arterial blood pH normal range is",
     "choices": {
-      "A": "7.35\u20137.45",
-      "B": "7.10\u20137.20",
-      "C": "7.50\u20137.60",
-      "D": "6.90\u20137.05"
+      "A": "7.50\u20137.60",
+      "B": "7.35\u20137.45",
+      "C": "6.90\u20137.05",
+      "D": "7.10\u20137.20"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Normal arterial pH 7.35\u20137.45."
   },
   {
@@ -40,8 +40,8 @@
     "question": "Lithium maintenance therapeutic level is",
     "choices": {
       "A": "0.6\u20131.2 mEq/L",
-      "B": "1.8\u20133.0 mEq/L",
-      "C": "3.5\u20134.5 mEq/L",
+      "B": "3.5\u20134.5 mEq/L",
+      "C": "1.8\u20133.0 mEq/L",
       "D": ">5.0 mEq/L"
     },
     "answer": "A",
@@ -51,24 +51,24 @@
     "id": 30,
     "question": "First step for a patient with suspected anaphylaxis after IV antibiotic?",
     "choices": {
-      "A": "Stop the infusion and assess airway/breathing",
-      "B": "Give a glass of water",
-      "C": "Apply warm compress to IV site",
-      "D": "Call family to bring EpiPen"
+      "A": "Apply warm compress to IV site",
+      "B": "Call family to bring EpiPen",
+      "C": "Stop the infusion and assess airway/breathing",
+      "D": "Give a glass of water"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Stop the causative agent and manage ABCs immediately."
   },
   {
     "id": 31,
     "question": "Chest pain unrelieved after one nitroglycerin dose and 5 minutes. Next?",
     "choices": {
-      "A": "Call emergency response and give oxygen",
-      "B": "Give food to prevent nausea",
-      "C": "Ambulate to reduce anxiety",
+      "A": "Ambulate to reduce anxiety",
+      "B": "Call emergency response and give oxygen",
+      "C": "Give food to prevent nausea",
       "D": "Continue to wait 30 minutes"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Persistent chest pain warrants activation of emergency response and oxygen per protocol."
   },
   {
@@ -76,9 +76,9 @@
     "question": "Which finding requires immediate action in a COPD patient?",
     "choices": {
       "A": "Respiratory rate 8/min and somnolence",
-      "B": "Barrel chest and mild dyspnea",
-      "C": "Chronic cough with sputum",
-      "D": "SpO2 90% on room air baseline"
+      "B": "Chronic cough with sputum",
+      "C": "SpO2 90% on room air baseline",
+      "D": "Barrel chest and mild dyspnea"
     },
     "answer": "A",
     "answer_explanation": "Bradypnea with decreased LOC suggests CO2 narcosis/respiratory failure risk."
@@ -87,12 +87,12 @@
     "id": 33,
     "question": "Post-thyroidectomy patient develops stridor and difficulty speaking. Priority?",
     "choices": {
-      "A": "Assess airway and prepare for emergency intervention",
+      "A": "Apply warm neck compress",
       "B": "Offer sips of water",
-      "C": "Reassure and continue monitoring",
-      "D": "Apply warm neck compress"
+      "C": "Assess airway and prepare for emergency intervention",
+      "D": "Reassure and continue monitoring"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Airway compromise from edema/hematoma demands immediate airway management."
   },
   {
@@ -100,9 +100,9 @@
     "question": "Which ECG change suggests hyperkalemia?",
     "choices": {
       "A": "Peaked T waves",
-      "B": "U waves",
-      "C": "Prominent P waves",
-      "D": "Shortened PR interval"
+      "B": "Prominent P waves",
+      "C": "Shortened PR interval",
+      "D": "U waves"
     },
     "answer": "A",
     "answer_explanation": "Hyperkalemia commonly causes tall, peaked T waves."
@@ -111,36 +111,36 @@
     "id": 35,
     "question": "Best initial action in suspected hypoglycemia (conscious patient)?",
     "choices": {
-      "A": "Give 15 g fast-acting carbohydrate",
-      "B": "Administer long-acting insulin",
-      "C": "Encourage exercise",
-      "D": "Start IV normal saline only"
+      "A": "Start IV normal saline only",
+      "B": "Encourage exercise",
+      "C": "Give 15 g fast-acting carbohydrate",
+      "D": "Administer long-acting insulin"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Follow the 15-15 rule: 15 g fast sugar, recheck in 15 minutes."
   },
   {
     "id": 36,
     "question": "DKA hallmark finding is",
     "choices": {
-      "A": "Kussmaul respirations and ketonuria",
-      "B": "Bradycardia and hypothermia",
-      "C": "Metabolic alkalosis and constipation",
-      "D": "Hypernatremia and low urine osmolality"
+      "A": "Bradycardia and hypothermia",
+      "B": "Kussmaul respirations and ketonuria",
+      "C": "Hypernatremia and low urine osmolality",
+      "D": "Metabolic alkalosis and constipation"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "DKA presents with metabolic acidosis, Kussmaul breathing, hyperglycemia, ketones."
   },
   {
     "id": 37,
     "question": "Primary concern teaching for steroid (prednisone) therapy is",
     "choices": {
-      "A": "Do not stop abruptly; taper dose",
-      "B": "Take with grapefruit juice",
-      "C": "Expect hypoglycemia",
-      "D": "Double dose if you feel well"
+      "A": "Take with grapefruit juice",
+      "B": "Double dose if you feel well",
+      "C": "Do not stop abruptly; taper dose",
+      "D": "Expect hypoglycemia"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Abrupt cessation risks adrenal crisis; taper gradually."
   },
   {
@@ -148,9 +148,9 @@
     "question": "Which IV fluid is isotonic?",
     "choices": {
       "A": "0.9% normal saline",
-      "B": "0.45% saline",
-      "C": "3% saline",
-      "D": "D5W after metabolism"
+      "B": "D5W after metabolism",
+      "C": "0.45% saline",
+      "D": "3% saline"
     },
     "answer": "A",
     "answer_explanation": "0.9% NS is isotonic; 0.45% hypotonic; 3% hypertonic."
@@ -159,12 +159,12 @@
     "id": 39,
     "question": "Sign of fluid volume overload is",
     "choices": {
-      "A": "Crackles in lungs",
-      "B": "Dry mucous membranes",
-      "C": "Orthostatic hypotension",
-      "D": "Poor skin turgor"
+      "A": "Poor skin turgor",
+      "B": "Crackles in lungs",
+      "C": "Dry mucous membranes",
+      "D": "Orthostatic hypotension"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Pulmonary crackles indicate fluid overload."
   },
   {
@@ -173,8 +173,8 @@
     "choices": {
       "A": "0.5 mL/kg/hr",
       "B": "0.1 mL/kg/hr",
-      "C": "2 mL/kg/hr",
-      "D": "5 mL/kg/hr"
+      "C": "5 mL/kg/hr",
+      "D": "2 mL/kg/hr"
     },
     "answer": "A",
     "answer_explanation": "Oliguria is <0.5 mL/kg/hr and suggests inadequate perfusion."
@@ -183,24 +183,24 @@
     "id": 41,
     "question": "Stroke symptom onset 1 hour ago; priority action?",
     "choices": {
-      "A": "Arrange immediate CT scan of head",
-      "B": "Give aspirin without imaging",
-      "C": "Start D5W maintenance fluids",
-      "D": "Place patient flat in Trendelenburg"
+      "A": "Give aspirin without imaging",
+      "B": "Start D5W maintenance fluids",
+      "C": "Place patient flat in Trendelenburg",
+      "D": "Arrange immediate CT scan of head"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "CT is needed urgently to differentiate ischemic vs hemorrhagic stroke."
   },
   {
     "id": 42,
     "question": "Which finding is concerning after head injury?",
     "choices": {
-      "A": "Unequal pupils and increasing drowsiness",
-      "B": "Brief headache relieved by rest",
-      "C": "Small scalp abrasion",
-      "D": "Mild nausea once"
+      "A": "Brief headache relieved by rest",
+      "B": "Mild nausea once",
+      "C": "Unequal pupils and increasing drowsiness",
+      "D": "Small scalp abrasion"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Signs of increased ICP or herniation risk require urgent evaluation."
   },
   {
@@ -208,9 +208,9 @@
     "question": "Priority in a patient with upper GI bleeding and tachycardia?",
     "choices": {
       "A": "Establish large-bore IV access",
-      "B": "Offer clear fluids",
-      "C": "Administer antidiarrheals",
-      "D": "Ambulate to reduce anxiety"
+      "B": "Ambulate to reduce anxiety",
+      "C": "Offer clear fluids",
+      "D": "Administer antidiarrheals"
     },
     "answer": "A",
     "answer_explanation": "Volume resuscitation requires IV access for fluids/blood."
@@ -220,8 +220,8 @@
     "question": "Teaching for a client with GERD should include",
     "choices": {
       "A": "Avoid late-night meals and elevate HOB",
-      "B": "Increase chocolate and mint",
-      "C": "Wear tight belts after meals",
+      "B": "Wear tight belts after meals",
+      "C": "Increase chocolate and mint",
       "D": "Drink large volumes at bedtime"
     },
     "answer": "A",
@@ -231,24 +231,24 @@
     "id": 45,
     "question": "After hip replacement, which position should be avoided initially?",
     "choices": {
-      "A": "Hip flexion >90\u00b0 and adduction",
-      "B": "Abduction with pillow",
-      "C": "Neutral rotation",
+      "A": "Neutral rotation",
+      "B": "Hip flexion >90\u00b0 and adduction",
+      "C": "Abduction with pillow",
       "D": "HOB 30\u00b0"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Avoid dislocation: don\u2019t flex hip >90\u00b0, adduct, or internally rotate early post-op."
   },
   {
     "id": 46,
     "question": "Compartment syndrome early sign is",
     "choices": {
-      "A": "Severe pain unrelieved by analgesics",
-      "B": "Bounding distal pulses",
-      "C": "Warm, pink extremity",
-      "D": "Improved sensation"
+      "A": "Warm, pink extremity",
+      "B": "Improved sensation",
+      "C": "Severe pain unrelieved by analgesics",
+      "D": "Bounding distal pulses"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Pain out of proportion, not relieved by meds, is an early hallmark."
   },
   {
@@ -256,8 +256,8 @@
     "question": "Normal fetal heart rate (baseline) is",
     "choices": {
       "A": "110\u2013160 bpm",
-      "B": "60\u201390 bpm",
-      "C": "170\u2013200 bpm",
+      "B": "170\u2013200 bpm",
+      "C": "60\u201390 bpm",
       "D": "90\u2013105 bpm"
     },
     "answer": "A",
@@ -267,36 +267,36 @@
     "id": 48,
     "question": "Late decelerations on fetal monitoring indicate",
     "choices": {
-      "A": "Uteroplacental insufficiency",
-      "B": "Umbilical cord compression",
-      "C": "Fetal head compression",
-      "D": "Normal reassuring pattern"
+      "A": "Umbilical cord compression",
+      "B": "Uteroplacental insufficiency",
+      "C": "Normal reassuring pattern",
+      "D": "Fetal head compression"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Late decels suggest placental insufficiency; reposition, oxygen, stop oxytocin."
   },
   {
     "id": 49,
     "question": "Magnesium sulfate toxicity sign is",
     "choices": {
-      "A": "Absent deep tendon reflexes",
-      "B": "Tachycardia and agitation",
-      "C": "Increased urine output",
-      "D": "Hyperreflexia"
+      "A": "Increased urine output",
+      "B": "Hyperreflexia",
+      "C": "Tachycardia and agitation",
+      "D": "Absent deep tendon reflexes"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Toxicity shows hyporeflexia/absent DTRs, respiratory depression; antidote is calcium gluconate."
   },
   {
     "id": 50,
     "question": "Postpartum hemorrhage priority action is",
     "choices": {
-      "A": "Fundal massage",
-      "B": "Apply ice to perineum only",
-      "C": "Encourage fluids orally",
-      "D": "Ambulate frequently"
+      "A": "Apply ice to perineum only",
+      "B": "Ambulate frequently",
+      "C": "Fundal massage",
+      "D": "Encourage fluids orally"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Massage a boggy uterus to reduce bleeding; call provider, give uterotonics."
   }
 ]

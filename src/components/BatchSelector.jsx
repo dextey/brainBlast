@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const batches = Array.from({ length: 12 }, (_, i) => i + 1);
+const batches = Array.from({ length: 6 }, (_, i) => i + 1);
 
 export default function BatchSelector({ onSelectBatch }) {
   const [progress, setProgress] = useState({});

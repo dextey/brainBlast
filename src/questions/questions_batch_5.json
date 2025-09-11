@@ -3,12 +3,12 @@
     "id": 101,
     "question": "PEG tube falls out accidentally (tract immature). Nurse should",
     "choices": {
-      "A": "Cover site and notify provider\u2014do not blindly reinsert",
+      "A": "Tape closed permanently",
       "B": "Insert Foley catheter blindly",
-      "C": "Ignore and feed orally",
-      "D": "Tape closed permanently"
+      "C": "Cover site and notify provider\u2014do not blindly reinsert",
+      "D": "Ignore and feed orally"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Blind reinsertion risks peritonitis; provider to replace under guidance."
   },
   {
@@ -27,36 +27,36 @@
     "id": 103,
     "question": "Iron supplement best absorption with",
     "choices": {
-      "A": "Vitamin C (e.g., orange juice)",
+      "A": "Antacids simultaneously",
       "B": "Milk",
-      "C": "Antacids simultaneously",
+      "C": "Vitamin C (e.g., orange juice)",
       "D": "Tea immediately after"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Vitamin C enhances iron absorption; calcium/tea reduce it."
   },
   {
     "id": 104,
     "question": "Refeeding syndrome risk sign is",
     "choices": {
-      "A": "Hypophosphatemia",
-      "B": "Hypermagnesemia",
-      "C": "Bradyglycemia",
+      "A": "Bradyglycemia",
+      "B": "Hypophosphatemia",
+      "C": "Hypermagnesemia",
       "D": "Hypernatremia only"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Refeeding shifts electrolytes into cells\u2014low phosphate is classic."
   },
   {
     "id": 105,
     "question": "To prevent dumping syndrome after gastric surgery, teach to",
     "choices": {
-      "A": "Eat small, frequent meals and lie down after eating",
-      "B": "Drink fluids with meals",
-      "C": "Eat high-sugar foods",
-      "D": "Stand immediately after meals"
+      "A": "Stand immediately after meals",
+      "B": "Eat high-sugar foods",
+      "C": "Drink fluids with meals",
+      "D": "Eat small, frequent meals and lie down after eating"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Small meals, limit fluids with meals, and rest after eating reduce dumping."
   },
   {
@@ -75,60 +75,60 @@
     "id": 107,
     "question": "Best communication with a patient hearing voices (schizophrenia)?",
     "choices": {
-      "A": "Acknowledge experience and focus on reality-based tasks",
+      "A": "Encourage isolation",
       "B": "Argue that the voices are fake",
-      "C": "Encourage isolation",
-      "D": "Join their delusions"
+      "C": "Join their delusions",
+      "D": "Acknowledge experience and focus on reality-based tasks"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Acknowledge feelings, set limits, focus on reality."
   },
   {
     "id": 108,
     "question": "Alzheimer patient wanders. Best safety intervention?",
     "choices": {
-      "A": "Provide secured environment with ID bracelet",
-      "B": "Restrain routinely",
-      "C": "Remove all cues/signs",
-      "D": "Disable all lighting at night"
+      "A": "Disable all lighting at night",
+      "B": "Remove all cues/signs",
+      "C": "Provide secured environment with ID bracelet",
+      "D": "Restrain routinely"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Environmental safety and identification are key."
   },
   {
     "id": 109,
     "question": "ECT pre-procedure nursing action includes",
     "choices": {
-      "A": "NPO status and remove dentures",
-      "B": "Large breakfast",
+      "A": "Large breakfast",
+      "B": "NPO status and remove dentures",
       "C": "Stop all antihypertensives",
       "D": "No consent needed"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "NPO, remove appliances, obtain consent, and pre-op checks."
   },
   {
     "id": 110,
     "question": "Meningitis positive Brudzinski sign indicates",
     "choices": {
-      "A": "Meningeal irritation",
+      "A": "Myocardial ischemia",
       "B": "Liver failure",
       "C": "Renal colic",
-      "D": "Myocardial ischemia"
+      "D": "Meningeal irritation"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Nuchal rigidity and related signs indicate meningeal irritation."
   },
   {
     "id": 111,
     "question": "Carbamazepine teaching should include monitoring for",
     "choices": {
-      "A": "Agranulocytosis (report fever/sore throat)",
-      "B": "Hyponatremia only",
-      "C": "Hyperkalemia",
-      "D": "Bradycardia"
+      "A": "Bradycardia",
+      "B": "Agranulocytosis (report fever/sore throat)",
+      "C": "Hyponatremia only",
+      "D": "Hyperkalemia"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Risk of low WBCs\u2014report infection signs."
   },
   {
@@ -136,9 +136,9 @@
     "question": "Phenytoin common side effect is",
     "choices": {
       "A": "Gingival hyperplasia",
-      "B": "Constipation only",
+      "B": "Hyperreflexia",
       "C": "Hair loss severe",
-      "D": "Hyperreflexia"
+      "D": "Constipation only"
     },
     "answer": "A",
     "answer_explanation": "Teach dental hygiene to reduce gingival overgrowth."
@@ -147,48 +147,48 @@
     "id": 113,
     "question": "Alcohol withdrawal severe sign needing benzodiazepines is",
     "choices": {
-      "A": "Seizures or delirium tremens",
-      "B": "Mild tremor only",
-      "C": "Yawning",
+      "A": "Mild tremor only",
+      "B": "Yawning",
+      "C": "Seizures or delirium tremens",
       "D": "Sneezing"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Benzodiazepines treat severe withdrawal and prevent seizures/DTs."
   },
   {
     "id": 114,
     "question": "Concussion discharge instruction includes",
     "choices": {
-      "A": "Return if repeated vomiting or worsening headache",
+      "A": "Resume contact sports immediately",
       "B": "No need to return for any symptom",
-      "C": "Sleep deprivation to monitor",
-      "D": "Resume contact sports immediately"
+      "C": "Return if repeated vomiting or worsening headache",
+      "D": "Sleep deprivation to monitor"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Red flags require evaluation."
   },
   {
     "id": 115,
     "question": "Priority for a suicidal patient who has a specific plan is",
     "choices": {
-      "A": "One-to-one observation and remove hazards",
-      "B": "Give pamphlets only",
-      "C": "Minimal supervision",
-      "D": "Delay intervention"
+      "A": "Delay intervention",
+      "B": "Minimal supervision",
+      "C": "Give pamphlets only",
+      "D": "One-to-one observation and remove hazards"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Ensure safety with close observation and means restriction."
   },
   {
     "id": 116,
     "question": "Preeclampsia concerning sign is",
     "choices": {
-      "A": "Severe headache and visual changes",
-      "B": "Mild ankle edema at day\u2019s end",
-      "C": "Slight nausea in first trimester",
-      "D": "Occasional heartburn"
+      "A": "Mild ankle edema at day\u2019s end",
+      "B": "Slight nausea in first trimester",
+      "C": "Occasional heartburn",
+      "D": "Severe headache and visual changes"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Severe CNS symptoms indicate possible worsening\u2014evaluate."
   },
   {
@@ -196,9 +196,9 @@
     "question": "Placenta previa suspected. Avoid",
     "choices": {
       "A": "Vaginal exam",
-      "B": "Ultrasound",
-      "C": "Type and screen",
-      "D": "Fetal monitoring"
+      "B": "Fetal monitoring",
+      "C": "Ultrasound",
+      "D": "Type and screen"
     },
     "answer": "A",
     "answer_explanation": "Digital exams risk bleeding with previa."
@@ -207,24 +207,24 @@
     "id": 118,
     "question": "Breastfeeding engorgement relief includes",
     "choices": {
-      "A": "Frequent feeding and warm shower before feeds",
+      "A": "Tight binding to stop milk",
       "B": "Avoid feeding until pain stops",
-      "C": "Tight binding to stop milk",
-      "D": "Ice before feeds only"
+      "C": "Ice before feeds only",
+      "D": "Frequent feeding and warm shower before feeds"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Frequent emptying and warmth before, cold after can help."
   },
   {
     "id": 119,
     "question": "Umbilical cord care teaching includes",
     "choices": {
-      "A": "Keep clean and dry; fold diaper below stump",
+      "A": "Cover with tight bandage",
       "B": "Apply thick ointments",
-      "C": "Cover with tight bandage",
+      "C": "Keep clean and dry; fold diaper below stump",
       "D": "Pull off stump early"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Dry care and air exposure promote natural separation."
   },
   {
@@ -232,9 +232,9 @@
     "question": "After ROM (rupture of membranes), priority assessment is",
     "choices": {
       "A": "Fetal heart rate",
-      "B": "Maternal temperature only",
+      "B": "Fundal height",
       "C": "Maternal pulse only",
-      "D": "Fundal height"
+      "D": "Maternal temperature only"
     },
     "answer": "A",
     "answer_explanation": "Check for cord prolapse/distress via FHR first."
@@ -243,48 +243,48 @@
     "id": 121,
     "question": "Breastfeeding mother on warfarin asks if safe.",
     "choices": {
-      "A": "Warfarin is generally considered compatible; verify with provider",
-      "B": "Absolutely contraindicated always",
-      "C": "Only if infant is >6 months",
+      "A": "Only if infant is >6 months",
+      "B": "Warfarin is generally considered compatible; verify with provider",
+      "C": "Absolutely contraindicated always",
       "D": "Only with formula supplementation"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Warfarin is typically compatible with breastfeeding; confirm with prescriber."
   },
   {
     "id": 122,
     "question": "Newborn hypoglycemia sign is",
     "choices": {
-      "A": "Jitteriness and poor feeding",
-      "B": "Hypertension",
-      "C": "Bradykinesia",
-      "D": "Hyperreflexia only"
+      "A": "Hyperreflexia only",
+      "B": "Jitteriness and poor feeding",
+      "C": "Hypertension",
+      "D": "Bradykinesia"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Low glucose in newborns may present with jitteriness/apnea/poor feeding."
   },
   {
     "id": 123,
     "question": "Fundus boggy and displaced to the right postpartum suggests",
     "choices": {
-      "A": "Full bladder; encourage voiding",
+      "A": "Impending eclampsia",
       "B": "Normal finding",
       "C": "Uterine rupture",
-      "D": "Impending eclampsia"
+      "D": "Full bladder; encourage voiding"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "A distended bladder displaces the uterus; voiding helps."
   },
   {
     "id": 124,
     "question": "Breast engorgement in non-breastfeeding mother can be reduced by",
     "choices": {
-      "A": "Supportive bra, ice, avoid stimulation",
-      "B": "Frequent pumping",
-      "C": "Warm compress and massage",
-      "D": "Increasing fluids"
+      "A": "Warm compress and massage",
+      "B": "Increasing fluids",
+      "C": "Frequent pumping",
+      "D": "Supportive bra, ice, avoid stimulation"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Suppress lactation by avoiding stimulation, using support and cold packs."
   },
   {
@@ -292,9 +292,9 @@
     "question": "Neonatal abstinence syndrome care includes",
     "choices": {
       "A": "Minimize stimulation and soothe gently",
-      "B": "Loud music",
-      "C": "Bright lights",
-      "D": "Frequent awakenings"
+      "B": "Bright lights",
+      "C": "Frequent awakenings",
+      "D": "Loud music"
     },
     "answer": "A",
     "answer_explanation": "Low-stimulation environment helps reduce symptoms."

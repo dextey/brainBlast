@@ -3,12 +3,12 @@
     "id": 76,
     "question": "Asthmatic with audible wheeze becomes suddenly silent. Priority?",
     "choices": {
-      "A": "Assess airway and prepare for severe bronchospasm",
+      "A": "Offer warm tea",
       "B": "Increase activity",
-      "C": "Give cough syrup",
-      "D": "Offer warm tea"
+      "C": "Assess airway and prepare for severe bronchospasm",
+      "D": "Give cough syrup"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Silent chest indicates minimal airflow; emergency."
   },
   {
@@ -17,8 +17,8 @@
     "choices": {
       "A": "Check airway and reposition",
       "B": "Call dietary",
-      "C": "Document only",
-      "D": "Give sedative"
+      "C": "Give sedative",
+      "D": "Document only"
     },
     "answer": "A",
     "answer_explanation": "Reassess airway/breathing and position to improve ventilation."
@@ -27,12 +27,12 @@
     "id": 78,
     "question": "Burn victim with hoarseness and singed nasal hairs. Concern?",
     "choices": {
-      "A": "Airway edema/inhalation injury",
+      "A": "UTI",
       "B": "Fluid overload",
       "C": "Hypoglycemia",
-      "D": "UTI"
+      "D": "Airway edema/inhalation injury"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Indicators of inhalation injury\u2014secure airway early."
   },
   {
@@ -40,9 +40,9 @@
     "question": "Patient with trauma is pale, cool, BP 86/50. Priority IV fluid?",
     "choices": {
       "A": "Isotonic crystalloid (0.9% NS)",
-      "B": "D5W",
+      "B": "No fluids",
       "C": "Hypotonic saline",
-      "D": "No fluids"
+      "D": "D5W"
     },
     "answer": "A",
     "answer_explanation": "Resuscitate hemorrhagic shock with isotonic crystalloids initially."
@@ -51,60 +51,60 @@
     "id": 80,
     "question": "Post-extubation stridor occurs. First action?",
     "choices": {
-      "A": "Call rapid response and provide humidified oxygen",
+      "A": "Ambulate",
       "B": "Encourage deep breathing only",
       "C": "Give ice chips",
-      "D": "Ambulate"
+      "D": "Call rapid response and provide humidified oxygen"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Stridor = airway obstruction risk; emergency support."
   },
   {
     "id": 81,
     "question": "Anxiety attack: hyperventilating. First nursing action?",
     "choices": {
-      "A": "Coach slow, controlled breathing",
-      "B": "Give high-dose benzodiazepine immediately",
-      "C": "Restrict fluids",
-      "D": "Apply warm packs"
+      "A": "Restrict fluids",
+      "B": "Apply warm packs",
+      "C": "Coach slow, controlled breathing",
+      "D": "Give high-dose benzodiazepine immediately"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Non-pharmacologic breathing control first for hyperventilation."
   },
   {
     "id": 82,
     "question": "Sepsis patient with lactate 5 mmol/L and hypotension. Priority?",
     "choices": {
-      "A": "Rapid fluid resuscitation",
-      "B": "Oral antibiotics",
-      "C": "Ambulate",
-      "D": "Reduce fluids"
+      "A": "Ambulate",
+      "B": "Reduce fluids",
+      "C": "Rapid fluid resuscitation",
+      "D": "Oral antibiotics"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "High lactate and hypotension require fluids per sepsis bundle."
   },
   {
     "id": 83,
     "question": "Patient post-angiography reports back pain and hypotension. Suspect?",
     "choices": {
-      "A": "Retroperitoneal bleed",
-      "B": "UTI",
-      "C": "Dehydration only",
-      "D": "Appendicitis"
+      "A": "Dehydration only",
+      "B": "Appendicitis",
+      "C": "Retroperitoneal bleed",
+      "D": "UTI"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Bleeding complication can present with back pain, hypotension."
   },
   {
     "id": 84,
     "question": "Trauma patient with tracheal deviation and absent breath sounds on left. Suspect?",
     "choices": {
-      "A": "Tension pneumothorax",
-      "B": "Atelectasis",
-      "C": "Pleural effusion only",
-      "D": "Asthma"
+      "A": "Asthma",
+      "B": "Pleural effusion only",
+      "C": "Tension pneumothorax",
+      "D": "Atelectasis"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Classic tension pneumothorax\u2014emergency decompression needed."
   },
   {
@@ -112,9 +112,9 @@
     "question": "Patient with DKA Kussmaul respirations. Purpose of breathing pattern?",
     "choices": {
       "A": "Compensate metabolic acidosis by blowing off CO2",
-      "B": "Increase oxygen stores",
-      "C": "Prevent atelectasis",
-      "D": "Reduce intracranial pressure"
+      "B": "Reduce intracranial pressure",
+      "C": "Increase oxygen stores",
+      "D": "Prevent atelectasis"
     },
     "answer": "A",
     "answer_explanation": "Hyperventilation reduces CO2 to compensate acidosis."
@@ -123,12 +123,12 @@
     "id": 86,
     "question": "Before first dose of IV vancomycin, best baseline test?",
     "choices": {
-      "A": "Serum creatinine/BUN",
-      "B": "Liver ultrasound",
-      "C": "ECG",
-      "D": "Chest X-ray"
+      "A": "Chest X-ray",
+      "B": "Serum creatinine/BUN",
+      "C": "Liver ultrasound",
+      "D": "ECG"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Nephrotoxicity risk\u2014monitor renal function."
   },
   {
@@ -136,9 +136,9 @@
     "question": "C. difficile patient requests alcohol hand rub. Nurse should",
     "choices": {
       "A": "Instruct to use soap and water",
-      "B": "Provide alcohol rub",
+      "B": "Use only sanitizer wipes",
       "C": "Skip hand hygiene with gloves",
-      "D": "Use only sanitizer wipes"
+      "D": "Provide alcohol rub"
     },
     "answer": "A",
     "answer_explanation": "Soap and water required for spores."
@@ -147,24 +147,24 @@
     "id": 88,
     "question": "MRSA wound care: appropriate PPE?",
     "choices": {
-      "A": "Gloves and gown (contact precautions)",
-      "B": "N95 only",
-      "C": "No PPE if wound covered",
-      "D": "Surgical cap only"
+      "A": "Surgical cap only",
+      "B": "No PPE if wound covered",
+      "C": "Gloves and gown (contact precautions)",
+      "D": "N95 only"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "MRSA requires contact precautions."
   },
   {
     "id": 89,
     "question": "Tick bite with bull\u2019s-eye rash likely needs",
     "choices": {
-      "A": "Doxycycline as prescribed",
-      "B": "Aspirin only",
-      "C": "No treatment",
-      "D": "High-dose steroids only"
+      "A": "High-dose steroids only",
+      "B": "No treatment",
+      "C": "Doxycycline as prescribed",
+      "D": "Aspirin only"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Erythema migrans suggests Lyme disease\u2014doxycycline commonly used."
   },
   {
@@ -173,8 +173,8 @@
     "choices": {
       "A": "Strict sterile technique",
       "B": "Clean technique",
-      "C": "No gloves",
-      "D": "Reusable equipment"
+      "C": "Reusable equipment",
+      "D": "No gloves"
     },
     "answer": "A",
     "answer_explanation": "Sterility is critical for catheter insertion."
@@ -183,12 +183,12 @@
     "id": 91,
     "question": "Antibiotic stewardship includes",
     "choices": {
-      "A": "Obtaining cultures before antibiotics when possible",
+      "A": "Stopping antibiotics early without reason",
       "B": "Starting broad antibiotics without cultures",
-      "C": "Stopping antibiotics early without reason",
+      "C": "Obtaining cultures before antibiotics when possible",
       "D": "Ignoring local resistance patterns"
     },
-    "answer": "A",
+    "answer": "C",
     "answer_explanation": "Cultures first helps target therapy."
   },
   {
@@ -196,9 +196,9 @@
     "question": "Patient on isoniazid should be taught to report",
     "choices": {
       "A": "Tingling/numbness in extremities",
-      "B": "Mild drowsiness only",
-      "C": "Brown urine",
-      "D": "Weight gain"
+      "B": "Weight gain",
+      "C": "Mild drowsiness only",
+      "D": "Brown urine"
     },
     "answer": "A",
     "answer_explanation": "INH can cause peripheral neuropathy\u2014pyridoxine helps prevent."
@@ -207,48 +207,48 @@
     "id": 93,
     "question": "Rifampin common harmless effect is",
     "choices": {
-      "A": "Orange discoloration of body fluids",
-      "B": "Severe neutropenia always",
-      "C": "Hair loss",
-      "D": "Green stools"
+      "A": "Green stools",
+      "B": "Orange discoloration of body fluids",
+      "C": "Severe neutropenia always",
+      "D": "Hair loss"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Warn about orange/red urine/tears\u2014harmless but expected."
   },
   {
     "id": 94,
     "question": "Pneumonia sputum collection best time is",
     "choices": {
-      "A": "Before antibiotics, early morning",
-      "B": "After meals",
-      "C": "Before bedtime",
-      "D": "Any time after antibiotics"
+      "A": "Any time after antibiotics",
+      "B": "Before antibiotics, early morning",
+      "C": "After meals",
+      "D": "Before bedtime"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Early morning deep cough sample before antibiotics increases yield."
   },
   {
     "id": 95,
     "question": "Neutropenic precautions include",
     "choices": {
-      "A": "Avoiding fresh flowers/raw foods",
-      "B": "Encouraging crowded gatherings",
-      "C": "Skipping hand hygiene",
-      "D": "Roommates with infections"
+      "A": "Encouraging crowded gatherings",
+      "B": "Avoiding fresh flowers/raw foods",
+      "C": "Roommates with infections",
+      "D": "Skipping hand hygiene"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Reduce infection exposure in neutropenia."
   },
   {
     "id": 96,
     "question": "Enteral tube feeding residual is high. First action?",
     "choices": {
-      "A": "Hold feeding and notify provider per protocol",
-      "B": "Increase rate",
-      "C": "Add free water",
-      "D": "Stop all meds"
+      "A": "Add free water",
+      "B": "Stop all meds",
+      "C": "Increase rate",
+      "D": "Hold feeding and notify provider per protocol"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "High residuals risk aspiration; hold and reassess per protocol."
   },
   {
@@ -256,8 +256,8 @@
     "question": "Clear liquid diet includes",
     "choices": {
       "A": "Broth and apple juice",
-      "B": "Milkshake",
-      "C": "Pureed vegetables",
+      "B": "Pureed vegetables",
+      "C": "Milkshake",
       "D": "Scrambled eggs"
     },
     "answer": "A",
@@ -269,8 +269,8 @@
     "choices": {
       "A": "NPO, NG suction if severe, analgesia",
       "B": "High-fat diet",
-      "C": "Early ambulation only",
-      "D": "Restrict fluids severely"
+      "C": "Restrict fluids severely",
+      "D": "Early ambulation only"
     },
     "answer": "A",
     "answer_explanation": "Rest pancreas (NPO), manage pain, fluids, NG if needed."
@@ -279,24 +279,24 @@
     "id": 99,
     "question": "Liver cirrhosis with ascites: dietary teaching?",
     "choices": {
-      "A": "Sodium restriction as prescribed",
-      "B": "High sodium to replace losses",
+      "A": "High sodium to replace losses",
+      "B": "Unlimited fluids",
       "C": "No protein ever",
-      "D": "Unlimited fluids"
+      "D": "Sodium restriction as prescribed"
     },
-    "answer": "A",
+    "answer": "D",
     "answer_explanation": "Sodium restriction helps control ascites."
   },
   {
     "id": 100,
     "question": "Patient with celiac disease should avoid",
     "choices": {
-      "A": "Wheat, barley, rye",
-      "B": "Rice and corn",
-      "C": "Quinoa and potatoes",
-      "D": "Fruits"
+      "A": "Quinoa and potatoes",
+      "B": "Wheat, barley, rye",
+      "C": "Fruits",
+      "D": "Rice and corn"
     },
-    "answer": "A",
+    "answer": "B",
     "answer_explanation": "Gluten is in wheat, barley, rye."
   }
 ]

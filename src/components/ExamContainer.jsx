@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import QuestionCard from "./QuestionCard";
 import Navigation from "./Navigation";
 import Timer from "./Timer";
-import questionBatches from "../questions";
+import { questionBatches } from "../questions";
 
 export default function ExamContainer({ batchNum, onExit }) {
   const questions = questionBatches[batchNum];
