@@ -38,26 +38,16 @@
   {
     "id": 129,
     "question": "The doctor orders 80 mg furosemide IV. Available: 20 mg/2 mL. How many mL should the nurse draw?",
-    "choices": {
-      "A": "4 mL",
-      "B": "6 mL",
-      "C": "8 mL",
-      "D": "10 mL"
-    },
+    "choices": { "A": "4 mL", "B": "6 mL", "C": "8 mL", "D": "10 mL" },
     "answer": "C",
-    "answer_explanation": "80 ÷ 20 = 4 doses × 2 mL = 8 mL."
+    "answer_explanation": "80 ÷ 20 = 4 doses; 4 × 2 mL = 8 mL."
   },
   {
     "id": 130,
     "question": "A child weighs 20 kg. Ordered: ceftriaxone 50 mg/kg/day IV in two divided doses. How many mg per dose?",
-    "choices": {
-      "A": "250 mg",
-      "B": "400 mg",
-      "C": "500 mg",
-      "D": "600 mg"
-    },
+    "choices": { "A": "250 mg", "B": "400 mg", "C": "500 mg", "D": "600 mg" },
     "answer": "C",
-    "answer_explanation": "50 × 20 = 1000 mg/day ÷ 2 = 500 mg per dose."
+    "answer_explanation": "50 × 20 = 1000 mg/day; ÷2 = 500 mg per dose."
   },
   {
     "id": 131,
@@ -81,31 +71,21 @@
       "D": "60 gtt/min"
     },
     "answer": "C",
-    "answer_explanation": "1000 × 20 ÷ (6 × 60) = 56 gtt/min."
+    "answer_explanation": "1000 × 20 ÷ (6 × 60) = 55.6 ≈ 56 gtt/min."
   },
   {
     "id": 133,
     "question": "Order: 500 mg vancomycin IV. Available: 250 mg/5 mL. Volume needed?",
-    "choices": {
-      "A": "5 mL",
-      "B": "8 mL",
-      "C": "10 mL",
-      "D": "12 mL"
-    },
+    "choices": { "A": "5 mL", "B": "8 mL", "C": "10 mL", "D": "12 mL" },
     "answer": "C",
-    "answer_explanation": "500 ÷ 250 = 2 × 5 mL = 10 mL."
+    "answer_explanation": "500 ÷ 250 = 2; 2 × 5 mL = 10 mL."
   },
   {
     "id": 134,
     "question": "Child weighs 12 kg. Ordered: paracetamol 15 mg/kg. Available: 120 mg/5 mL. Volume needed?",
-    "choices": {
-      "A": "5 mL",
-      "B": "7.5 mL",
-      "C": "10 mL",
-      "D": "15 mL"
-    },
+    "choices": { "A": "5 mL", "B": "7.5 mL", "C": "10 mL", "D": "15 mL" },
     "answer": "B",
-    "answer_explanation": "15 × 12 = 180 mg. 180 ÷ 120 × 5 = 7.5 mL."
+    "answer_explanation": "15 × 12 = 180 mg; 180 ÷ 120 × 5 = 7.5 mL."
   },
   {
     "id": 135,
@@ -129,29 +109,19 @@
       "D": "30 mL/hr"
     },
     "answer": "C",
-    "answer_explanation": "(10 × 70 × 60) ÷ 1600 = 26 mL/hr."
+    "answer_explanation": "Solution = 1600 mcg/mL. (10 × 70 × 60) ÷ 1600 ≈ 26 mL/hr."
   },
   {
     "id": 137,
     "question": "Order: Heparin 5000 units SC q12h. Vial: 10,000 units/mL. How many mL per dose?",
-    "choices": {
-      "A": "0.25 mL",
-      "B": "0.5 mL",
-      "C": "1 mL",
-      "D": "2 mL"
-    },
+    "choices": { "A": "0.25 mL", "B": "0.5 mL", "C": "1 mL", "D": "2 mL" },
     "answer": "B",
     "answer_explanation": "5000 ÷ 10000 = 0.5 mL."
   },
   {
     "id": 138,
     "question": "Order: Gentamicin 80 mg IM. Vial: 40 mg/mL. Volume per dose?",
-    "choices": {
-      "A": "1 mL",
-      "B": "1.5 mL",
-      "C": "2 mL",
-      "D": "2.5 mL"
-    },
+    "choices": { "A": "1 mL", "B": "1.5 mL", "C": "2 mL", "D": "2.5 mL" },
     "answer": "C",
     "answer_explanation": "80 ÷ 40 = 2 mL."
   },
@@ -176,20 +146,15 @@
       "C": "120 mL/hr",
       "D": "125 mL/hr"
     },
-    "answer": "A",
-    "answer_explanation": "500 ÷ 4 = 125 mL/hr."
+    "answer": "D",
+    "answer_explanation": "500 mL ÷ 4 h = 125 mL/hr."
   },
   {
     "id": 141,
     "question": "Child weighs 18 kg. Ordered: amoxicillin 40 mg/kg/day in two doses. How many mg per dose?",
-    "choices": {
-      "A": "300 mg",
-      "B": "320 mg",
-      "C": "360 mg",
-      "D": "400 mg"
-    },
+    "choices": { "A": "300 mg", "B": "320 mg", "C": "360 mg", "D": "400 mg" },
     "answer": "C",
-    "answer_explanation": "40 × 18 = 720 mg/day ÷ 2 = 360 mg per dose."
+    "answer_explanation": "40 × 18 = 720 mg/day; ÷2 = 360 mg per dose."
   },
   {
     "id": 142,
@@ -224,20 +189,15 @@
       "C": "32 gtt/min",
       "D": "34 gtt/min"
     },
-    "answer": "C",
-    "answer_explanation": "1000 × 20 ÷ (10 × 60) = 33.3 ≈ 32 gtt/min."
+    "answer": "D",
+    "answer_explanation": "(1000 × 20) ÷ (10 × 60) = 33.3 gtt/min; nearest option is 34 gtt/min."
   },
   {
     "id": 145,
     "question": "Child weighs 25 kg. Ordered: cefuroxime 30 mg/kg/day in three doses. How many mg per dose?",
-    "choices": {
-      "A": "200 mg",
-      "B": "220 mg",
-      "C": "240 mg",
-      "D": "250 mg"
-    },
-    "answer": "C",
-    "answer_explanation": "30 × 25 = 750 mg/day ÷ 3 = 250 mg per dose."
+    "choices": { "A": "200 mg", "B": "220 mg", "C": "240 mg", "D": "250 mg" },
+    "answer": "D",
+    "answer_explanation": "30 × 25 = 750 mg/day; ÷3 = 250 mg per dose."
   },
   {
     "id": 146,
@@ -273,7 +233,7 @@
       "D": "28 mL/hr"
     },
     "answer": "B",
-    "answer_explanation": "(5 × 60 × 60) ÷ 800 = 22 mL/hr."
+    "answer_explanation": "Solution = 800 mcg/mL. (5 × 60 × 60) ÷ 800 = 22.5 mL/hr; nearest option is 22 mL/hr."
   },
   {
     "id": 149,
@@ -290,13 +250,8 @@
   {
     "id": 150,
     "question": "Child weighs 30 kg. Ordered: gentamicin 5 mg/kg/day IV in three divided doses. How many mg per dose?",
-    "choices": {
-      "A": "40 mg",
-      "B": "45 mg",
-      "C": "50 mg",
-      "D": "55 mg"
-    },
+    "choices": { "A": "40 mg", "B": "45 mg", "C": "50 mg", "D": "55 mg" },
     "answer": "C",
-    "answer_explanation": "5 × 30 = 150 mg/day ÷ 3 = 50 mg per dose."
+    "answer_explanation": "5 × 30 = 150 mg/day; ÷3 = 50 mg per dose."
   }
 ]
