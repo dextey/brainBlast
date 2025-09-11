@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "What is the first action when a patient\u2019s IV infusion pump alarms 'occlusion'?",
+    "choices": {
+      "A": "Check for kinks and straighten the tubing",
+      "B": "Increase the pump pressure setting",
+      "C": "Stop the infusion and remove the cannula",
+      "D": "Flush with 10 mL saline immediately"
+    },
+    "answer": "A",
+    "answer_explanation": "Always assess simple mechanical causes (kinks/position) before invasive actions."
+  },
+  {
+    "id": 2,
+    "question": "Which is the safest patient identifier before medication administration?",
+    "choices": {
+      "A": "Ask the patient to state their name and DOB",
+      "B": "Room number and bed label",
+      "C": "Facial recognition by staff",
+      "D": "Nursing handover sheet"
+    },
+    "answer": "A",
+    "answer_explanation": "Use two identifiers: name and date of birth (or ID band), not room or visual recognition."
+  },
+  {
+    "id": 3,
+    "question": "Best method to confirm NG tube placement prior to first feeding?",
+    "choices": {
+      "A": "X-ray verification",
+      "B": "Auscultation with air bolus",
+      "C": "Observation of gastric aspirate color",
+      "D": "Asking the patient if it feels in the stomach"
+    },
+    "answer": "A",
+    "answer_explanation": "Radiographic confirmation is the gold standard before first use of an NG tube."
+  },
+  {
+    "id": 4,
+    "question": "Which position reduces risk of aspiration during enteral feeding?",
+    "choices": {
+      "A": "Semi-Fowler\u2019s (30\u201345\u00b0)",
+      "B": "Supine (0\u00b0)",
+      "C": "Trendelenburg",
+      "D": "High Fowler\u2019s (80\u201390\u00b0)"
+    },
+    "answer": "A",
+    "answer_explanation": "Head-of-bed elevation 30\u201345\u00b0 reduces aspiration risk in tube feeding."
+  },
+  {
+    "id": 5,
+    "question": "Most appropriate initial response to a client reporting new chest pain on the ward?",
+    "choices": {
+      "A": "Stop activity and assess ABCs",
+      "B": "Give water and observe",
+      "C": "Call family for reassurance",
+      "D": "Document and continue routine care"
+    },
+    "answer": "A",
+    "answer_explanation": "Immediate assessment with airway-breathing-circulation and activity cessation is priority."
+  },
+  {
+    "id": 6,
+    "question": "Best practice to prevent catheter-associated UTI (CAUTI)?",
+    "choices": {
+      "A": "Remove catheter as soon as clinically possible",
+      "B": "Irrigate routinely with saline",
+      "C": "Change catheter every day",
+      "D": "Keep bag above bladder level"
+    },
+    "answer": "A",
+    "answer_explanation": "Early removal and strict asepsis reduce CAUTI; bag must remain below bladder level."
+  },
+  {
+    "id": 7,
+    "question": "Correct sequence for removing PPE (doffing) after contact isolation?",
+    "choices": {
+      "A": "Gloves \u2192 Gown \u2192 Hand hygiene \u2192 Exit",
+      "B": "Gown \u2192 Gloves \u2192 Exit \u2192 Hand hygiene",
+      "C": "Gloves \u2192 Mask \u2192 Gown \u2192 Hand hygiene",
+      "D": "Mask \u2192 Gloves \u2192 Gown \u2192 Hand hygiene"
+    },
+    "answer": "A",
+    "answer_explanation": "Remove most contaminated items first: gloves, then gown, then hand hygiene."
+  },
+  {
+    "id": 8,
+    "question": "Which action prevents pressure injuries in a bedbound patient?",
+    "choices": {
+      "A": "Reposition at least every 2 hours",
+      "B": "Massage reddened bony areas",
+      "C": "Place donut-type cushions",
+      "D": "Restrict fluids to reduce edema"
+    },
+    "answer": "A",
+    "answer_explanation": "Frequent repositioning is key; avoid massaging reddened areas and donut devices."
+  },
+  {
+    "id": 9,
+    "question": "The safest way to transfer a weak patient from bed to chair is to",
+    "choices": {
+      "A": "Use a gait belt and assist with proper body mechanics",
+      "B": "Pull by arms into a sitting position",
+      "C": "Have them hold the IV pole for support",
+      "D": "Lift under the axillae quickly"
+    },
+    "answer": "A",
+    "answer_explanation": "Gait belts and proper mechanics reduce fall and injury risk."
+  },
+  {
+    "id": 10,
+    "question": "What color container is appropriate for disposing used needles?",
+    "choices": {
+      "A": "Puncture-resistant sharps container",
+      "B": "Regular trash bin with liner",
+      "C": "Biohazard bag only",
+      "D": "Recycling bin"
+    },
+    "answer": "A",
+    "answer_explanation": "Sharps must be discarded in puncture-resistant, leak-proof sharps containers."
+  },
+  {
+    "id": 11,
+    "question": "Which patient should the nurse see first?",
+    "choices": {
+      "A": "New onset confusion with SpO2 88%",
+      "B": "Fever 38.2\u00b0C requesting antipyretic",
+      "C": "Blood pressure 148/92 without symptoms",
+      "D": "Fasting blood glucose 6.8 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Airway/breathing issues and hypoxia take priority (ABCs)."
+  },
+  {
+    "id": 12,
+    "question": "Normal adult respiratory rate is",
+    "choices": {
+      "A": "12\u201320 breaths per minute",
+      "B": "6\u201310 breaths per minute",
+      "C": "20\u201328 breaths per minute",
+      "D": "28\u201336 breaths per minute"
+    },
+    "answer": "A",
+    "answer_explanation": "Typical normal adult RR is 12\u201320/min."
+  },
+  {
+    "id": 13,
+    "question": "Which finding is most concerning in a post-op patient?",
+    "choices": {
+      "A": "Urine output 15 mL/hr",
+      "B": "Mild incisional pain",
+      "C": "Oral temp 37.5\u00b0C",
+      "D": "Blood glucose 7.2 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Oliguria suggests poor perfusion or renal impairment; investigate promptly."
+  },
+  {
+    "id": 14,
+    "question": "When a patient feels dizzy during ambulation, the nurse should first",
+    "choices": {
+      "A": "Assist to sit down safely",
+      "B": "Increase ambulation speed",
+      "C": "Offer water and continue",
+      "D": "Call security"
+    },
+    "answer": "A",
+    "answer_explanation": "Prevent a fall by safely seating the patient immediately."
+  },
+  {
+    "id": 15,
+    "question": "Which oxygen delivery method provides the highest FiO2?",
+    "choices": {
+      "A": "Non-rebreather mask",
+      "B": "Nasal cannula",
+      "C": "Simple face mask",
+      "D": "Venturi mask"
+    },
+    "answer": "A",
+    "answer_explanation": "A non-rebreather can deliver high FiO2 (up to ~95%) short-term."
+  },
+  {
+    "id": 16,
+    "question": "Appropriate isolation for pulmonary tuberculosis (active)?",
+    "choices": {
+      "A": "Airborne precautions",
+      "B": "Droplet precautions",
+      "C": "Contact precautions",
+      "D": "Standard precautions only"
+    },
+    "answer": "A",
+    "answer_explanation": "TB requires airborne isolation (N95 respirator, negative-pressure room)."
+  },
+  {
+    "id": 17,
+    "question": "Which disease needs droplet precautions?",
+    "choices": {
+      "A": "Influenza",
+      "B": "C. difficile",
+      "C": "Varicella (chickenpox)",
+      "D": "Scabies"
+    },
+    "answer": "A",
+    "answer_explanation": "Influenza spreads by droplets; C. diff is contact; varicella is airborne/contact; scabies is contact."
+  },
+  {
+    "id": 18,
+    "question": "Hand hygiene for C. difficile contact should be",
+    "choices": {
+      "A": "Soap and water",
+      "B": "Alcohol-based rub only",
+      "C": "Gloves only; hand hygiene not needed",
+      "D": "Antibiotic prophylaxis"
+    },
+    "answer": "A",
+    "answer_explanation": "Spores are not reliably killed by alcohol rub; wash with soap and water."
+  },
+  {
+    "id": 19,
+    "question": "Which order is correct for donning PPE for airborne isolation?",
+    "choices": {
+      "A": "Hand hygiene \u2192 Gown \u2192 N95 \u2192 Goggles/face shield \u2192 Gloves",
+      "B": "Hand hygiene \u2192 Gloves \u2192 Gown \u2192 N95",
+      "C": "Gown \u2192 Gloves \u2192 Hand hygiene \u2192 N95",
+      "D": "N95 \u2192 Gown \u2192 Hand hygiene \u2192 Gloves"
+    },
+    "answer": "A",
+    "answer_explanation": "Perform hand hygiene first, then gown, respirator, eye protection, gloves."
+  },
+  {
+    "id": 20,
+    "question": "Normal adult serum sodium (Na+) range is",
+    "choices": {
+      "A": "135\u2013145 mmol/L",
+      "B": "120\u2013130 mmol/L",
+      "C": "146\u2013160 mmol/L",
+      "D": "100\u2013115 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal Na+ is 135\u2013145 mmol/L."
+  },
+  {
+    "id": 21,
+    "question": "Normal serum potassium (K+) range is",
+    "choices": {
+      "A": "3.5\u20135.0 mmol/L",
+      "B": "2.5\u20133.0 mmol/L",
+      "C": "5.5\u20136.5 mmol/L",
+      "D": "1.5\u20132.0 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal K+ is 3.5\u20135.0 mmol/L."
+  },
+  {
+    "id": 22,
+    "question": "Normal fasting blood glucose (adult) is approximately",
+    "choices": {
+      "A": "70\u2013100 mg/dL (3.9\u20135.6 mmol/L)",
+      "B": "40\u201360 mg/dL (2.2\u20133.3 mmol/L)",
+      "C": "120\u2013160 mg/dL (6.7\u20138.9 mmol/L)",
+      "D": "180\u2013220 mg/dL (10\u201312.2 mmol/L)"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal fasting glucose ~70\u2013100 mg/dL (3.9\u20135.6 mmol/L)."
+  },
+  {
+    "id": 23,
+    "question": "Normal adult hemoglobin (female) is approximately",
+    "choices": {
+      "A": "12\u201316 g/dL",
+      "B": "7\u20139 g/dL",
+      "C": "17\u201320 g/dL",
+      "D": "9\u201311 g/dL"
+    },
+    "answer": "A",
+    "answer_explanation": "Typical adult female Hgb ~12\u201316 g/dL."
+  },
+  {
+    "id": 24,
+    "question": "Normal adult WBC count is about",
+    "choices": {
+      "A": "4,000\u201311,000 /\u00b5L",
+      "B": "500\u20131,500 /\u00b5L",
+      "C": "15,000\u201325,000 /\u00b5L",
+      "D": "30,000\u201340,000 /\u00b5L"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal WBC ~4\u201311 x10^3/\u00b5L."
+  },
+  {
+    "id": 25,
+    "question": "Therapeutic INR for most patients on warfarin is",
+    "choices": {
+      "A": "2.0\u20133.0",
+      "B": "0.8\u20131.1",
+      "C": "3.5\u20135.0",
+      "D": ">5.5"
+    },
+    "answer": "A",
+    "answer_explanation": "Standard therapeutic INR is 2\u20133 for most indications."
+  }
+]

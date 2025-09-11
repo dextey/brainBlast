@@ -1,0 +1,302 @@
+[
+  {
+    "id": 51,
+    "question": "Which sign is most concerning in a patient with head injury?",
+    "choices": {
+      "A": "Unequal pupils",
+      "B": "Headache relieved by rest",
+      "C": "Small scalp abrasion",
+      "D": "Mild dizziness"
+    },
+    "answer": "A",
+    "answer_explanation": "Unequal pupils indicate increased intracranial pressure or possible brain herniation."
+  },
+  {
+    "id": 52,
+    "question": "Which post-operative finding requires urgent intervention?",
+    "choices": {
+      "A": "Urine output 10 mL/hr",
+      "B": "Blood glucose 8 mmol/L",
+      "C": "BP 130/80 mmHg",
+      "D": "Pulse 92/min"
+    },
+    "answer": "A",
+    "answer_explanation": "Urine output <0.5 mL/kg/hr indicates poor renal perfusion and possible shock."
+  },
+  {
+    "id": 53,
+    "question": "Which electrolyte imbalance can cause peaked T waves on ECG?",
+    "choices": {
+      "A": "Hyperkalemia",
+      "B": "Hypokalemia",
+      "C": "Hyponatremia",
+      "D": "Hypercalcemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Hyperkalemia is associated with tall, peaked T waves on ECG."
+  },
+  {
+    "id": 54,
+    "question": "Which patient should be placed in airborne isolation?",
+    "choices": {
+      "A": "Varicella (chickenpox)",
+      "B": "Influenza",
+      "C": "MRSA wound infection",
+      "D": "C. difficile diarrhea"
+    },
+    "answer": "A",
+    "answer_explanation": "Varicella spreads by airborne route and requires airborne precautions."
+  },
+  {
+    "id": 55,
+    "question": "What is the nurse’s first action for a patient experiencing anaphylaxis after penicillin injection?",
+    "choices": {
+      "A": "Stop drug and maintain airway",
+      "B": "Offer fluids orally",
+      "C": "Reassure the family",
+      "D": "Document and observe"
+    },
+    "answer": "A",
+    "answer_explanation": "Stop the causative agent and manage airway, breathing, and circulation immediately."
+  },
+  {
+    "id": 56,
+    "question": "Which vital sign pattern suggests sepsis?",
+    "choices": {
+      "A": "Fever, tachycardia, hypotension",
+      "B": "Hypothermia, bradycardia, hypertension",
+      "C": "Afebrile, tachypnea, normal BP",
+      "D": "Normal vitals"
+    },
+    "answer": "A",
+    "answer_explanation": "Sepsis often presents with fever, tachycardia, and low blood pressure."
+  },
+  {
+    "id": 57,
+    "question": "Which symptom is a hallmark of hypoglycemia?",
+    "choices": {
+      "A": "Sweating and tremors",
+      "B": "Polyuria",
+      "C": "Slow wound healing",
+      "D": "Weight gain"
+    },
+    "answer": "A",
+    "answer_explanation": "Hypoglycemia causes adrenergic symptoms such as sweating, tremors, and palpitations."
+  },
+  {
+    "id": 58,
+    "question": "Which lab finding confirms hyponatremia?",
+    "choices": {
+      "A": "Serum sodium 125 mmol/L",
+      "B": "Serum sodium 140 mmol/L",
+      "C": "Serum sodium 145 mmol/L",
+      "D": "Serum sodium 150 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal sodium is 135–145 mmol/L. A level of 125 indicates hyponatremia."
+  },
+  {
+    "id": 59,
+    "question": "Which nursing action is correct during a tonic-clonic seizure?",
+    "choices": {
+      "A": "Protect airway and prevent injury",
+      "B": "Restrain the patient",
+      "C": "Insert a tongue blade",
+      "D": "Give oral fluids"
+    },
+    "answer": "A",
+    "answer_explanation": "Safety and airway protection are priority; never restrain or insert objects into the mouth."
+  },
+  {
+    "id": 60,
+    "question": "Which patient statement indicates correct understanding of digoxin therapy?",
+    "choices": {
+      "A": "I will check my pulse before each dose",
+      "B": "I can double the dose if I miss one",
+      "C": "I should stop the drug if I feel well",
+      "D": "I should take with antacids daily"
+    },
+    "answer": "A",
+    "answer_explanation": "Patients on digoxin must check their apical pulse and report bradycardia or irregularities."
+  },
+  {
+    "id": 61,
+    "question": "Which electrolyte imbalance is likely with prolonged diarrhea?",
+    "choices": {
+      "A": "Hypokalemia",
+      "B": "Hyperkalemia",
+      "C": "Hypernatremia",
+      "D": "Hypercalcemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Diarrhea causes significant potassium loss, leading to hypokalemia."
+  },
+  {
+    "id": 62,
+    "question": "Which patient should be assigned to a private negative-pressure room?",
+    "choices": {
+      "A": "Patient with measles",
+      "B": "Patient with influenza",
+      "C": "Patient with MRSA",
+      "D": "Patient with hepatitis B"
+    },
+    "answer": "A",
+    "answer_explanation": "Measles is airborne and requires a negative-pressure room and N95 mask."
+  },
+  {
+    "id": 63,
+    "question": "Which condition requires neutropenic precautions?",
+    "choices": {
+      "A": "WBC 1,000/µL",
+      "B": "Hb 14 g/dL",
+      "C": "Platelets 200,000/µL",
+      "D": "Potassium 4.0 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Neutropenia is defined as WBC <1,500/µL; requires protective isolation."
+  },
+  {
+    "id": 64,
+    "question": "Which assessment is essential before giving furosemide?",
+    "choices": {
+      "A": "Serum potassium level",
+      "B": "Blood glucose level",
+      "C": "Liver enzymes",
+      "D": "Temperature"
+    },
+    "answer": "A",
+    "answer_explanation": "Loop diuretics may cause hypokalemia; potassium should be checked."
+  },
+  {
+    "id": 65,
+    "question": "Which vital sign change is an early indicator of hypovolemic shock?",
+    "choices": {
+      "A": "Tachycardia",
+      "B": "Hypotension",
+      "C": "Bradycardia",
+      "D": "Hypothermia"
+    },
+    "answer": "A",
+    "answer_explanation": "Tachycardia is often the first compensatory mechanism in hypovolemic shock."
+  },
+  {
+    "id": 66,
+    "question": "Which patient statement indicates correct understanding of insulin therapy?",
+    "choices": {
+      "A": "I will rotate injection sites",
+      "B": "I can inject insulin into muscle",
+      "C": "I can skip doses if I feel well",
+      "D": "I can reuse needles without cleaning"
+    },
+    "answer": "A",
+    "answer_explanation": "Rotating injection sites prevents lipodystrophy and ensures proper absorption."
+  },
+  {
+    "id": 67,
+    "question": "Which lab finding suggests renal failure?",
+    "choices": {
+      "A": "Elevated serum creatinine",
+      "B": "Normal BUN",
+      "C": "Normal potassium",
+      "D": "Low phosphorus"
+    },
+    "answer": "A",
+    "answer_explanation": "Renal failure is indicated by high creatinine, BUN, hyperkalemia, and hyperphosphatemia."
+  },
+  {
+    "id": 68,
+    "question": "Which is the priority nursing intervention for a patient with suspected stroke?",
+    "choices": {
+      "A": "Arrange immediate CT scan",
+      "B": "Give aspirin immediately",
+      "C": "Offer oral fluids",
+      "D": "Monitor for 24 hours"
+    },
+    "answer": "A",
+    "answer_explanation": "CT scan is required urgently to differentiate ischemic vs hemorrhagic stroke."
+  },
+  {
+    "id": 69,
+    "question": "Which assessment finding indicates fluid overload?",
+    "choices": {
+      "A": "Crackles in lungs",
+      "B": "Dry mucous membranes",
+      "C": "Orthostatic hypotension",
+      "D": "Poor skin turgor"
+    },
+    "answer": "A",
+    "answer_explanation": "Crackles suggest pulmonary edema due to fluid overload."
+  },
+  {
+    "id": 70,
+    "question": "Which is the priority nursing action for a patient with evisceration of abdominal wound?",
+    "choices": {
+      "A": "Cover with sterile saline-soaked gauze",
+      "B": "Push organs back and tape",
+      "C": "Apply dry dressing and ambulate",
+      "D": "Give oral analgesics only"
+    },
+    "answer": "A",
+    "answer_explanation": "Cover organs with sterile saline-soaked gauze and prepare for surgery."
+  },
+  {
+    "id": 71,
+    "question": "Which condition requires contact isolation?",
+    "choices": {
+      "A": "Scabies",
+      "B": "Measles",
+      "C": "Influenza",
+      "D": "TB"
+    },
+    "answer": "A",
+    "answer_explanation": "Scabies is spread by skin-to-skin contact and requires contact precautions."
+  },
+  {
+    "id": 72,
+    "question": "Which lab value indicates anemia?",
+    "choices": {
+      "A": "Hemoglobin 8 g/dL",
+      "B": "Hemoglobin 12 g/dL",
+      "C": "Hemoglobin 14 g/dL",
+      "D": "Hemoglobin 16 g/dL"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal hemoglobin: female 12–16 g/dL, male 13–17 g/dL. A value of 8 indicates anemia."
+  },
+  {
+    "id": 73,
+    "question": "Which is the best nursing intervention for a patient with pulmonary edema?",
+    "choices": {
+      "A": "Place in high Fowler’s position and give oxygen",
+      "B": "Encourage oral fluids",
+      "C": "Keep patient supine",
+      "D": "Restrict oxygen"
+    },
+    "answer": "A",
+    "answer_explanation": "High Fowler’s position improves ventilation; oxygen helps relieve hypoxemia."
+  },
+  {
+    "id": 74,
+    "question": "Which patient teaching is essential for a client on corticosteroid therapy?",
+    "choices": {
+      "A": "Do not stop abruptly; taper dose",
+      "B": "Double the dose when feeling well",
+      "C": "Avoid all vaccinations",
+      "D": "Take with grapefruit juice"
+    },
+    "answer": "A",
+    "answer_explanation": "Abrupt withdrawal of steroids can cause adrenal crisis; taper slowly."
+  },
+  {
+    "id": 75,
+    "question": "Which electrolyte imbalance causes muscle weakness and flattened T waves on ECG?",
+    "choices": {
+      "A": "Hypokalemia",
+      "B": "Hyperkalemia",
+      "C": "Hypernatremia",
+      "D": "Hypercalcemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Hypokalemia often causes muscle weakness and flattened T waves."
+  }
+]

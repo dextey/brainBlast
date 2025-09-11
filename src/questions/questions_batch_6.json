@@ -1,0 +1,302 @@
+[
+  {
+    "id": 126,
+    "question": "Acute pancreatitis lab most specific elevation is",
+    "choices": {
+      "A": "Serum lipase",
+      "B": "AST only",
+      "C": "LDH only",
+      "D": "Alkaline phosphatase"
+    },
+    "answer": "A",
+    "answer_explanation": "Lipase is more specific for pancreatitis than amylase."
+  },
+  {
+    "id": 127,
+    "question": "Best position for para-thoracentesis preparation?",
+    "choices": {
+      "A": "Sitting leaning forward over bedside table",
+      "B": "Supine flat",
+      "C": "Prone",
+      "D": "Trendelenburg"
+    },
+    "answer": "A",
+    "answer_explanation": "Sitting forward improves access and lung expansion post-procedure."
+  },
+  {
+    "id": 128,
+    "question": "Clostridioides difficile first-line cleaning for equipment is",
+    "choices": {
+      "A": "Bleach-based disinfectant",
+      "B": "Alcohol only",
+      "C": "Water only",
+      "D": "Vinegar"
+    },
+    "answer": "A",
+    "answer_explanation": "Sporicidal agents like bleach are required for C. diff environment cleaning."
+  },
+  {
+    "id": 129,
+    "question": "Thyroid storm sign is",
+    "choices": {
+      "A": "High fever, tachycardia, agitation",
+      "B": "Bradycardia, hypothermia",
+      "C": "Severe constipation",
+      "D": "Miosis only"
+    },
+    "answer": "A",
+    "answer_explanation": "Life-threatening hyperthyroidism presents with fever/tachycardia/AMS."
+  },
+  {
+    "id": 130,
+    "question": "Heart failure discharge teaching includes daily",
+    "choices": {
+      "A": "Weight monitoring and report rapid gains",
+      "B": "Unlimited sodium intake",
+      "C": "Skip diuretics if no edema",
+      "D": "Stop ACE inhibitors abruptly"
+    },
+    "answer": "A",
+    "answer_explanation": "Daily weights detect fluid retention early."
+  },
+  {
+    "id": 131,
+    "question": "Burns Parkland formula initial 24h fluid is 4 mL/kg/%TBSA; half in first 8h. Nurse priority is",
+    "choices": {
+      "A": "Start large-bore IVs and begin fluids quickly",
+      "B": "Restrict fluids",
+      "C": "Give only oral fluids",
+      "D": "Start hypotonic saline"
+    },
+    "answer": "A",
+    "answer_explanation": "Rapid isotonic fluid resuscitation is critical."
+  },
+  {
+    "id": 132,
+    "question": "Acute renal failure with high K+. Which order expect?",
+    "choices": {
+      "A": "Insulin with glucose IV",
+      "B": "Beta-blocker",
+      "C": "Warfarin",
+      "D": "Thyroxine"
+    },
+    "answer": "A",
+    "answer_explanation": "Insulin + dextrose shifts K+ into cells acutely."
+  },
+  {
+    "id": 133,
+    "question": "Anticoagulated patient with head injury. First?",
+    "choices": {
+      "A": "CT head without delay",
+      "B": "Observe at home",
+      "C": "Give aspirin",
+      "D": "Ambulate"
+    },
+    "answer": "A",
+    "answer_explanation": "Anticoagulation increases risk of intracranial bleed\u2014CT urgently."
+  },
+  {
+    "id": 134,
+    "question": "Sickle cell crisis pain management priority is",
+    "choices": {
+      "A": "Opioid analgesia and hydration",
+      "B": "NSAIDs only",
+      "C": "Bedrest without fluids",
+      "D": "Ice packs only"
+    },
+    "answer": "A",
+    "answer_explanation": "Adequate analgesia and fluids reduce vaso-occlusion."
+  },
+  {
+    "id": 135,
+    "question": "Myasthenia gravis crisis risk increases with",
+    "choices": {
+      "A": "Infection and stress",
+      "B": "High protein diet",
+      "C": "Warm weather",
+      "D": "High altitude"
+    },
+    "answer": "A",
+    "answer_explanation": "Infections/stress can precipitate MG crisis\u2014monitor respiratory status."
+  },
+  {
+    "id": 136,
+    "question": "Pulmonary edema symptom needing rapid action is",
+    "choices": {
+      "A": "Pink frothy sputum and severe dyspnea",
+      "B": "Mild dry cough only",
+      "C": "Sneezing",
+      "D": "Hiccups"
+    },
+    "answer": "A",
+    "answer_explanation": "Classic sign of acute pulmonary edema."
+  },
+  {
+    "id": 137,
+    "question": "Clamping chest tube accidentally. Nurse should",
+    "choices": {
+      "A": "Unclamp immediately to prevent tension pneumothorax",
+      "B": "Keep clamped for 1 hour",
+      "C": "Raise drainage above chest",
+      "D": "Add continuous suction to clamp"
+    },
+    "answer": "A",
+    "answer_explanation": "Avoid clamping; it can cause tension pneumothorax."
+  },
+  {
+    "id": 138,
+    "question": "Positioning for patient after liver biopsy",
+    "choices": {
+      "A": "Right side-lying to splint the site",
+      "B": "Left side-lying",
+      "C": "Supine with HOB 90\u00b0",
+      "D": "Prone"
+    },
+    "answer": "A",
+    "answer_explanation": "Lie on the right side to apply pressure and reduce bleeding risk."
+  },
+  {
+    "id": 139,
+    "question": "Which is a sign of fluid volume deficit?",
+    "choices": {
+      "A": "Orthostatic hypotension",
+      "B": "Crackles",
+      "C": "Jugular venous distention",
+      "D": "Edema"
+    },
+    "answer": "A",
+    "answer_explanation": "Volume depletion presents with orthostatic hypotension, tachycardia, dry mucosa."
+  },
+  {
+    "id": 140,
+    "question": "First action for extravasation during vesicant chemotherapy",
+    "choices": {
+      "A": "Stop infusion and follow extravasation protocol",
+      "B": "Elevate rate",
+      "C": "Flush aggressively",
+      "D": "Ignore and continue"
+    },
+    "answer": "A",
+    "answer_explanation": "Stop infusion and manage per protocol; flushing may worsen injury."
+  },
+  {
+    "id": 141,
+    "question": "Peak flow meter green zone indicates",
+    "choices": {
+      "A": "80\u2013100% of personal best",
+      "B": "50\u201370% of personal best",
+      "C": "<50% of personal best",
+      "D": "Any value after albuterol"
+    },
+    "answer": "A",
+    "answer_explanation": "Green zone is 80\u2013100%; yellow 50\u201379%; red <50%."
+  },
+  {
+    "id": 142,
+    "question": "Best site to check pulse in cardiac arrest in adults",
+    "choices": {
+      "A": "Carotid artery",
+      "B": "Radial artery",
+      "C": "Dorsalis pedis",
+      "D": "Brachial vein"
+    },
+    "answer": "A",
+    "answer_explanation": "Carotid pulse is assessed during ACLS for adults."
+  },
+  {
+    "id": 143,
+    "question": "CPR compression rate for adults is",
+    "choices": {
+      "A": "100\u2013120 per minute",
+      "B": "60\u201380 per minute",
+      "C": "130\u2013160 per minute",
+      "D": "40\u201360 per minute"
+    },
+    "answer": "A",
+    "answer_explanation": "Recommended rate is 100\u2013120/min."
+  },
+  {
+    "id": 144,
+    "question": "Primary prevention example is",
+    "choices": {
+      "A": "Immunization",
+      "B": "Rehabilitation",
+      "C": "Chemotherapy",
+      "D": "Surgery"
+    },
+    "answer": "A",
+    "answer_explanation": "Primary prevention aims to prevent disease onset."
+  },
+  {
+    "id": 145,
+    "question": "To reduce ventilator-associated pneumonia risk",
+    "choices": {
+      "A": "Elevate HOB 30\u201345\u00b0 and oral care",
+      "B": "Routine gastric lavage",
+      "C": "Frequent sedation boluses",
+      "D": "Avoid suctioning"
+    },
+    "answer": "A",
+    "answer_explanation": "HOB elevation and oral care are key VAP prevention measures."
+  },
+  {
+    "id": 146,
+    "question": "Clostridioides difficile antibiotic of choice (first-line) often is",
+    "choices": {
+      "A": "Oral vancomycin (per guidelines)",
+      "B": "IV vancomycin",
+      "C": "Amoxicillin",
+      "D": "Cephalexin"
+    },
+    "answer": "A",
+    "answer_explanation": "Oral vancomycin/fidaxomicin per guidelines\u2014IV vanc doesn\u2019t reach gut lumen."
+  },
+  {
+    "id": 147,
+    "question": "SIADH lab pattern shows",
+    "choices": {
+      "A": "Hyponatremia and low serum osmolality",
+      "B": "Hypernatremia and high serum osmolality",
+      "C": "Hyperkalemia only",
+      "D": "Metabolic alkalosis"
+    },
+    "answer": "A",
+    "answer_explanation": "Water retention dilutes sodium and serum osmolality in SIADH."
+  },
+  {
+    "id": 148,
+    "question": "Inhaler use: order for MDI bronchodilator and corticosteroid",
+    "choices": {
+      "A": "Bronchodilator first, then corticosteroid",
+      "B": "Steroid first, then bronchodilator",
+      "C": "Either order the same",
+      "D": "Use together at once"
+    },
+    "answer": "A",
+    "answer_explanation": "Open airways first for better steroid deposition."
+  },
+  {
+    "id": 149,
+    "question": "Hypocalcemia sign is",
+    "choices": {
+      "A": "Positive Chvostek/Trousseau signs",
+      "B": "Bradykinesia",
+      "C": "Brown urine",
+      "D": "Dry skin only"
+    },
+    "answer": "A",
+    "answer_explanation": "Neuromuscular irritability occurs in low calcium states."
+  },
+  {
+    "id": 150,
+    "question": "Priority care for neutropenic fever (38.3\u00b0C)",
+    "choices": {
+      "A": "Begin broad-spectrum IV antibiotics promptly",
+      "B": "Wait for cultures for 24 hours",
+      "C": "Discharge home",
+      "D": "No action needed"
+    },
+    "answer": "A",
+    "answer_explanation": "Neutropenic fever is an emergency\u2014start empiric IV antibiotics quickly."
+  }
+]

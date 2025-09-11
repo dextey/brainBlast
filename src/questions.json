@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "question": "What is the first action when a patient\u2019s IV infusion pump alarms 'occlusion'?",
+    "choices": {
+      "A": "Check for kinks and straighten the tubing",
+      "B": "Increase the pump pressure setting",
+      "C": "Stop the infusion and remove the cannula",
+      "D": "Flush with 10 mL saline immediately"
+    },
+    "answer": "A",
+    "answer_explanation": "Always assess simple mechanical causes (kinks/position) before invasive actions."
+  },
+  {
+    "id": 2,
+    "question": "Which is the safest patient identifier before medication administration?",
+    "choices": {
+      "A": "Ask the patient to state their name and DOB",
+      "B": "Room number and bed label",
+      "C": "Facial recognition by staff",
+      "D": "Nursing handover sheet"
+    },
+    "answer": "A",
+    "answer_explanation": "Use two identifiers: name and date of birth (or ID band), not room or visual recognition."
+  },
+  {
+    "id": 3,
+    "question": "Best method to confirm NG tube placement prior to first feeding?",
+    "choices": {
+      "A": "X-ray verification",
+      "B": "Auscultation with air bolus",
+      "C": "Observation of gastric aspirate color",
+      "D": "Asking the patient if it feels in the stomach"
+    },
+    "answer": "A",
+    "answer_explanation": "Radiographic confirmation is the gold standard before first use of an NG tube."
+  },
+  {
+    "id": 4,
+    "question": "Which position reduces risk of aspiration during enteral feeding?",
+    "choices": {
+      "A": "Semi-Fowler\u2019s (30\u201345\u00b0)",
+      "B": "Supine (0\u00b0)",
+      "C": "Trendelenburg",
+      "D": "High Fowler\u2019s (80\u201390\u00b0)"
+    },
+    "answer": "A",
+    "answer_explanation": "Head-of-bed elevation 30\u201345\u00b0 reduces aspiration risk in tube feeding."
+  },
+  {
+    "id": 5,
+    "question": "Most appropriate initial response to a client reporting new chest pain on the ward?",
+    "choices": {
+      "A": "Stop activity and assess ABCs",
+      "B": "Give water and observe",
+      "C": "Call family for reassurance",
+      "D": "Document and continue routine care"
+    },
+    "answer": "A",
+    "answer_explanation": "Immediate assessment with airway-breathing-circulation and activity cessation is priority."
+  },
+  {
+    "id": 6,
+    "question": "Best practice to prevent catheter-associated UTI (CAUTI)?",
+    "choices": {
+      "A": "Remove catheter as soon as clinically possible",
+      "B": "Irrigate routinely with saline",
+      "C": "Change catheter every day",
+      "D": "Keep bag above bladder level"
+    },
+    "answer": "A",
+    "answer_explanation": "Early removal and strict asepsis reduce CAUTI; bag must remain below bladder level."
+  },
+  {
+    "id": 7,
+    "question": "Correct sequence for removing PPE (doffing) after contact isolation?",
+    "choices": {
+      "A": "Gloves \u2192 Gown \u2192 Hand hygiene \u2192 Exit",
+      "B": "Gown \u2192 Gloves \u2192 Exit \u2192 Hand hygiene",
+      "C": "Gloves \u2192 Mask \u2192 Gown \u2192 Hand hygiene",
+      "D": "Mask \u2192 Gloves \u2192 Gown \u2192 Hand hygiene"
+    },
+    "answer": "A",
+    "answer_explanation": "Remove most contaminated items first: gloves, then gown, then hand hygiene."
+  },
+  {
+    "id": 8,
+    "question": "Which action prevents pressure injuries in a bedbound patient?",
+    "choices": {
+      "A": "Reposition at least every 2 hours",
+      "B": "Massage reddened bony areas",
+      "C": "Place donut-type cushions",
+      "D": "Restrict fluids to reduce edema"
+    },
+    "answer": "A",
+    "answer_explanation": "Frequent repositioning is key; avoid massaging reddened areas and donut devices."
+  },
+  {
+    "id": 9,
+    "question": "The safest way to transfer a weak patient from bed to chair is to",
+    "choices": {
+      "A": "Use a gait belt and assist with proper body mechanics",
+      "B": "Pull by arms into a sitting position",
+      "C": "Have them hold the IV pole for support",
+      "D": "Lift under the axillae quickly"
+    },
+    "answer": "A",
+    "answer_explanation": "Gait belts and proper mechanics reduce fall and injury risk."
+  },
+  {
+    "id": 10,
+    "question": "What color container is appropriate for disposing used needles?",
+    "choices": {
+      "A": "Puncture-resistant sharps container",
+      "B": "Regular trash bin with liner",
+      "C": "Biohazard bag only",
+      "D": "Recycling bin"
+    },
+    "answer": "A",
+    "answer_explanation": "Sharps must be discarded in puncture-resistant, leak-proof sharps containers."
+  },
+  {
+    "id": 11,
+    "question": "Which patient should the nurse see first?",
+    "choices": {
+      "A": "New onset confusion with SpO2 88%",
+      "B": "Fever 38.2\u00b0C requesting antipyretic",
+      "C": "Blood pressure 148/92 without symptoms",
+      "D": "Fasting blood glucose 6.8 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Airway/breathing issues and hypoxia take priority (ABCs)."
+  },
+  {
+    "id": 12,
+    "question": "Normal adult respiratory rate is",
+    "choices": {
+      "A": "12\u201320 breaths per minute",
+      "B": "6\u201310 breaths per minute",
+      "C": "20\u201328 breaths per minute",
+      "D": "28\u201336 breaths per minute"
+    },
+    "answer": "A",
+    "answer_explanation": "Typical normal adult RR is 12\u201320/min."
+  },
+  {
+    "id": 13,
+    "question": "Which finding is most concerning in a post-op patient?",
+    "choices": {
+      "A": "Urine output 15 mL/hr",
+      "B": "Mild incisional pain",
+      "C": "Oral temp 37.5\u00b0C",
+      "D": "Blood glucose 7.2 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Oliguria suggests poor perfusion or renal impairment; investigate promptly."
+  },
+  {
+    "id": 14,
+    "question": "When a patient feels dizzy during ambulation, the nurse should first",
+    "choices": {
+      "A": "Assist to sit down safely",
+      "B": "Increase ambulation speed",
+      "C": "Offer water and continue",
+      "D": "Call security"
+    },
+    "answer": "A",
+    "answer_explanation": "Prevent a fall by safely seating the patient immediately."
+  },
+  {
+    "id": 15,
+    "question": "Which oxygen delivery method provides the highest FiO2?",
+    "choices": {
+      "A": "Non-rebreather mask",
+      "B": "Nasal cannula",
+      "C": "Simple face mask",
+      "D": "Venturi mask"
+    },
+    "answer": "A",
+    "answer_explanation": "A non-rebreather can deliver high FiO2 (up to ~95%) short-term."
+  },
+  {
+    "id": 16,
+    "question": "Appropriate isolation for pulmonary tuberculosis (active)?",
+    "choices": {
+      "A": "Airborne precautions",
+      "B": "Droplet precautions",
+      "C": "Contact precautions",
+      "D": "Standard precautions only"
+    },
+    "answer": "A",
+    "answer_explanation": "TB requires airborne isolation (N95 respirator, negative-pressure room)."
+  },
+  {
+    "id": 17,
+    "question": "Which disease needs droplet precautions?",
+    "choices": {
+      "A": "Influenza",
+      "B": "C. difficile",
+      "C": "Varicella (chickenpox)",
+      "D": "Scabies"
+    },
+    "answer": "A",
+    "answer_explanation": "Influenza spreads by droplets; C. diff is contact; varicella is airborne/contact; scabies is contact."
+  },
+  {
+    "id": 18,
+    "question": "Hand hygiene for C. difficile contact should be",
+    "choices": {
+      "A": "Soap and water",
+      "B": "Alcohol-based rub only",
+      "C": "Gloves only; hand hygiene not needed",
+      "D": "Antibiotic prophylaxis"
+    },
+    "answer": "A",
+    "answer_explanation": "Spores are not reliably killed by alcohol rub; wash with soap and water."
+  },
+  {
+    "id": 19,
+    "question": "Which order is correct for donning PPE for airborne isolation?",
+    "choices": {
+      "A": "Hand hygiene \u2192 Gown \u2192 N95 \u2192 Goggles/face shield \u2192 Gloves",
+      "B": "Hand hygiene \u2192 Gloves \u2192 Gown \u2192 N95",
+      "C": "Gown \u2192 Gloves \u2192 Hand hygiene \u2192 N95",
+      "D": "N95 \u2192 Gown \u2192 Hand hygiene \u2192 Gloves"
+    },
+    "answer": "A",
+    "answer_explanation": "Perform hand hygiene first, then gown, respirator, eye protection, gloves."
+  },
+  {
+    "id": 20,
+    "question": "Normal adult serum sodium (Na+) range is",
+    "choices": {
+      "A": "135\u2013145 mmol/L",
+      "B": "120\u2013130 mmol/L",
+      "C": "146\u2013160 mmol/L",
+      "D": "100\u2013115 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal Na+ is 135\u2013145 mmol/L."
+  },
+  {
+    "id": 21,
+    "question": "Normal serum potassium (K+) range is",
+    "choices": {
+      "A": "3.5\u20135.0 mmol/L",
+      "B": "2.5\u20133.0 mmol/L",
+      "C": "5.5\u20136.5 mmol/L",
+      "D": "1.5\u20132.0 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal K+ is 3.5\u20135.0 mmol/L."
+  },
+  {
+    "id": 22,
+    "question": "Normal fasting blood glucose (adult) is approximately",
+    "choices": {
+      "A": "70\u2013100 mg/dL (3.9\u20135.6 mmol/L)",
+      "B": "40\u201360 mg/dL (2.2\u20133.3 mmol/L)",
+      "C": "120\u2013160 mg/dL (6.7\u20138.9 mmol/L)",
+      "D": "180\u2013220 mg/dL (10\u201312.2 mmol/L)"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal fasting glucose ~70\u2013100 mg/dL (3.9\u20135.6 mmol/L)."
+  },
+  {
+    "id": 23,
+    "question": "Normal adult hemoglobin (female) is approximately",
+    "choices": {
+      "A": "12\u201316 g/dL",
+      "B": "7\u20139 g/dL",
+      "C": "17\u201320 g/dL",
+      "D": "9\u201311 g/dL"
+    },
+    "answer": "A",
+    "answer_explanation": "Typical adult female Hgb ~12\u201316 g/dL."
+  },
+  {
+    "id": 24,
+    "question": "Normal adult WBC count is about",
+    "choices": {
+      "A": "4,000\u201311,000 /\u00b5L",
+      "B": "500\u20131,500 /\u00b5L",
+      "C": "15,000\u201325,000 /\u00b5L",
+      "D": "30,000\u201340,000 /\u00b5L"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal WBC ~4\u201311 x10^3/\u00b5L."
+  },
+  {
+    "id": 25,
+    "question": "Therapeutic INR for most patients on warfarin is",
+    "choices": {
+      "A": "2.0\u20133.0",
+      "B": "0.8\u20131.1",
+      "C": "3.5\u20135.0",
+      "D": ">5.5"
+    },
+    "answer": "A",
+    "answer_explanation": "Standard therapeutic INR is 2\u20133 for most indications."
+  },
+  {
+    "id": 26,
+    "question": "Therapeutic serum digoxin level is",
+    "choices": {
+      "A": "0.5\u20132.0 ng/mL",
+      "B": "3\u20135 ng/mL",
+      "C": "5\u20138 ng/mL",
+      "D": "2.5\u20133.5 ng/mL"
+    },
+    "answer": "A",
+    "answer_explanation": "Therapeutic digoxin range is ~0.5\u20132.0 ng/mL."
+  },
+  {
+    "id": 27,
+    "question": "Normal adult serum creatinine is approximately",
+    "choices": {
+      "A": "0.6\u20131.3 mg/dL (53\u2013115 \u00b5mol/L)",
+      "B": "1.8\u20133.0 mg/dL",
+      "C": "3.5\u20135.0 mg/dL",
+      "D": "0.1\u20130.3 mg/dL"
+    },
+    "answer": "A",
+    "answer_explanation": "Typical adult creatinine ~0.6\u20131.3 mg/dL."
+  },
+  {
+    "id": 28,
+    "question": "Arterial blood pH normal range is",
+    "choices": {
+      "A": "7.35\u20137.45",
+      "B": "7.10\u20137.20",
+      "C": "7.50\u20137.60",
+      "D": "6.90\u20137.05"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal arterial pH 7.35\u20137.45."
+  },
+  {
+    "id": 29,
+    "question": "Lithium maintenance therapeutic level is",
+    "choices": {
+      "A": "0.6\u20131.2 mEq/L",
+      "B": "1.8\u20133.0 mEq/L",
+      "C": "3.5\u20134.5 mEq/L",
+      "D": ">5.0 mEq/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Lithium therapeutic range is ~0.6\u20131.2 mEq/L; toxicity >1.5."
+  },
+  {
+    "id": 30,
+    "question": "First step for a patient with suspected anaphylaxis after IV antibiotic?",
+    "choices": {
+      "A": "Stop the infusion and assess airway/breathing",
+      "B": "Give a glass of water",
+      "C": "Apply warm compress to IV site",
+      "D": "Call family to bring EpiPen"
+    },
+    "answer": "A",
+    "answer_explanation": "Stop the causative agent and manage ABCs immediately."
+  },
+  {
+    "id": 31,
+    "question": "Chest pain unrelieved after one nitroglycerin dose and 5 minutes. Next?",
+    "choices": {
+      "A": "Call emergency response and give oxygen",
+      "B": "Give food to prevent nausea",
+      "C": "Ambulate to reduce anxiety",
+      "D": "Continue to wait 30 minutes"
+    },
+    "answer": "A",
+    "answer_explanation": "Persistent chest pain warrants activation of emergency response and oxygen per protocol."
+  },
+  {
+    "id": 32,
+    "question": "Which finding requires immediate action in a COPD patient?",
+    "choices": {
+      "A": "Respiratory rate 8/min and somnolence",
+      "B": "Barrel chest and mild dyspnea",
+      "C": "Chronic cough with sputum",
+      "D": "SpO2 90% on room air baseline"
+    },
+    "answer": "A",
+    "answer_explanation": "Bradypnea with decreased LOC suggests CO2 narcosis/respiratory failure risk."
+  },
+  {
+    "id": 33,
+    "question": "Post-thyroidectomy patient develops stridor and difficulty speaking. Priority?",
+    "choices": {
+      "A": "Assess airway and prepare for emergency intervention",
+      "B": "Offer sips of water",
+      "C": "Reassure and continue monitoring",
+      "D": "Apply warm neck compress"
+    },
+    "answer": "A",
+    "answer_explanation": "Airway compromise from edema/hematoma demands immediate airway management."
+  },
+  {
+    "id": 34,
+    "question": "Which ECG change suggests hyperkalemia?",
+    "choices": {
+      "A": "Peaked T waves",
+      "B": "U waves",
+      "C": "Prominent P waves",
+      "D": "Shortened PR interval"
+    },
+    "answer": "A",
+    "answer_explanation": "Hyperkalemia commonly causes tall, peaked T waves."
+  },
+  {
+    "id": 35,
+    "question": "Best initial action in suspected hypoglycemia (conscious patient)?",
+    "choices": {
+      "A": "Give 15 g fast-acting carbohydrate",
+      "B": "Administer long-acting insulin",
+      "C": "Encourage exercise",
+      "D": "Start IV normal saline only"
+    },
+    "answer": "A",
+    "answer_explanation": "Follow the 15-15 rule: 15 g fast sugar, recheck in 15 minutes."
+  },
+  {
+    "id": 36,
+    "question": "DKA hallmark finding is",
+    "choices": {
+      "A": "Kussmaul respirations and ketonuria",
+      "B": "Bradycardia and hypothermia",
+      "C": "Metabolic alkalosis and constipation",
+      "D": "Hypernatremia and low urine osmolality"
+    },
+    "answer": "A",
+    "answer_explanation": "DKA presents with metabolic acidosis, Kussmaul breathing, hyperglycemia, ketones."
+  },
+  {
+    "id": 37,
+    "question": "Primary concern teaching for steroid (prednisone) therapy is",
+    "choices": {
+      "A": "Do not stop abruptly; taper dose",
+      "B": "Take with grapefruit juice",
+      "C": "Expect hypoglycemia",
+      "D": "Double dose if you feel well"
+    },
+    "answer": "A",
+    "answer_explanation": "Abrupt cessation risks adrenal crisis; taper gradually."
+  },
+  {
+    "id": 38,
+    "question": "Which IV fluid is isotonic?",
+    "choices": {
+      "A": "0.9% normal saline",
+      "B": "0.45% saline",
+      "C": "3% saline",
+      "D": "D5W after metabolism"
+    },
+    "answer": "A",
+    "answer_explanation": "0.9% NS is isotonic; 0.45% hypotonic; 3% hypertonic."
+  },
+  {
+    "id": 39,
+    "question": "Sign of fluid volume overload is",
+    "choices": {
+      "A": "Crackles in lungs",
+      "B": "Dry mucous membranes",
+      "C": "Orthostatic hypotension",
+      "D": "Poor skin turgor"
+    },
+    "answer": "A",
+    "answer_explanation": "Pulmonary crackles indicate fluid overload."
+  },
+  {
+    "id": 40,
+    "question": "Minimum acceptable urine output in adults is roughly",
+    "choices": {
+      "A": "0.5 mL/kg/hr",
+      "B": "0.1 mL/kg/hr",
+      "C": "2 mL/kg/hr",
+      "D": "5 mL/kg/hr"
+    },
+    "answer": "A",
+    "answer_explanation": "Oliguria is <0.5 mL/kg/hr and suggests inadequate perfusion."
+  },
+  {
+    "id": 41,
+    "question": "Stroke symptom onset 1 hour ago; priority action?",
+    "choices": {
+      "A": "Arrange immediate CT scan of head",
+      "B": "Give aspirin without imaging",
+      "C": "Start D5W maintenance fluids",
+      "D": "Place patient flat in Trendelenburg"
+    },
+    "answer": "A",
+    "answer_explanation": "CT is needed urgently to differentiate ischemic vs hemorrhagic stroke."
+  },
+  {
+    "id": 42,
+    "question": "Which finding is concerning after head injury?",
+    "choices": {
+      "A": "Unequal pupils and increasing drowsiness",
+      "B": "Brief headache relieved by rest",
+      "C": "Small scalp abrasion",
+      "D": "Mild nausea once"
+    },
+    "answer": "A",
+    "answer_explanation": "Signs of increased ICP or herniation risk require urgent evaluation."
+  },
+  {
+    "id": 43,
+    "question": "Priority in a patient with upper GI bleeding and tachycardia?",
+    "choices": {
+      "A": "Establish large-bore IV access",
+      "B": "Offer clear fluids",
+      "C": "Administer antidiarrheals",
+      "D": "Ambulate to reduce anxiety"
+    },
+    "answer": "A",
+    "answer_explanation": "Volume resuscitation requires IV access for fluids/blood."
+  },
+  {
+    "id": 44,
+    "question": "Teaching for a client with GERD should include",
+    "choices": {
+      "A": "Avoid late-night meals and elevate HOB",
+      "B": "Increase chocolate and mint",
+      "C": "Wear tight belts after meals",
+      "D": "Drink large volumes at bedtime"
+    },
+    "answer": "A",
+    "answer_explanation": "Lifestyle changes include avoiding late meals and raising the head of bed."
+  },
+  {
+    "id": 45,
+    "question": "After hip replacement, which position should be avoided initially?",
+    "choices": {
+      "A": "Hip flexion >90\u00b0 and adduction",
+      "B": "Abduction with pillow",
+      "C": "Neutral rotation",
+      "D": "HOB 30\u00b0"
+    },
+    "answer": "A",
+    "answer_explanation": "Avoid dislocation: don\u2019t flex hip >90\u00b0, adduct, or internally rotate early post-op."
+  },
+  {
+    "id": 46,
+    "question": "Compartment syndrome early sign is",
+    "choices": {
+      "A": "Severe pain unrelieved by analgesics",
+      "B": "Bounding distal pulses",
+      "C": "Warm, pink extremity",
+      "D": "Improved sensation"
+    },
+    "answer": "A",
+    "answer_explanation": "Pain out of proportion, not relieved by meds, is an early hallmark."
+  },
+  {
+    "id": 47,
+    "question": "Normal fetal heart rate (baseline) is",
+    "choices": {
+      "A": "110\u2013160 bpm",
+      "B": "60\u201390 bpm",
+      "C": "170\u2013200 bpm",
+      "D": "90\u2013105 bpm"
+    },
+    "answer": "A",
+    "answer_explanation": "Typical baseline FHR is 110\u2013160 bpm."
+  },
+  {
+    "id": 48,
+    "question": "Late decelerations on fetal monitoring indicate",
+    "choices": {
+      "A": "Uteroplacental insufficiency",
+      "B": "Umbilical cord compression",
+      "C": "Fetal head compression",
+      "D": "Normal reassuring pattern"
+    },
+    "answer": "A",
+    "answer_explanation": "Late decels suggest placental insufficiency; reposition, oxygen, stop oxytocin."
+  },
+  {
+    "id": 49,
+    "question": "Magnesium sulfate toxicity sign is",
+    "choices": {
+      "A": "Absent deep tendon reflexes",
+      "B": "Tachycardia and agitation",
+      "C": "Increased urine output",
+      "D": "Hyperreflexia"
+    },
+    "answer": "A",
+    "answer_explanation": "Toxicity shows hyporeflexia/absent DTRs, respiratory depression; antidote is calcium gluconate."
+  },
+  {
+    "id": 50,
+    "question": "Postpartum hemorrhage priority action is",
+    "choices": {
+      "A": "Fundal massage",
+      "B": "Apply ice to perineum only",
+      "C": "Encourage fluids orally",
+      "D": "Ambulate frequently"
+    },
+    "answer": "A",
+    "answer_explanation": "Massage a boggy uterus to reduce bleeding; call provider, give uterotonics."
+  },
+  {
+    "id": 51,
+    "question": "Newborn jaundice under phototherapy: key nursing action?",
+    "choices": {
+      "A": "Cover eyes and monitor temperature/fluids",
+      "B": "Keep lights close to skin without protection",
+      "C": "Stop feeds during therapy",
+      "D": "Apply oil to enhance light penetration"
+    },
+    "answer": "A",
+    "answer_explanation": "Protect eyes and maintain hydration and temperature during phototherapy."
+  },
+  {
+    "id": 52,
+    "question": "Which vaccine is contraindicated in severe egg anaphylaxis (verify local guidance)?",
+    "choices": {
+      "A": "Influenza (some forms)",
+      "B": "Hepatitis B",
+      "C": "DTaP",
+      "D": "Inactivated polio (IPV)"
+    },
+    "answer": "A",
+    "answer_explanation": "Some influenza vaccines are egg-based; check local protocols for severe reactions."
+  },
+  {
+    "id": 53,
+    "question": "Dehydration best indicator in infants is",
+    "choices": {
+      "A": "Decreased wet diapers",
+      "B": "Increased tearing",
+      "C": "Bulging fontanel",
+      "D": "Weight gain"
+    },
+    "answer": "A",
+    "answer_explanation": "Reduced urine output is a sensitive indicator of dehydration in infants."
+  },
+  {
+    "id": 54,
+    "question": "Best site for IM injection in infants (<1 year) is",
+    "choices": {
+      "A": "Vastus lateralis",
+      "B": "Deltoid",
+      "C": "Dorsogluteal",
+      "D": "Biceps"
+    },
+    "answer": "A",
+    "answer_explanation": "Vastus lateralis (anterolateral thigh) is recommended for infants."
+  },
+  {
+    "id": 55,
+    "question": "Best therapeutic response to a grieving client who is crying?",
+    "choices": {
+      "A": "\u201cI\u2019m here with you. Tell me more about what you\u2019re feeling.\u201d",
+      "B": "\u201cDon\u2019t cry; you must be strong.\u201d",
+      "C": "\u201cEverything happens for a reason.\u201d",
+      "D": "\u201cLet\u2019s talk about something else.\u201d"
+    },
+    "answer": "A",
+    "answer_explanation": "Use empathy and encourage expression; avoid false reassurance or minimizing."
+  },
+  {
+    "id": 56,
+    "question": "Which side effect of antipsychotics needs urgent action?",
+    "choices": {
+      "A": "Neck stiffness and high fever",
+      "B": "Dry mouth",
+      "C": "Mild tremor after initiation",
+      "D": "Increased appetite"
+    },
+    "answer": "A",
+    "answer_explanation": "Neuroleptic malignant syndrome: rigidity, hyperthermia; medical emergency."
+  },
+  {
+    "id": 57,
+    "question": "Lithium toxicity early sign is",
+    "choices": {
+      "A": "GI upset (nausea, vomiting, diarrhea)",
+      "B": "Bradycardia only",
+      "C": "Severe hypertension",
+      "D": "Hyperreflexia"
+    },
+    "answer": "A",
+    "answer_explanation": "GI symptoms can be early signs; monitor levels and hydration."
+  },
+  {
+    "id": 58,
+    "question": "Before giving furosemide IV, assess",
+    "choices": {
+      "A": "Blood pressure and potassium level",
+      "B": "Capillary refill only",
+      "C": "Pupillary reaction",
+      "D": "Deep tendon reflexes"
+    },
+    "answer": "A",
+    "answer_explanation": "Loop diuretics can cause hypotension and hypokalemia."
+  },
+  {
+    "id": 59,
+    "question": "Which patient should not receive a beta-blocker without caution?",
+    "choices": {
+      "A": "Asthma with active bronchospasm",
+      "B": "Stable hypothyroidism",
+      "C": "Controlled GERD",
+      "D": "Iron deficiency anemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Beta-blockers can exacerbate bronchospasm in asthma."
+  },
+  {
+    "id": 60,
+    "question": "Heparin therapy effectiveness is monitored by",
+    "choices": {
+      "A": "aPTT",
+      "B": "INR",
+      "C": "Platelet function assay",
+      "D": "Serum creatinine"
+    },
+    "answer": "A",
+    "answer_explanation": "Unfractionated heparin is monitored by aPTT; warfarin by INR."
+  },
+  {
+    "id": 61,
+    "question": "Evisceration occurs at surgical site. First action?",
+    "choices": {
+      "A": "Cover with sterile saline-moistened gauze and call surgeon",
+      "B": "Push organs back and tape firmly",
+      "C": "Apply dry gauze and ambulate",
+      "D": "Give oral analgesic and observe"
+    },
+    "answer": "A",
+    "answer_explanation": "Keep tissues moist/sterile and seek urgent surgical attention."
+  },
+  {
+    "id": 62,
+    "question": "Best indicator of effective fluid resuscitation post-op is",
+    "choices": {
+      "A": "Improving urine output and stable vitals",
+      "B": "Warm hands",
+      "C": "Patient feels thirsty",
+      "D": "Dry incision site"
+    },
+    "answer": "A",
+    "answer_explanation": "Perfusion is reflected in adequate urine output and stable hemodynamics."
+  },
+  {
+    "id": 63,
+    "question": "Which task can be delegated to an experienced UAP?",
+    "choices": {
+      "A": "Ambulating a stable post-op patient",
+      "B": "Assessing pain level",
+      "C": "Teaching incentive spirometry use",
+      "D": "Evaluating response to diuretics"
+    },
+    "answer": "A",
+    "answer_explanation": "UAP can perform non-assessment tasks on stable patients."
+  },
+  {
+    "id": 64,
+    "question": "Informed consent for surgery is primarily the responsibility of the",
+    "choices": {
+      "A": "Provider performing the procedure",
+      "B": "Circulating nurse",
+      "C": "Charge nurse",
+      "D": "Hospital administrator"
+    },
+    "answer": "A",
+    "answer_explanation": "The provider explains risks/benefits and obtains consent; nurse verifies and witnesses."
+  },
+  {
+    "id": 65,
+    "question": "When a medication error occurs, the nurse should first",
+    "choices": {
+      "A": "Assess the patient",
+      "B": "Alter the chart entry",
+      "C": "Notify media relations",
+      "D": "Leave the unit"
+    },
+    "answer": "A",
+    "answer_explanation": "Patient safety comes first; assess, then notify provider and complete incident report."
+  },
+  {
+    "id": 66,
+    "question": "A patient with pneumonia has RR 28, SpO2 88% on room air. First action?",
+    "choices": {
+      "A": "Apply oxygen and reassess",
+      "B": "Offer fluids",
+      "C": "Call family",
+      "D": "Keep NPO"
+    },
+    "answer": "A",
+    "answer_explanation": "Treat hypoxemia first (ABCs)."
+  },
+  {
+    "id": 67,
+    "question": "Elderly patient on opioids has RR 8 and pin-point pupils. Antidote?",
+    "choices": {
+      "A": "Naloxone",
+      "B": "Flumazenil",
+      "C": "Atropine",
+      "D": "Protamine sulfate"
+    },
+    "answer": "A",
+    "answer_explanation": "Naloxone reverses opioid-induced respiratory depression."
+  },
+  {
+    "id": 68,
+    "question": "BP cuff too small will cause readings to be",
+    "choices": {
+      "A": "Falsely high",
+      "B": "Falsely low",
+      "C": "Unaffected",
+      "D": "Erratic only"
+    },
+    "answer": "A",
+    "answer_explanation": "Small cuffs overestimate BP."
+  },
+  {
+    "id": 69,
+    "question": "Patient on ACE inhibitor develops swelling of lips and tongue. Concern?",
+    "choices": {
+      "A": "Angioedema",
+      "B": "Urticaria only",
+      "C": "Dehydration",
+      "D": "Bronchitis"
+    },
+    "answer": "A",
+    "answer_explanation": "ACE inhibitors can cause life-threatening angioedema."
+  },
+  {
+    "id": 70,
+    "question": "Priority teaching for insulin lispro (rapid-acting)?",
+    "choices": {
+      "A": "Eat within 15 minutes of injection",
+      "B": "Skip meals to lose weight",
+      "C": "Inject at bedtime only",
+      "D": "Shake vigorously"
+    },
+    "answer": "A",
+    "answer_explanation": "Lispro has rapid onset; prevent hypoglycemia by eating promptly."
+  },
+  {
+    "id": 71,
+    "question": "Patient with DVT suddenly has chest pain and dyspnea. Suspect",
+    "choices": {
+      "A": "Pulmonary embolism",
+      "B": "MI only",
+      "C": "Pneumothorax",
+      "D": "Asthma"
+    },
+    "answer": "A",
+    "answer_explanation": "DVT can embolize to lungs causing PE."
+  },
+  {
+    "id": 72,
+    "question": "First action for epistaxis in hypertensive patient?",
+    "choices": {
+      "A": "Sit forward and pinch soft part of nose",
+      "B": "Lie flat with neck extended",
+      "C": "Insert cotton swabs deeply",
+      "D": "Apply heat packs"
+    },
+    "answer": "A",
+    "answer_explanation": "Lean forward and apply pressure to control bleeding."
+  },
+  {
+    "id": 73,
+    "question": "Best position for a patient with heart failure and orthopnea?",
+    "choices": {
+      "A": "High Fowler\u2019s with legs dependent",
+      "B": "Supine",
+      "C": "Trendelenburg",
+      "D": "Prone"
+    },
+    "answer": "A",
+    "answer_explanation": "Upright position improves breathing and reduces preload."
+  },
+  {
+    "id": 74,
+    "question": "Sterile gloving: after donning first glove, avoid touching",
+    "choices": {
+      "A": "Bare skin with gloved hand",
+      "B": "Inner glove surface",
+      "C": "Sterile field with sterile glove",
+      "D": "Cuff of second glove"
+    },
+    "answer": "A",
+    "answer_explanation": "Do not contaminate the sterile glove by touching skin."
+  },
+  {
+    "id": 75,
+    "question": "Suspected transfusion reaction. First step?",
+    "choices": {
+      "A": "Stop the transfusion",
+      "B": "Increase rate and observe",
+      "C": "Give aspirin",
+      "D": "Discard blood bag immediately"
+    },
+    "answer": "A",
+    "answer_explanation": "Stop infusion, assess, keep IV with normal saline, notify provider/blood bank."
+  },
+  {
+    "id": 76,
+    "question": "Asthmatic with audible wheeze becomes suddenly silent. Priority?",
+    "choices": {
+      "A": "Assess airway and prepare for severe bronchospasm",
+      "B": "Increase activity",
+      "C": "Give cough syrup",
+      "D": "Offer warm tea"
+    },
+    "answer": "A",
+    "answer_explanation": "Silent chest indicates minimal airflow; emergency."
+  },
+  {
+    "id": 77,
+    "question": "Post-op patient with saturation drop from 96% to 84%. First?",
+    "choices": {
+      "A": "Check airway and reposition",
+      "B": "Call dietary",
+      "C": "Document only",
+      "D": "Give sedative"
+    },
+    "answer": "A",
+    "answer_explanation": "Reassess airway/breathing and position to improve ventilation."
+  },
+  {
+    "id": 78,
+    "question": "Burn victim with hoarseness and singed nasal hairs. Concern?",
+    "choices": {
+      "A": "Airway edema/inhalation injury",
+      "B": "Fluid overload",
+      "C": "Hypoglycemia",
+      "D": "UTI"
+    },
+    "answer": "A",
+    "answer_explanation": "Indicators of inhalation injury\u2014secure airway early."
+  },
+  {
+    "id": 79,
+    "question": "Patient with trauma is pale, cool, BP 86/50. Priority IV fluid?",
+    "choices": {
+      "A": "Isotonic crystalloid (0.9% NS)",
+      "B": "D5W",
+      "C": "Hypotonic saline",
+      "D": "No fluids"
+    },
+    "answer": "A",
+    "answer_explanation": "Resuscitate hemorrhagic shock with isotonic crystalloids initially."
+  },
+  {
+    "id": 80,
+    "question": "Post-extubation stridor occurs. First action?",
+    "choices": {
+      "A": "Call rapid response and provide humidified oxygen",
+      "B": "Encourage deep breathing only",
+      "C": "Give ice chips",
+      "D": "Ambulate"
+    },
+    "answer": "A",
+    "answer_explanation": "Stridor = airway obstruction risk; emergency support."
+  },
+  {
+    "id": 81,
+    "question": "Anxiety attack: hyperventilating. First nursing action?",
+    "choices": {
+      "A": "Coach slow, controlled breathing",
+      "B": "Give high-dose benzodiazepine immediately",
+      "C": "Restrict fluids",
+      "D": "Apply warm packs"
+    },
+    "answer": "A",
+    "answer_explanation": "Non-pharmacologic breathing control first for hyperventilation."
+  },
+  {
+    "id": 82,
+    "question": "Sepsis patient with lactate 5 mmol/L and hypotension. Priority?",
+    "choices": {
+      "A": "Rapid fluid resuscitation",
+      "B": "Oral antibiotics",
+      "C": "Ambulate",
+      "D": "Reduce fluids"
+    },
+    "answer": "A",
+    "answer_explanation": "High lactate and hypotension require fluids per sepsis bundle."
+  },
+  {
+    "id": 83,
+    "question": "Patient post-angiography reports back pain and hypotension. Suspect?",
+    "choices": {
+      "A": "Retroperitoneal bleed",
+      "B": "UTI",
+      "C": "Dehydration only",
+      "D": "Appendicitis"
+    },
+    "answer": "A",
+    "answer_explanation": "Bleeding complication can present with back pain, hypotension."
+  },
+  {
+    "id": 84,
+    "question": "Trauma patient with tracheal deviation and absent breath sounds on left. Suspect?",
+    "choices": {
+      "A": "Tension pneumothorax",
+      "B": "Atelectasis",
+      "C": "Pleural effusion only",
+      "D": "Asthma"
+    },
+    "answer": "A",
+    "answer_explanation": "Classic tension pneumothorax\u2014emergency decompression needed."
+  },
+  {
+    "id": 85,
+    "question": "Patient with DKA Kussmaul respirations. Purpose of breathing pattern?",
+    "choices": {
+      "A": "Compensate metabolic acidosis by blowing off CO2",
+      "B": "Increase oxygen stores",
+      "C": "Prevent atelectasis",
+      "D": "Reduce intracranial pressure"
+    },
+    "answer": "A",
+    "answer_explanation": "Hyperventilation reduces CO2 to compensate acidosis."
+  },
+  {
+    "id": 86,
+    "question": "Before first dose of IV vancomycin, best baseline test?",
+    "choices": {
+      "A": "Serum creatinine/BUN",
+      "B": "Liver ultrasound",
+      "C": "ECG",
+      "D": "Chest X-ray"
+    },
+    "answer": "A",
+    "answer_explanation": "Nephrotoxicity risk\u2014monitor renal function."
+  },
+  {
+    "id": 87,
+    "question": "C. difficile patient requests alcohol hand rub. Nurse should",
+    "choices": {
+      "A": "Instruct to use soap and water",
+      "B": "Provide alcohol rub",
+      "C": "Skip hand hygiene with gloves",
+      "D": "Use only sanitizer wipes"
+    },
+    "answer": "A",
+    "answer_explanation": "Soap and water required for spores."
+  },
+  {
+    "id": 88,
+    "question": "MRSA wound care: appropriate PPE?",
+    "choices": {
+      "A": "Gloves and gown (contact precautions)",
+      "B": "N95 only",
+      "C": "No PPE if wound covered",
+      "D": "Surgical cap only"
+    },
+    "answer": "A",
+    "answer_explanation": "MRSA requires contact precautions."
+  },
+  {
+    "id": 89,
+    "question": "Tick bite with bull\u2019s-eye rash likely needs",
+    "choices": {
+      "A": "Doxycycline as prescribed",
+      "B": "Aspirin only",
+      "C": "No treatment",
+      "D": "High-dose steroids only"
+    },
+    "answer": "A",
+    "answer_explanation": "Erythema migrans suggests Lyme disease\u2014doxycycline commonly used."
+  },
+  {
+    "id": 90,
+    "question": "Urinary catheter insertion requires",
+    "choices": {
+      "A": "Strict sterile technique",
+      "B": "Clean technique",
+      "C": "No gloves",
+      "D": "Reusable equipment"
+    },
+    "answer": "A",
+    "answer_explanation": "Sterility is critical for catheter insertion."
+  },
+  {
+    "id": 91,
+    "question": "Antibiotic stewardship includes",
+    "choices": {
+      "A": "Obtaining cultures before antibiotics when possible",
+      "B": "Starting broad antibiotics without cultures",
+      "C": "Stopping antibiotics early without reason",
+      "D": "Ignoring local resistance patterns"
+    },
+    "answer": "A",
+    "answer_explanation": "Cultures first helps target therapy."
+  },
+  {
+    "id": 92,
+    "question": "Patient on isoniazid should be taught to report",
+    "choices": {
+      "A": "Tingling/numbness in extremities",
+      "B": "Mild drowsiness only",
+      "C": "Brown urine",
+      "D": "Weight gain"
+    },
+    "answer": "A",
+    "answer_explanation": "INH can cause peripheral neuropathy\u2014pyridoxine helps prevent."
+  },
+  {
+    "id": 93,
+    "question": "Rifampin common harmless effect is",
+    "choices": {
+      "A": "Orange discoloration of body fluids",
+      "B": "Severe neutropenia always",
+      "C": "Hair loss",
+      "D": "Green stools"
+    },
+    "answer": "A",
+    "answer_explanation": "Warn about orange/red urine/tears\u2014harmless but expected."
+  },
+  {
+    "id": 94,
+    "question": "Pneumonia sputum collection best time is",
+    "choices": {
+      "A": "Before antibiotics, early morning",
+      "B": "After meals",
+      "C": "Before bedtime",
+      "D": "Any time after antibiotics"
+    },
+    "answer": "A",
+    "answer_explanation": "Early morning deep cough sample before antibiotics increases yield."
+  },
+  {
+    "id": 95,
+    "question": "Neutropenic precautions include",
+    "choices": {
+      "A": "Avoiding fresh flowers/raw foods",
+      "B": "Encouraging crowded gatherings",
+      "C": "Skipping hand hygiene",
+      "D": "Roommates with infections"
+    },
+    "answer": "A",
+    "answer_explanation": "Reduce infection exposure in neutropenia."
+  },
+  {
+    "id": 96,
+    "question": "Enteral tube feeding residual is high. First action?",
+    "choices": {
+      "A": "Hold feeding and notify provider per protocol",
+      "B": "Increase rate",
+      "C": "Add free water",
+      "D": "Stop all meds"
+    },
+    "answer": "A",
+    "answer_explanation": "High residuals risk aspiration; hold and reassess per protocol."
+  },
+  {
+    "id": 97,
+    "question": "Clear liquid diet includes",
+    "choices": {
+      "A": "Broth and apple juice",
+      "B": "Milkshake",
+      "C": "Pureed vegetables",
+      "D": "Scrambled eggs"
+    },
+    "answer": "A",
+    "answer_explanation": "Clear liquids are transparent at room temperature."
+  },
+  {
+    "id": 98,
+    "question": "Patient with pancreatitis: priority pain management includes",
+    "choices": {
+      "A": "NPO, NG suction if severe, analgesia",
+      "B": "High-fat diet",
+      "C": "Early ambulation only",
+      "D": "Restrict fluids severely"
+    },
+    "answer": "A",
+    "answer_explanation": "Rest pancreas (NPO), manage pain, fluids, NG if needed."
+  },
+  {
+    "id": 99,
+    "question": "Liver cirrhosis with ascites: dietary teaching?",
+    "choices": {
+      "A": "Sodium restriction as prescribed",
+      "B": "High sodium to replace losses",
+      "C": "No protein ever",
+      "D": "Unlimited fluids"
+    },
+    "answer": "A",
+    "answer_explanation": "Sodium restriction helps control ascites."
+  },
+  {
+    "id": 100,
+    "question": "Patient with celiac disease should avoid",
+    "choices": {
+      "A": "Wheat, barley, rye",
+      "B": "Rice and corn",
+      "C": "Quinoa and potatoes",
+      "D": "Fruits"
+    },
+    "answer": "A",
+    "answer_explanation": "Gluten is in wheat, barley, rye."
+  },
+  {
+    "id": 101,
+    "question": "PEG tube falls out accidentally (tract immature). Nurse should",
+    "choices": {
+      "A": "Cover site and notify provider\u2014do not blindly reinsert",
+      "B": "Insert Foley catheter blindly",
+      "C": "Ignore and feed orally",
+      "D": "Tape closed permanently"
+    },
+    "answer": "A",
+    "answer_explanation": "Blind reinsertion risks peritonitis; provider to replace under guidance."
+  },
+  {
+    "id": 102,
+    "question": "Position after feeding a baby to reduce reflux is",
+    "choices": {
+      "A": "Hold upright",
+      "B": "Prone position on soft surface",
+      "C": "Flat supine immediately",
+      "D": "Head-down tilt"
+    },
+    "answer": "A",
+    "answer_explanation": "Upright after feeding reduces reflux/aspiration risk."
+  },
+  {
+    "id": 103,
+    "question": "Iron supplement best absorption with",
+    "choices": {
+      "A": "Vitamin C (e.g., orange juice)",
+      "B": "Milk",
+      "C": "Antacids simultaneously",
+      "D": "Tea immediately after"
+    },
+    "answer": "A",
+    "answer_explanation": "Vitamin C enhances iron absorption; calcium/tea reduce it."
+  },
+  {
+    "id": 104,
+    "question": "Refeeding syndrome risk sign is",
+    "choices": {
+      "A": "Hypophosphatemia",
+      "B": "Hypermagnesemia",
+      "C": "Bradyglycemia",
+      "D": "Hypernatremia only"
+    },
+    "answer": "A",
+    "answer_explanation": "Refeeding shifts electrolytes into cells\u2014low phosphate is classic."
+  },
+  {
+    "id": 105,
+    "question": "To prevent dumping syndrome after gastric surgery, teach to",
+    "choices": {
+      "A": "Eat small, frequent meals and lie down after eating",
+      "B": "Drink fluids with meals",
+      "C": "Eat high-sugar foods",
+      "D": "Stand immediately after meals"
+    },
+    "answer": "A",
+    "answer_explanation": "Small meals, limit fluids with meals, and rest after eating reduce dumping."
+  },
+  {
+    "id": 106,
+    "question": "Parkinson disease triad includes",
+    "choices": {
+      "A": "Bradykinesia, rigidity, resting tremor",
+      "B": "Spasticity, ataxia, chorea",
+      "C": "Hyperreflexia, clonus, fasciculations",
+      "D": "Hemiplegia, aphasia, neglect"
+    },
+    "answer": "A",
+    "answer_explanation": "Classic PD features are bradykinesia, rigidity, resting tremor."
+  },
+  {
+    "id": 107,
+    "question": "Best communication with a patient hearing voices (schizophrenia)?",
+    "choices": {
+      "A": "Acknowledge experience and focus on reality-based tasks",
+      "B": "Argue that the voices are fake",
+      "C": "Encourage isolation",
+      "D": "Join their delusions"
+    },
+    "answer": "A",
+    "answer_explanation": "Acknowledge feelings, set limits, focus on reality."
+  },
+  {
+    "id": 108,
+    "question": "Alzheimer patient wanders. Best safety intervention?",
+    "choices": {
+      "A": "Provide secured environment with ID bracelet",
+      "B": "Restrain routinely",
+      "C": "Remove all cues/signs",
+      "D": "Disable all lighting at night"
+    },
+    "answer": "A",
+    "answer_explanation": "Environmental safety and identification are key."
+  },
+  {
+    "id": 109,
+    "question": "ECT pre-procedure nursing action includes",
+    "choices": {
+      "A": "NPO status and remove dentures",
+      "B": "Large breakfast",
+      "C": "Stop all antihypertensives",
+      "D": "No consent needed"
+    },
+    "answer": "A",
+    "answer_explanation": "NPO, remove appliances, obtain consent, and pre-op checks."
+  },
+  {
+    "id": 110,
+    "question": "Meningitis positive Brudzinski sign indicates",
+    "choices": {
+      "A": "Meningeal irritation",
+      "B": "Liver failure",
+      "C": "Renal colic",
+      "D": "Myocardial ischemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Nuchal rigidity and related signs indicate meningeal irritation."
+  },
+  {
+    "id": 111,
+    "question": "Carbamazepine teaching should include monitoring for",
+    "choices": {
+      "A": "Agranulocytosis (report fever/sore throat)",
+      "B": "Hyponatremia only",
+      "C": "Hyperkalemia",
+      "D": "Bradycardia"
+    },
+    "answer": "A",
+    "answer_explanation": "Risk of low WBCs\u2014report infection signs."
+  },
+  {
+    "id": 112,
+    "question": "Phenytoin common side effect is",
+    "choices": {
+      "A": "Gingival hyperplasia",
+      "B": "Constipation only",
+      "C": "Hair loss severe",
+      "D": "Hyperreflexia"
+    },
+    "answer": "A",
+    "answer_explanation": "Teach dental hygiene to reduce gingival overgrowth."
+  },
+  {
+    "id": 113,
+    "question": "Alcohol withdrawal severe sign needing benzodiazepines is",
+    "choices": {
+      "A": "Seizures or delirium tremens",
+      "B": "Mild tremor only",
+      "C": "Yawning",
+      "D": "Sneezing"
+    },
+    "answer": "A",
+    "answer_explanation": "Benzodiazepines treat severe withdrawal and prevent seizures/DTs."
+  },
+  {
+    "id": 114,
+    "question": "Concussion discharge instruction includes",
+    "choices": {
+      "A": "Return if repeated vomiting or worsening headache",
+      "B": "No need to return for any symptom",
+      "C": "Sleep deprivation to monitor",
+      "D": "Resume contact sports immediately"
+    },
+    "answer": "A",
+    "answer_explanation": "Red flags require evaluation."
+  },
+  {
+    "id": 115,
+    "question": "Priority for a suicidal patient who has a specific plan is",
+    "choices": {
+      "A": "One-to-one observation and remove hazards",
+      "B": "Give pamphlets only",
+      "C": "Minimal supervision",
+      "D": "Delay intervention"
+    },
+    "answer": "A",
+    "answer_explanation": "Ensure safety with close observation and means restriction."
+  },
+  {
+    "id": 116,
+    "question": "Preeclampsia concerning sign is",
+    "choices": {
+      "A": "Severe headache and visual changes",
+      "B": "Mild ankle edema at day\u2019s end",
+      "C": "Slight nausea in first trimester",
+      "D": "Occasional heartburn"
+    },
+    "answer": "A",
+    "answer_explanation": "Severe CNS symptoms indicate possible worsening\u2014evaluate."
+  },
+  {
+    "id": 117,
+    "question": "Placenta previa suspected. Avoid",
+    "choices": {
+      "A": "Vaginal exam",
+      "B": "Ultrasound",
+      "C": "Type and screen",
+      "D": "Fetal monitoring"
+    },
+    "answer": "A",
+    "answer_explanation": "Digital exams risk bleeding with previa."
+  },
+  {
+    "id": 118,
+    "question": "Breastfeeding engorgement relief includes",
+    "choices": {
+      "A": "Frequent feeding and warm shower before feeds",
+      "B": "Avoid feeding until pain stops",
+      "C": "Tight binding to stop milk",
+      "D": "Ice before feeds only"
+    },
+    "answer": "A",
+    "answer_explanation": "Frequent emptying and warmth before, cold after can help."
+  },
+  {
+    "id": 119,
+    "question": "Umbilical cord care teaching includes",
+    "choices": {
+      "A": "Keep clean and dry; fold diaper below stump",
+      "B": "Apply thick ointments",
+      "C": "Cover with tight bandage",
+      "D": "Pull off stump early"
+    },
+    "answer": "A",
+    "answer_explanation": "Dry care and air exposure promote natural separation."
+  },
+  {
+    "id": 120,
+    "question": "After ROM (rupture of membranes), priority assessment is",
+    "choices": {
+      "A": "Fetal heart rate",
+      "B": "Maternal temperature only",
+      "C": "Maternal pulse only",
+      "D": "Fundal height"
+    },
+    "answer": "A",
+    "answer_explanation": "Check for cord prolapse/distress via FHR first."
+  },
+  {
+    "id": 121,
+    "question": "Breastfeeding mother on warfarin asks if safe.",
+    "choices": {
+      "A": "Warfarin is generally considered compatible; verify with provider",
+      "B": "Absolutely contraindicated always",
+      "C": "Only if infant is >6 months",
+      "D": "Only with formula supplementation"
+    },
+    "answer": "A",
+    "answer_explanation": "Warfarin is typically compatible with breastfeeding; confirm with prescriber."
+  },
+  {
+    "id": 122,
+    "question": "Newborn hypoglycemia sign is",
+    "choices": {
+      "A": "Jitteriness and poor feeding",
+      "B": "Hypertension",
+      "C": "Bradykinesia",
+      "D": "Hyperreflexia only"
+    },
+    "answer": "A",
+    "answer_explanation": "Low glucose in newborns may present with jitteriness/apnea/poor feeding."
+  },
+  {
+    "id": 123,
+    "question": "Fundus boggy and displaced to the right postpartum suggests",
+    "choices": {
+      "A": "Full bladder; encourage voiding",
+      "B": "Normal finding",
+      "C": "Uterine rupture",
+      "D": "Impending eclampsia"
+    },
+    "answer": "A",
+    "answer_explanation": "A distended bladder displaces the uterus; voiding helps."
+  },
+  {
+    "id": 124,
+    "question": "Breast engorgement in non-breastfeeding mother can be reduced by",
+    "choices": {
+      "A": "Supportive bra, ice, avoid stimulation",
+      "B": "Frequent pumping",
+      "C": "Warm compress and massage",
+      "D": "Increasing fluids"
+    },
+    "answer": "A",
+    "answer_explanation": "Suppress lactation by avoiding stimulation, using support and cold packs."
+  },
+  {
+    "id": 125,
+    "question": "Neonatal abstinence syndrome care includes",
+    "choices": {
+      "A": "Minimize stimulation and soothe gently",
+      "B": "Loud music",
+      "C": "Bright lights",
+      "D": "Frequent awakenings"
+    },
+    "answer": "A",
+    "answer_explanation": "Low-stimulation environment helps reduce symptoms."
+  },
+  {
+    "id": 126,
+    "question": "Acute pancreatitis lab most specific elevation is",
+    "choices": {
+      "A": "Serum lipase",
+      "B": "AST only",
+      "C": "LDH only",
+      "D": "Alkaline phosphatase"
+    },
+    "answer": "A",
+    "answer_explanation": "Lipase is more specific for pancreatitis than amylase."
+  },
+  {
+    "id": 127,
+    "question": "Best position for para-thoracentesis preparation?",
+    "choices": {
+      "A": "Sitting leaning forward over bedside table",
+      "B": "Supine flat",
+      "C": "Prone",
+      "D": "Trendelenburg"
+    },
+    "answer": "A",
+    "answer_explanation": "Sitting forward improves access and lung expansion post-procedure."
+  },
+  {
+    "id": 128,
+    "question": "Clostridioides difficile first-line cleaning for equipment is",
+    "choices": {
+      "A": "Bleach-based disinfectant",
+      "B": "Alcohol only",
+      "C": "Water only",
+      "D": "Vinegar"
+    },
+    "answer": "A",
+    "answer_explanation": "Sporicidal agents like bleach are required for C. diff environment cleaning."
+  },
+  {
+    "id": 129,
+    "question": "Thyroid storm sign is",
+    "choices": {
+      "A": "High fever, tachycardia, agitation",
+      "B": "Bradycardia, hypothermia",
+      "C": "Severe constipation",
+      "D": "Miosis only"
+    },
+    "answer": "A",
+    "answer_explanation": "Life-threatening hyperthyroidism presents with fever/tachycardia/AMS."
+  },
+  {
+    "id": 130,
+    "question": "Heart failure discharge teaching includes daily",
+    "choices": {
+      "A": "Weight monitoring and report rapid gains",
+      "B": "Unlimited sodium intake",
+      "C": "Skip diuretics if no edema",
+      "D": "Stop ACE inhibitors abruptly"
+    },
+    "answer": "A",
+    "answer_explanation": "Daily weights detect fluid retention early."
+  },
+  {
+    "id": 131,
+    "question": "Burns Parkland formula initial 24h fluid is 4 mL/kg/%TBSA; half in first 8h. Nurse priority is",
+    "choices": {
+      "A": "Start large-bore IVs and begin fluids quickly",
+      "B": "Restrict fluids",
+      "C": "Give only oral fluids",
+      "D": "Start hypotonic saline"
+    },
+    "answer": "A",
+    "answer_explanation": "Rapid isotonic fluid resuscitation is critical."
+  },
+  {
+    "id": 132,
+    "question": "Acute renal failure with high K+. Which order expect?",
+    "choices": {
+      "A": "Insulin with glucose IV",
+      "B": "Beta-blocker",
+      "C": "Warfarin",
+      "D": "Thyroxine"
+    },
+    "answer": "A",
+    "answer_explanation": "Insulin + dextrose shifts K+ into cells acutely."
+  },
+  {
+    "id": 133,
+    "question": "Anticoagulated patient with head injury. First?",
+    "choices": {
+      "A": "CT head without delay",
+      "B": "Observe at home",
+      "C": "Give aspirin",
+      "D": "Ambulate"
+    },
+    "answer": "A",
+    "answer_explanation": "Anticoagulation increases risk of intracranial bleed\u2014CT urgently."
+  },
+  {
+    "id": 134,
+    "question": "Sickle cell crisis pain management priority is",
+    "choices": {
+      "A": "Opioid analgesia and hydration",
+      "B": "NSAIDs only",
+      "C": "Bedrest without fluids",
+      "D": "Ice packs only"
+    },
+    "answer": "A",
+    "answer_explanation": "Adequate analgesia and fluids reduce vaso-occlusion."
+  },
+  {
+    "id": 135,
+    "question": "Myasthenia gravis crisis risk increases with",
+    "choices": {
+      "A": "Infection and stress",
+      "B": "High protein diet",
+      "C": "Warm weather",
+      "D": "High altitude"
+    },
+    "answer": "A",
+    "answer_explanation": "Infections/stress can precipitate MG crisis\u2014monitor respiratory status."
+  },
+  {
+    "id": 136,
+    "question": "Pulmonary edema symptom needing rapid action is",
+    "choices": {
+      "A": "Pink frothy sputum and severe dyspnea",
+      "B": "Mild dry cough only",
+      "C": "Sneezing",
+      "D": "Hiccups"
+    },
+    "answer": "A",
+    "answer_explanation": "Classic sign of acute pulmonary edema."
+  },
+  {
+    "id": 137,
+    "question": "Clamping chest tube accidentally. Nurse should",
+    "choices": {
+      "A": "Unclamp immediately to prevent tension pneumothorax",
+      "B": "Keep clamped for 1 hour",
+      "C": "Raise drainage above chest",
+      "D": "Add continuous suction to clamp"
+    },
+    "answer": "A",
+    "answer_explanation": "Avoid clamping; it can cause tension pneumothorax."
+  },
+  {
+    "id": 138,
+    "question": "Positioning for patient after liver biopsy",
+    "choices": {
+      "A": "Right side-lying to splint the site",
+      "B": "Left side-lying",
+      "C": "Supine with HOB 90\u00b0",
+      "D": "Prone"
+    },
+    "answer": "A",
+    "answer_explanation": "Lie on the right side to apply pressure and reduce bleeding risk."
+  },
+  {
+    "id": 139,
+    "question": "Which is a sign of fluid volume deficit?",
+    "choices": {
+      "A": "Orthostatic hypotension",
+      "B": "Crackles",
+      "C": "Jugular venous distention",
+      "D": "Edema"
+    },
+    "answer": "A",
+    "answer_explanation": "Volume depletion presents with orthostatic hypotension, tachycardia, dry mucosa."
+  },
+  {
+    "id": 140,
+    "question": "First action for extravasation during vesicant chemotherapy",
+    "choices": {
+      "A": "Stop infusion and follow extravasation protocol",
+      "B": "Elevate rate",
+      "C": "Flush aggressively",
+      "D": "Ignore and continue"
+    },
+    "answer": "A",
+    "answer_explanation": "Stop infusion and manage per protocol; flushing may worsen injury."
+  },
+  {
+    "id": 141,
+    "question": "Peak flow meter green zone indicates",
+    "choices": {
+      "A": "80\u2013100% of personal best",
+      "B": "50\u201370% of personal best",
+      "C": "<50% of personal best",
+      "D": "Any value after albuterol"
+    },
+    "answer": "A",
+    "answer_explanation": "Green zone is 80\u2013100%; yellow 50\u201379%; red <50%."
+  },
+  {
+    "id": 142,
+    "question": "Best site to check pulse in cardiac arrest in adults",
+    "choices": {
+      "A": "Carotid artery",
+      "B": "Radial artery",
+      "C": "Dorsalis pedis",
+      "D": "Brachial vein"
+    },
+    "answer": "A",
+    "answer_explanation": "Carotid pulse is assessed during ACLS for adults."
+  },
+  {
+    "id": 143,
+    "question": "CPR compression rate for adults is",
+    "choices": {
+      "A": "100\u2013120 per minute",
+      "B": "60\u201380 per minute",
+      "C": "130\u2013160 per minute",
+      "D": "40\u201360 per minute"
+    },
+    "answer": "A",
+    "answer_explanation": "Recommended rate is 100\u2013120/min."
+  },
+  {
+    "id": 144,
+    "question": "Primary prevention example is",
+    "choices": {
+      "A": "Immunization",
+      "B": "Rehabilitation",
+      "C": "Chemotherapy",
+      "D": "Surgery"
+    },
+    "answer": "A",
+    "answer_explanation": "Primary prevention aims to prevent disease onset."
+  },
+  {
+    "id": 145,
+    "question": "To reduce ventilator-associated pneumonia risk",
+    "choices": {
+      "A": "Elevate HOB 30\u201345\u00b0 and oral care",
+      "B": "Routine gastric lavage",
+      "C": "Frequent sedation boluses",
+      "D": "Avoid suctioning"
+    },
+    "answer": "A",
+    "answer_explanation": "HOB elevation and oral care are key VAP prevention measures."
+  },
+  {
+    "id": 146,
+    "question": "Clostridioides difficile antibiotic of choice (first-line) often is",
+    "choices": {
+      "A": "Oral vancomycin (per guidelines)",
+      "B": "IV vancomycin",
+      "C": "Amoxicillin",
+      "D": "Cephalexin"
+    },
+    "answer": "A",
+    "answer_explanation": "Oral vancomycin/fidaxomicin per guidelines\u2014IV vanc doesn\u2019t reach gut lumen."
+  },
+  {
+    "id": 147,
+    "question": "SIADH lab pattern shows",
+    "choices": {
+      "A": "Hyponatremia and low serum osmolality",
+      "B": "Hypernatremia and high serum osmolality",
+      "C": "Hyperkalemia only",
+      "D": "Metabolic alkalosis"
+    },
+    "answer": "A",
+    "answer_explanation": "Water retention dilutes sodium and serum osmolality in SIADH."
+  },
+  {
+    "id": 148,
+    "question": "Inhaler use: order for MDI bronchodilator and corticosteroid",
+    "choices": {
+      "A": "Bronchodilator first, then corticosteroid",
+      "B": "Steroid first, then bronchodilator",
+      "C": "Either order the same",
+      "D": "Use together at once"
+    },
+    "answer": "A",
+    "answer_explanation": "Open airways first for better steroid deposition."
+  },
+  {
+    "id": 149,
+    "question": "Hypocalcemia sign is",
+    "choices": {
+      "A": "Positive Chvostek/Trousseau signs",
+      "B": "Bradykinesia",
+      "C": "Brown urine",
+      "D": "Dry skin only"
+    },
+    "answer": "A",
+    "answer_explanation": "Neuromuscular irritability occurs in low calcium states."
+  },
+  {
+    "id": 150,
+    "question": "Priority care for neutropenic fever (38.3\u00b0C)",
+    "choices": {
+      "A": "Begin broad-spectrum IV antibiotics promptly",
+      "B": "Wait for cultures for 24 hours",
+      "C": "Discharge home",
+      "D": "No action needed"
+    },
+    "answer": "A",
+    "answer_explanation": "Neutropenic fever is an emergency\u2014start empiric IV antibiotics quickly."
+  }
+]

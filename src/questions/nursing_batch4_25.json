@@ -1,0 +1,302 @@
+[
+  {
+    "id": 76,
+    "question": "Which nursing action helps prevent ventilator-associated pneumonia (VAP)?",
+    "choices": {
+      "A": "Elevate head of bed 30–45°",
+      "B": "Keep patient supine",
+      "C": "Limit oral care",
+      "D": "Avoid suctioning"
+    },
+    "answer": "A",
+    "answer_explanation": "Elevating the head of bed and providing oral care reduces VAP risk."
+  },
+  {
+    "id": 77,
+    "question": "Which patient condition requires droplet precautions?",
+    "choices": {
+      "A": "Influenza",
+      "B": "Tuberculosis",
+      "C": "Hepatitis B",
+      "D": "MRSA"
+    },
+    "answer": "A",
+    "answer_explanation": "Influenza spreads via droplets and requires a surgical mask."
+  },
+  {
+    "id": 78,
+    "question": "What is the priority nursing action when a patient reports sudden shortness of breath post-surgery?",
+    "choices": {
+      "A": "Assess airway and apply oxygen",
+      "B": "Give analgesics",
+      "C": "Ambulate patient",
+      "D": "Encourage deep sleep"
+    },
+    "answer": "A",
+    "answer_explanation": "Always assess airway and breathing first when SOB occurs."
+  },
+  {
+    "id": 79,
+    "question": "Which is an example of primary prevention in community health?",
+    "choices": {
+      "A": "Immunization",
+      "B": "Rehabilitation",
+      "C": "Cancer screening",
+      "D": "Chemotherapy"
+    },
+    "answer": "A",
+    "answer_explanation": "Primary prevention aims to prevent disease before it occurs, such as vaccination."
+  },
+  {
+    "id": 80,
+    "question": "Which assessment finding indicates possible compartment syndrome?",
+    "choices": {
+      "A": "Severe pain unrelieved by analgesics",
+      "B": "Bounding distal pulses",
+      "C": "Warm pink skin",
+      "D": "Improved sensation"
+    },
+    "answer": "A",
+    "answer_explanation": "Pain out of proportion and unrelieved by medication is an early sign of compartment syndrome."
+  },
+  {
+    "id": 81,
+    "question": "Which patient statement shows correct understanding of nitroglycerin use?",
+    "choices": {
+      "A": "I should sit down before taking it to prevent dizziness",
+      "B": "I can take it with Viagra safely",
+      "C": "I will swallow the tablet whole without letting it dissolve",
+      "D": "I should take it only once a week"
+    },
+    "answer": "A",
+    "answer_explanation": "Nitroglycerin can cause hypotension; patients should sit to avoid syncope."
+  },
+  {
+    "id": 82,
+    "question": "Which electrolyte imbalance is associated with tetany and muscle spasms?",
+    "choices": {
+      "A": "Hypocalcemia",
+      "B": "Hypernatremia",
+      "C": "Hyperkalemia",
+      "D": "Hyperglycemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Low calcium increases neuromuscular excitability, leading to tetany."
+  },
+  {
+    "id": 83,
+    "question": "Which lab finding is most concerning for a patient on heparin therapy?",
+    "choices": {
+      "A": "Platelet count 45,000/µL",
+      "B": "Hemoglobin 13 g/dL",
+      "C": "WBC 8,000/µL",
+      "D": "Sodium 140 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Thrombocytopenia is a dangerous complication (HIT) of heparin therapy."
+  },
+  {
+    "id": 84,
+    "question": "Which infection requires contact precautions?",
+    "choices": {
+      "A": "MRSA",
+      "B": "Measles",
+      "C": "Influenza",
+      "D": "TB"
+    },
+    "answer": "A",
+    "answer_explanation": "MRSA spreads via contact; gloves and gown are required."
+  },
+  {
+    "id": 85,
+    "question": "Which lab value indicates anemia?",
+    "choices": {
+      "A": "Hemoglobin 8 g/dL",
+      "B": "Hemoglobin 12 g/dL",
+      "C": "Hemoglobin 14 g/dL",
+      "D": "Hemoglobin 16 g/dL"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal hemoglobin is 12–16 g/dL for women, 13–17 g/dL for men. A value of 8 indicates anemia."
+  },
+  {
+    "id": 86,
+    "question": "Which is the first action when a patient develops signs of evisceration?",
+    "choices": {
+      "A": "Cover with sterile saline-soaked gauze",
+      "B": "Push organs back inside",
+      "C": "Apply dry dressing",
+      "D": "Ambulate immediately"
+    },
+    "answer": "A",
+    "answer_explanation": "Keep exposed organs moist and sterile until surgical repair."
+  },
+  {
+    "id": 87,
+    "question": "Which condition requires negative-pressure isolation?",
+    "choices": {
+      "A": "Measles",
+      "B": "Hepatitis A",
+      "C": "Influenza",
+      "D": "Scabies"
+    },
+    "answer": "A",
+    "answer_explanation": "Measles is airborne and requires a negative-pressure room and N95 mask."
+  },
+  {
+    "id": 88,
+    "question": "Which lab finding is associated with renal failure?",
+    "choices": {
+      "A": "Elevated creatinine",
+      "B": "Low potassium",
+      "C": "Low BUN",
+      "D": "Low phosphorus"
+    },
+    "answer": "A",
+    "answer_explanation": "Renal failure causes retention of creatinine, BUN, and potassium."
+  },
+  {
+    "id": 89,
+    "question": "Which is the priority intervention for a patient with suspected stroke within 1 hour of onset?",
+    "choices": {
+      "A": "Arrange immediate CT scan",
+      "B": "Give aspirin immediately",
+      "C": "Offer fluids orally",
+      "D": "Monitor for 24 hours"
+    },
+    "answer": "A",
+    "answer_explanation": "CT scan is urgent to determine ischemic vs. hemorrhagic stroke."
+  },
+  {
+    "id": 90,
+    "question": "Which assessment finding indicates fluid overload?",
+    "choices": {
+      "A": "Crackles in lungs",
+      "B": "Dry mucous membranes",
+      "C": "Orthostatic hypotension",
+      "D": "Poor skin turgor"
+    },
+    "answer": "A",
+    "answer_explanation": "Crackles suggest pulmonary edema from fluid overload."
+  },
+  {
+    "id": 91,
+    "question": "Which sign is an early indicator of hypoxia?",
+    "choices": {
+      "A": "Restlessness",
+      "B": "Cyanosis",
+      "C": "Bradycardia",
+      "D": "Confusion"
+    },
+    "answer": "A",
+    "answer_explanation": "Restlessness and anxiety occur early in hypoxia; cyanosis is a late sign."
+  },
+  {
+    "id": 92,
+    "question": "Which action is priority when a patient develops chest pain unrelieved by nitroglycerin?",
+    "choices": {
+      "A": "Call emergency response and give oxygen",
+      "B": "Encourage walking",
+      "C": "Give fluids",
+      "D": "Document and monitor"
+    },
+    "answer": "A",
+    "answer_explanation": "Unrelieved chest pain may indicate MI; emergency response and oxygen are priority."
+  },
+  {
+    "id": 93,
+    "question": "Which patient teaching is essential for a client taking corticosteroids?",
+    "choices": {
+      "A": "Do not stop abruptly; taper dose",
+      "B": "Double the dose when feeling better",
+      "C": "Avoid all exercise",
+      "D": "Take only when symptomatic"
+    },
+    "answer": "A",
+    "answer_explanation": "Stopping abruptly can cause adrenal crisis; taper dose under supervision."
+  },
+  {
+    "id": 94,
+    "question": "Which assessment should the nurse perform before administering digoxin?",
+    "choices": {
+      "A": "Check apical pulse",
+      "B": "Check blood pressure",
+      "C": "Check respiratory rate",
+      "D": "Check temperature"
+    },
+    "answer": "A",
+    "answer_explanation": "Digoxin can cause bradycardia; always check apical pulse before administration."
+  },
+  {
+    "id": 95,
+    "question": "Which is the priority nursing action for a patient with hypoglycemia (conscious)?",
+    "choices": {
+      "A": "Give 15 g fast-acting carbohydrate",
+      "B": "Administer insulin",
+      "C": "Encourage exercise",
+      "D": "Offer a high-fat meal"
+    },
+    "answer": "A",
+    "answer_explanation": "The immediate action is to give 15 g carbohydrate and recheck glucose."
+  },
+  {
+    "id": 96,
+    "question": "Which complication is most likely in an immobile patient?",
+    "choices": {
+      "A": "Pressure ulcers",
+      "B": "Improved circulation",
+      "C": "Increased muscle strength",
+      "D": "Improved lung expansion"
+    },
+    "answer": "A",
+    "answer_explanation": "Immobility increases the risk of pressure ulcers and pneumonia."
+  },
+  {
+    "id": 97,
+    "question": "Which infection requires soap and water handwashing instead of alcohol rub?",
+    "choices": {
+      "A": "C. difficile",
+      "B": "Influenza",
+      "C": "MRSA",
+      "D": "Measles"
+    },
+    "answer": "A",
+    "answer_explanation": "C. difficile spores are not killed by alcohol-based rubs; use soap and water."
+  },
+  {
+    "id": 98,
+    "question": "Which symptom is characteristic of hypoglycemia?",
+    "choices": {
+      "A": "Tremors and diaphoresis",
+      "B": "Polyuria",
+      "C": "Weight gain",
+      "D": "Slow wound healing"
+    },
+    "answer": "A",
+    "answer_explanation": "Adrenergic symptoms such as tremors and sweating occur in hypoglycemia."
+  },
+  {
+    "id": 99,
+    "question": "Which lab value indicates uncontrolled diabetes?",
+    "choices": {
+      "A": "HbA1c 10%",
+      "B": "HbA1c 6%",
+      "C": "HbA1c 5%",
+      "D": "HbA1c 4%"
+    },
+    "answer": "A",
+    "answer_explanation": "An HbA1c ≥7% indicates poor long-term glucose control."
+  },
+  {
+    "id": 100,
+    "question": "Which is the priority action when a patient develops stridor after thyroidectomy?",
+    "choices": {
+      "A": "Call emergency response and maintain airway",
+      "B": "Offer water to drink",
+      "C": "Reassure the patient",
+      "D": "Encourage deep breathing"
+    },
+    "answer": "A",
+    "answer_explanation": "Stridor suggests airway obstruction; emergency airway management is required."
+  }
+]

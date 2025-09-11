@@ -1,0 +1,302 @@
+[
+  {
+    "id": 51,
+    "question": "Newborn jaundice under phototherapy: key nursing action?",
+    "choices": {
+      "A": "Cover eyes and monitor temperature/fluids",
+      "B": "Keep lights close to skin without protection",
+      "C": "Stop feeds during therapy",
+      "D": "Apply oil to enhance light penetration"
+    },
+    "answer": "A",
+    "answer_explanation": "Protect eyes and maintain hydration and temperature during phototherapy."
+  },
+  {
+    "id": 52,
+    "question": "Which vaccine is contraindicated in severe egg anaphylaxis (verify local guidance)?",
+    "choices": {
+      "A": "Influenza (some forms)",
+      "B": "Hepatitis B",
+      "C": "DTaP",
+      "D": "Inactivated polio (IPV)"
+    },
+    "answer": "A",
+    "answer_explanation": "Some influenza vaccines are egg-based; check local protocols for severe reactions."
+  },
+  {
+    "id": 53,
+    "question": "Dehydration best indicator in infants is",
+    "choices": {
+      "A": "Decreased wet diapers",
+      "B": "Increased tearing",
+      "C": "Bulging fontanel",
+      "D": "Weight gain"
+    },
+    "answer": "A",
+    "answer_explanation": "Reduced urine output is a sensitive indicator of dehydration in infants."
+  },
+  {
+    "id": 54,
+    "question": "Best site for IM injection in infants (<1 year) is",
+    "choices": {
+      "A": "Vastus lateralis",
+      "B": "Deltoid",
+      "C": "Dorsogluteal",
+      "D": "Biceps"
+    },
+    "answer": "A",
+    "answer_explanation": "Vastus lateralis (anterolateral thigh) is recommended for infants."
+  },
+  {
+    "id": 55,
+    "question": "Best therapeutic response to a grieving client who is crying?",
+    "choices": {
+      "A": "\u201cI\u2019m here with you. Tell me more about what you\u2019re feeling.\u201d",
+      "B": "\u201cDon\u2019t cry; you must be strong.\u201d",
+      "C": "\u201cEverything happens for a reason.\u201d",
+      "D": "\u201cLet\u2019s talk about something else.\u201d"
+    },
+    "answer": "A",
+    "answer_explanation": "Use empathy and encourage expression; avoid false reassurance or minimizing."
+  },
+  {
+    "id": 56,
+    "question": "Which side effect of antipsychotics needs urgent action?",
+    "choices": {
+      "A": "Neck stiffness and high fever",
+      "B": "Dry mouth",
+      "C": "Mild tremor after initiation",
+      "D": "Increased appetite"
+    },
+    "answer": "A",
+    "answer_explanation": "Neuroleptic malignant syndrome: rigidity, hyperthermia; medical emergency."
+  },
+  {
+    "id": 57,
+    "question": "Lithium toxicity early sign is",
+    "choices": {
+      "A": "GI upset (nausea, vomiting, diarrhea)",
+      "B": "Bradycardia only",
+      "C": "Severe hypertension",
+      "D": "Hyperreflexia"
+    },
+    "answer": "A",
+    "answer_explanation": "GI symptoms can be early signs; monitor levels and hydration."
+  },
+  {
+    "id": 58,
+    "question": "Before giving furosemide IV, assess",
+    "choices": {
+      "A": "Blood pressure and potassium level",
+      "B": "Capillary refill only",
+      "C": "Pupillary reaction",
+      "D": "Deep tendon reflexes"
+    },
+    "answer": "A",
+    "answer_explanation": "Loop diuretics can cause hypotension and hypokalemia."
+  },
+  {
+    "id": 59,
+    "question": "Which patient should not receive a beta-blocker without caution?",
+    "choices": {
+      "A": "Asthma with active bronchospasm",
+      "B": "Stable hypothyroidism",
+      "C": "Controlled GERD",
+      "D": "Iron deficiency anemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Beta-blockers can exacerbate bronchospasm in asthma."
+  },
+  {
+    "id": 60,
+    "question": "Heparin therapy effectiveness is monitored by",
+    "choices": {
+      "A": "aPTT",
+      "B": "INR",
+      "C": "Platelet function assay",
+      "D": "Serum creatinine"
+    },
+    "answer": "A",
+    "answer_explanation": "Unfractionated heparin is monitored by aPTT; warfarin by INR."
+  },
+  {
+    "id": 61,
+    "question": "Evisceration occurs at surgical site. First action?",
+    "choices": {
+      "A": "Cover with sterile saline-moistened gauze and call surgeon",
+      "B": "Push organs back and tape firmly",
+      "C": "Apply dry gauze and ambulate",
+      "D": "Give oral analgesic and observe"
+    },
+    "answer": "A",
+    "answer_explanation": "Keep tissues moist/sterile and seek urgent surgical attention."
+  },
+  {
+    "id": 62,
+    "question": "Best indicator of effective fluid resuscitation post-op is",
+    "choices": {
+      "A": "Improving urine output and stable vitals",
+      "B": "Warm hands",
+      "C": "Patient feels thirsty",
+      "D": "Dry incision site"
+    },
+    "answer": "A",
+    "answer_explanation": "Perfusion is reflected in adequate urine output and stable hemodynamics."
+  },
+  {
+    "id": 63,
+    "question": "Which task can be delegated to an experienced UAP?",
+    "choices": {
+      "A": "Ambulating a stable post-op patient",
+      "B": "Assessing pain level",
+      "C": "Teaching incentive spirometry use",
+      "D": "Evaluating response to diuretics"
+    },
+    "answer": "A",
+    "answer_explanation": "UAP can perform non-assessment tasks on stable patients."
+  },
+  {
+    "id": 64,
+    "question": "Informed consent for surgery is primarily the responsibility of the",
+    "choices": {
+      "A": "Provider performing the procedure",
+      "B": "Circulating nurse",
+      "C": "Charge nurse",
+      "D": "Hospital administrator"
+    },
+    "answer": "A",
+    "answer_explanation": "The provider explains risks/benefits and obtains consent; nurse verifies and witnesses."
+  },
+  {
+    "id": 65,
+    "question": "When a medication error occurs, the nurse should first",
+    "choices": {
+      "A": "Assess the patient",
+      "B": "Alter the chart entry",
+      "C": "Notify media relations",
+      "D": "Leave the unit"
+    },
+    "answer": "A",
+    "answer_explanation": "Patient safety comes first; assess, then notify provider and complete incident report."
+  },
+  {
+    "id": 66,
+    "question": "A patient with pneumonia has RR 28, SpO2 88% on room air. First action?",
+    "choices": {
+      "A": "Apply oxygen and reassess",
+      "B": "Offer fluids",
+      "C": "Call family",
+      "D": "Keep NPO"
+    },
+    "answer": "A",
+    "answer_explanation": "Treat hypoxemia first (ABCs)."
+  },
+  {
+    "id": 67,
+    "question": "Elderly patient on opioids has RR 8 and pin-point pupils. Antidote?",
+    "choices": {
+      "A": "Naloxone",
+      "B": "Flumazenil",
+      "C": "Atropine",
+      "D": "Protamine sulfate"
+    },
+    "answer": "A",
+    "answer_explanation": "Naloxone reverses opioid-induced respiratory depression."
+  },
+  {
+    "id": 68,
+    "question": "BP cuff too small will cause readings to be",
+    "choices": {
+      "A": "Falsely high",
+      "B": "Falsely low",
+      "C": "Unaffected",
+      "D": "Erratic only"
+    },
+    "answer": "A",
+    "answer_explanation": "Small cuffs overestimate BP."
+  },
+  {
+    "id": 69,
+    "question": "Patient on ACE inhibitor develops swelling of lips and tongue. Concern?",
+    "choices": {
+      "A": "Angioedema",
+      "B": "Urticaria only",
+      "C": "Dehydration",
+      "D": "Bronchitis"
+    },
+    "answer": "A",
+    "answer_explanation": "ACE inhibitors can cause life-threatening angioedema."
+  },
+  {
+    "id": 70,
+    "question": "Priority teaching for insulin lispro (rapid-acting)?",
+    "choices": {
+      "A": "Eat within 15 minutes of injection",
+      "B": "Skip meals to lose weight",
+      "C": "Inject at bedtime only",
+      "D": "Shake vigorously"
+    },
+    "answer": "A",
+    "answer_explanation": "Lispro has rapid onset; prevent hypoglycemia by eating promptly."
+  },
+  {
+    "id": 71,
+    "question": "Patient with DVT suddenly has chest pain and dyspnea. Suspect",
+    "choices": {
+      "A": "Pulmonary embolism",
+      "B": "MI only",
+      "C": "Pneumothorax",
+      "D": "Asthma"
+    },
+    "answer": "A",
+    "answer_explanation": "DVT can embolize to lungs causing PE."
+  },
+  {
+    "id": 72,
+    "question": "First action for epistaxis in hypertensive patient?",
+    "choices": {
+      "A": "Sit forward and pinch soft part of nose",
+      "B": "Lie flat with neck extended",
+      "C": "Insert cotton swabs deeply",
+      "D": "Apply heat packs"
+    },
+    "answer": "A",
+    "answer_explanation": "Lean forward and apply pressure to control bleeding."
+  },
+  {
+    "id": 73,
+    "question": "Best position for a patient with heart failure and orthopnea?",
+    "choices": {
+      "A": "High Fowler\u2019s with legs dependent",
+      "B": "Supine",
+      "C": "Trendelenburg",
+      "D": "Prone"
+    },
+    "answer": "A",
+    "answer_explanation": "Upright position improves breathing and reduces preload."
+  },
+  {
+    "id": 74,
+    "question": "Sterile gloving: after donning first glove, avoid touching",
+    "choices": {
+      "A": "Bare skin with gloved hand",
+      "B": "Inner glove surface",
+      "C": "Sterile field with sterile glove",
+      "D": "Cuff of second glove"
+    },
+    "answer": "A",
+    "answer_explanation": "Do not contaminate the sterile glove by touching skin."
+  },
+  {
+    "id": 75,
+    "question": "Suspected transfusion reaction. First step?",
+    "choices": {
+      "A": "Stop the transfusion",
+      "B": "Increase rate and observe",
+      "C": "Give aspirin",
+      "D": "Discard blood bag immediately"
+    },
+    "answer": "A",
+    "answer_explanation": "Stop infusion, assess, keep IV with normal saline, notify provider/blood bank."
+  }
+]

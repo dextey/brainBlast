@@ -1,0 +1,302 @@
+[
+  {
+    "id": 101,
+    "question": "Which is the priority nursing intervention for a patient with hypoglycemia who is conscious?",
+    "choices": {
+      "A": "Give 15 g of fast-acting carbohydrate",
+      "B": "Administer long-acting insulin",
+      "C": "Encourage exercise",
+      "D": "Offer a high-fat meal"
+    },
+    "answer": "A",
+    "answer_explanation": "Use the 15/15 rule: give 15 g carbohydrate and recheck glucose in 15 minutes."
+  },
+  {
+    "id": 102,
+    "question": "Which assessment is most important for a patient receiving magnesium sulfate infusion?",
+    "choices": {
+      "A": "Deep tendon reflexes",
+      "B": "Blood pressure",
+      "C": "Temperature",
+      "D": "Heart rate"
+    },
+    "answer": "A",
+    "answer_explanation": "Magnesium toxicity causes loss of DTRs and respiratory depression."
+  },
+  {
+    "id": 103,
+    "question": "Which action helps prevent catheter-associated urinary tract infection (CAUTI)?",
+    "choices": {
+      "A": "Remove catheter as soon as possible",
+      "B": "Change catheter daily",
+      "C": "Irrigate catheter every shift",
+      "D": "Keep drainage bag above bladder level"
+    },
+    "answer": "A",
+    "answer_explanation": "Early removal of catheters and aseptic technique are the most effective prevention."
+  },
+  {
+    "id": 104,
+    "question": "Which finding requires immediate action in a patient with COPD?",
+    "choices": {
+      "A": "Respiratory rate 8/min and drowsy",
+      "B": "Chronic cough",
+      "C": "Barrel chest",
+      "D": "SpO2 90% on room air"
+    },
+    "answer": "A",
+    "answer_explanation": "Respiratory depression with somnolence indicates CO2 retention and impending failure."
+  },
+  {
+    "id": 105,
+    "question": "Which nursing action is correct when giving a blood transfusion?",
+    "choices": {
+      "A": "Verify patient identity with another nurse",
+      "B": "Warm blood in hot water",
+      "C": "Flush IV line with dextrose 5%",
+      "D": "Use a small gauge needle"
+    },
+    "answer": "A",
+    "answer_explanation": "Always verify patient identity with another nurse and use normal saline IV line."
+  },
+  {
+    "id": 106,
+    "question": "Which patient teaching is essential for someone on warfarin therapy?",
+    "choices": {
+      "A": "Avoid sudden changes in vitamin K intake",
+      "B": "Take aspirin daily",
+      "C": "Increase intake of green leafy vegetables",
+      "D": "Stop medication if no bruising occurs"
+    },
+    "answer": "A",
+    "answer_explanation": "Vitamin K affects INR; intake should remain consistent."
+  },
+  {
+    "id": 107,
+    "question": "Which finding suggests fluid volume deficit?",
+    "choices": {
+      "A": "Orthostatic hypotension",
+      "B": "Crackles in lungs",
+      "C": "Jugular venous distention",
+      "D": "Bounding pulses"
+    },
+    "answer": "A",
+    "answer_explanation": "Orthostatic hypotension and tachycardia indicate hypovolemia."
+  },
+  {
+    "id": 108,
+    "question": "Which sign indicates hypomagnesemia?",
+    "choices": {
+      "A": "Hyperreflexia and tremors",
+      "B": "Bradycardia",
+      "C": "Hypotension",
+      "D": "Warm flushed skin"
+    },
+    "answer": "A",
+    "answer_explanation": "Low magnesium increases neuromuscular excitability, causing tremors and hyperreflexia."
+  },
+  {
+    "id": 109,
+    "question": "Which patient is at highest risk for hypokalemia?",
+    "choices": {
+      "A": "Patient taking loop diuretics",
+      "B": "Patient with renal failure",
+      "C": "Patient taking spironolactone",
+      "D": "Patient receiving potassium supplements"
+    },
+    "answer": "A",
+    "answer_explanation": "Loop diuretics (like furosemide) increase potassium excretion."
+  },
+  {
+    "id": 110,
+    "question": "Which is the priority nursing action when a patient develops chest pain?",
+    "choices": {
+      "A": "Assess airway, breathing, circulation",
+      "B": "Call the patient’s family",
+      "C": "Encourage fluids",
+      "D": "Document the pain"
+    },
+    "answer": "A",
+    "answer_explanation": "Always assess ABCs first when chest pain occurs."
+  },
+  {
+    "id": 111,
+    "question": "Which is the first nursing action when a patient develops hypoglycemia and is unconscious?",
+    "choices": {
+      "A": "Administer IV dextrose",
+      "B": "Give oral juice",
+      "C": "Encourage walking",
+      "D": "Offer crackers"
+    },
+    "answer": "A",
+    "answer_explanation": "Unconscious hypoglycemic patients require IV dextrose or IM glucagon."
+  },
+  {
+    "id": 112,
+    "question": "Which patient teaching is correct for someone prescribed digoxin?",
+    "choices": {
+      "A": "Check your pulse before taking the medication",
+      "B": "Double the dose if you miss one",
+      "C": "Stop medication if you feel well",
+      "D": "Take with antacids daily"
+    },
+    "answer": "A",
+    "answer_explanation": "Patients must check their apical pulse and hold if HR <60 bpm."
+  },
+  {
+    "id": 113,
+    "question": "Which vital sign pattern is typical of shock?",
+    "choices": {
+      "A": "Hypotension, tachycardia, tachypnea",
+      "B": "Hypertension, bradycardia, bradypnea",
+      "C": "Normal vitals",
+      "D": "Hypotension, bradycardia, hypothermia"
+    },
+    "answer": "A",
+    "answer_explanation": "Shock presents with low BP, fast HR, and rapid breathing."
+  },
+  {
+    "id": 114,
+    "question": "Which electrolyte imbalance can cause muscle weakness and flattened T waves?",
+    "choices": {
+      "A": "Hypokalemia",
+      "B": "Hyperkalemia",
+      "C": "Hypernatremia",
+      "D": "Hypercalcemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Low potassium causes muscle weakness and ECG changes such as flattened T waves."
+  },
+  {
+    "id": 115,
+    "question": "Which is the priority nursing action for a patient with eclampsia?",
+    "choices": {
+      "A": "Maintain airway and prevent injury during seizures",
+      "B": "Give oral fluids",
+      "C": "Encourage ambulation",
+      "D": "Document the seizure"
+    },
+    "answer": "A",
+    "answer_explanation": "Airway and safety are priorities during eclamptic seizures."
+  },
+  {
+    "id": 116,
+    "question": "Which patient condition requires contact isolation?",
+    "choices": {
+      "A": "Scabies",
+      "B": "Influenza",
+      "C": "Measles",
+      "D": "TB"
+    },
+    "answer": "A",
+    "answer_explanation": "Scabies spreads via direct contact and requires gown and gloves."
+  },
+  {
+    "id": 117,
+    "question": "Which is the best position for a patient with pulmonary edema?",
+    "choices": {
+      "A": "High Fowler’s",
+      "B": "Supine",
+      "C": "Trendelenburg",
+      "D": "Prone"
+    },
+    "answer": "A",
+    "answer_explanation": "High Fowler’s improves ventilation and reduces preload in pulmonary edema."
+  },
+  {
+    "id": 118,
+    "question": "Which nursing action prevents aspiration in a patient with dysphagia?",
+    "choices": {
+      "A": "Sit upright during meals",
+      "B": "Give thin liquids",
+      "C": "Feed quickly",
+      "D": "Tilt head back when swallowing"
+    },
+    "answer": "A",
+    "answer_explanation": "Upright position and thickened fluids help prevent aspiration."
+  },
+  {
+    "id": 119,
+    "question": "Which electrolyte imbalance is expected in renal failure?",
+    "choices": {
+      "A": "Hyperkalemia",
+      "B": "Hypokalemia",
+      "C": "Hyponatremia",
+      "D": "Hypocalcemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Impaired renal excretion leads to potassium retention."
+  },
+  {
+    "id": 120,
+    "question": "Which vital sign change is an early indicator of internal bleeding?",
+    "choices": {
+      "A": "Increased heart rate",
+      "B": "Decreased temperature",
+      "C": "Decreased respiratory rate",
+      "D": "Bradycardia"
+    },
+    "answer": "A",
+    "answer_explanation": "Tachycardia is often the earliest sign of blood loss."
+  },
+  {
+    "id": 121,
+    "question": "Which nursing action is essential for a patient receiving IV potassium?",
+    "choices": {
+      "A": "Infuse with a pump, never IV push",
+      "B": "Give undiluted potassium IV",
+      "C": "Administer rapidly in emergency",
+      "D": "Mix with dextrose only"
+    },
+    "answer": "A",
+    "answer_explanation": "Potassium must be diluted and given with a pump; never IV push."
+  },
+  {
+    "id": 122,
+    "question": "Which patient is most at risk for pressure injury?",
+    "choices": {
+      "A": "Bedridden patient with poor nutrition",
+      "B": "Young athlete",
+      "C": "Ambulatory patient",
+      "D": "Patient with frequent mobility"
+    },
+    "answer": "A",
+    "answer_explanation": "Immobility and malnutrition increase risk for pressure ulcers."
+  },
+  {
+    "id": 123,
+    "question": "Which patient teaching is correct for someone with diabetes using insulin?",
+    "choices": {
+      "A": "Rotate injection sites to prevent lipodystrophy",
+      "B": "Use the same site repeatedly",
+      "C": "Skip insulin when not eating",
+      "D": "Inject into muscle for faster action"
+    },
+    "answer": "A",
+    "answer_explanation": "Rotating injection sites ensures consistent absorption and prevents lipodystrophy."
+  },
+  {
+    "id": 124,
+    "question": "Which electrolyte imbalance causes prolonged QT interval and tetany?",
+    "choices": {
+      "A": "Hypocalcemia",
+      "B": "Hyperkalemia",
+      "C": "Hypernatremia",
+      "D": "Hypermagnesemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Low calcium prolongs QT interval and can cause tetany."
+  },
+  {
+    "id": 125,
+    "question": "Which nursing action prevents ventilator-associated pneumonia?",
+    "choices": {
+      "A": "Oral care with chlorhexidine",
+      "B": "Keeping patient flat",
+      "C": "Routine antibiotics",
+      "D": "Avoiding suction"
+    },
+    "answer": "A",
+    "answer_explanation": "Oral care with chlorhexidine and head-of-bed elevation reduce VAP risk."
+  }
+]

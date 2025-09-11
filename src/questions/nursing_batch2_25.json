@@ -1,0 +1,302 @@
+[
+  {
+    "id": 26,
+    "question": "Which lab value indicates hypokalemia?",
+    "choices": {
+      "A": "Serum potassium 2.8 mmol/L",
+      "B": "Serum potassium 4.0 mmol/L",
+      "C": "Serum potassium 5.0 mmol/L",
+      "D": "Serum potassium 5.5 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal potassium is 3.5–5.0 mmol/L. A value of 2.8 indicates hypokalemia."
+  },
+  {
+    "id": 27,
+    "question": "Which PPE is required when caring for a patient with pulmonary tuberculosis?",
+    "choices": {
+      "A": "N95 respirator",
+      "B": "Surgical mask",
+      "C": "Gloves only",
+      "D": "Face shield only"
+    },
+    "answer": "A",
+    "answer_explanation": "Airborne precautions require an N95 respirator and a negative-pressure room."
+  },
+  {
+    "id": 28,
+    "question": "Which is the priority nursing intervention for a patient with chest pain and ST elevation?",
+    "choices": {
+      "A": "Administer oxygen and prepare for reperfusion therapy",
+      "B": "Encourage ambulation",
+      "C": "Give oral fluids",
+      "D": "Reassure and observe"
+    },
+    "answer": "A",
+    "answer_explanation": "ST elevation suggests myocardial infarction; oxygen and reperfusion are urgent."
+  },
+  {
+    "id": 29,
+    "question": "Which patient should the nurse see first?",
+    "choices": {
+      "A": "Post-op with SpO2 85%",
+      "B": "Diabetic with glucose 12 mmol/L",
+      "C": "Elderly with constipation",
+      "D": "Teen with sprained ankle"
+    },
+    "answer": "A",
+    "answer_explanation": "Airway and oxygenation issues take priority (ABCs)."
+  },
+  {
+    "id": 30,
+    "question": "Which vital sign requires immediate action?",
+    "choices": {
+      "A": "Respiratory rate 8/min",
+      "B": "Pulse 88/min",
+      "C": "BP 138/82 mmHg",
+      "D": "Temperature 37.8°C"
+    },
+    "answer": "A",
+    "answer_explanation": "Respiratory depression is life-threatening and requires urgent intervention."
+  },
+  {
+    "id": 31,
+    "question": "Which infection requires contact precautions?",
+    "choices": {
+      "A": "C. difficile",
+      "B": "Tuberculosis",
+      "C": "Influenza",
+      "D": "Measles"
+    },
+    "answer": "A",
+    "answer_explanation": "C. difficile is spread via spores and requires contact precautions with soap and water hand hygiene."
+  },
+  {
+    "id": 32,
+    "question": "Which patient condition requires droplet precautions?",
+    "choices": {
+      "A": "Meningococcal meningitis",
+      "B": "Varicella",
+      "C": "Scabies",
+      "D": "Hepatitis A"
+    },
+    "answer": "A",
+    "answer_explanation": "Meningococcal meningitis is spread by droplets; requires surgical mask within 3 feet."
+  },
+  {
+    "id": 33,
+    "question": "Which lab finding is expected in dehydration?",
+    "choices": {
+      "A": "Elevated hematocrit",
+      "B": "Low sodium",
+      "C": "Low BUN",
+      "D": "Low hematocrit"
+    },
+    "answer": "A",
+    "answer_explanation": "Dehydration concentrates the blood, leading to increased hematocrit and BUN."
+  },
+  {
+    "id": 34,
+    "question": "Which is the first nursing action if a patient develops anaphylaxis after IV antibiotics?",
+    "choices": {
+      "A": "Stop the infusion and assess airway",
+      "B": "Give water",
+      "C": "Apply warm compress to IV site",
+      "D": "Document and continue"
+    },
+    "answer": "A",
+    "answer_explanation": "Always stop the causative agent immediately and manage airway/breathing."
+  },
+  {
+    "id": 35,
+    "question": "Which symptom is an early sign of hypoxia?",
+    "choices": {
+      "A": "Restlessness",
+      "B": "Cyanosis",
+      "C": "Bradycardia",
+      "D": "Hypotension"
+    },
+    "answer": "A",
+    "answer_explanation": "Restlessness and anxiety are early signs of hypoxia; cyanosis appears later."
+  },
+  {
+    "id": 36,
+    "question": "Which assessment is most important for a patient on heparin therapy?",
+    "choices": {
+      "A": "Signs of bleeding",
+      "B": "Temperature",
+      "C": "Heart rate",
+      "D": "Respiratory rate"
+    },
+    "answer": "A",
+    "answer_explanation": "Heparin increases bleeding risk; monitor for bruises, bleeding gums, and hematuria."
+  },
+  {
+    "id": 37,
+    "question": "Which is the best position for a patient in respiratory distress?",
+    "choices": {
+      "A": "High Fowler’s",
+      "B": "Supine",
+      "C": "Prone",
+      "D": "Trendelenburg"
+    },
+    "answer": "A",
+    "answer_explanation": "High Fowler’s position optimizes lung expansion and improves oxygenation."
+  },
+  {
+    "id": 38,
+    "question": "Which electrolyte imbalance is most likely in a patient with prolonged vomiting?",
+    "choices": {
+      "A": "Hypokalemia",
+      "B": "Hyperkalemia",
+      "C": "Hypernatremia",
+      "D": "Hypercalcemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Vomiting causes loss of gastric fluids rich in potassium and hydrogen ions, leading to hypokalemia."
+  },
+  {
+    "id": 39,
+    "question": "Which is the priority nursing intervention for a patient with a seizure?",
+    "choices": {
+      "A": "Protect the airway and prevent injury",
+      "B": "Insert a tongue depressor",
+      "C": "Restrain the patient",
+      "D": "Give oral fluids"
+    },
+    "answer": "A",
+    "answer_explanation": "Maintain airway and safety; do not restrain or insert objects in the mouth."
+  },
+  {
+    "id": 40,
+    "question": "Which vital sign change is an early indicator of hypovolemic shock?",
+    "choices": {
+      "A": "Increased heart rate",
+      "B": "Decreased temperature",
+      "C": "Decreased respiratory rate",
+      "D": "Bradycardia"
+    },
+    "answer": "A",
+    "answer_explanation": "Tachycardia is an early compensatory mechanism in shock."
+  },
+  {
+    "id": 41,
+    "question": "Which patient condition requires neutropenic precautions?",
+    "choices": {
+      "A": "White blood cell count 1,000/µL",
+      "B": "Hemoglobin 14 g/dL",
+      "C": "Platelets 200,000/µL",
+      "D": "Potassium 4.0 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "A WBC count <1,500/µL is neutropenia, requiring protective isolation."
+  },
+  {
+    "id": 42,
+    "question": "Which is the priority action for a patient with a blood glucose of 40 mg/dL?",
+    "choices": {
+      "A": "Give 15 g of fast-acting carbohydrate",
+      "B": "Give long-acting insulin",
+      "C": "Encourage exercise",
+      "D": "Offer high-fiber foods"
+    },
+    "answer": "A",
+    "answer_explanation": "Immediate treatment of hypoglycemia is giving a fast-acting carbohydrate."
+  },
+  {
+    "id": 43,
+    "question": "Which finding suggests compartment syndrome?",
+    "choices": {
+      "A": "Severe pain unrelieved by analgesics",
+      "B": "Warm skin and bounding pulses",
+      "C": "Decreased urine output",
+      "D": "Mild edema"
+    },
+    "answer": "A",
+    "answer_explanation": "Severe, unrelieved pain is the hallmark of compartment syndrome."
+  },
+  {
+    "id": 44,
+    "question": "Which patient teaching is essential for a patient taking warfarin?",
+    "choices": {
+      "A": "Avoid foods high in vitamin K",
+      "B": "Increase green leafy vegetables",
+      "C": "Take aspirin daily",
+      "D": "Report constipation"
+    },
+    "answer": "A",
+    "answer_explanation": "Vitamin K antagonizes warfarin; intake must be consistent or limited."
+  },
+  {
+    "id": 45,
+    "question": "Which infection requires negative-pressure isolation?",
+    "choices": {
+      "A": "Measles",
+      "B": "Influenza",
+      "C": "MRSA",
+      "D": "Hepatitis C"
+    },
+    "answer": "A",
+    "answer_explanation": "Measles is airborne and requires a negative-pressure room and N95 mask."
+  },
+  {
+    "id": 46,
+    "question": "Which electrolyte imbalance is common in renal failure?",
+    "choices": {
+      "A": "Hyperkalemia",
+      "B": "Hypokalemia",
+      "C": "Hyponatremia",
+      "D": "Hypocalcemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Impaired excretion in renal failure often leads to hyperkalemia."
+  },
+  {
+    "id": 47,
+    "question": "Which is the first action for a patient with suspected stroke within 1 hour of onset?",
+    "choices": {
+      "A": "Arrange immediate CT scan",
+      "B": "Give aspirin",
+      "C": "Offer fluids",
+      "D": "Monitor for 24 hours"
+    },
+    "answer": "A",
+    "answer_explanation": "CT scan is required to differentiate ischemic vs. hemorrhagic stroke."
+  },
+  {
+    "id": 48,
+    "question": "Which patient statement indicates correct understanding of insulin self-administration?",
+    "choices": {
+      "A": "I will rotate injection sites to prevent lipodystrophy",
+      "B": "I can use the same site repeatedly",
+      "C": "I should inject insulin into muscle",
+      "D": "I will skip doses if I feel well"
+    },
+    "answer": "A",
+    "answer_explanation": "Rotating sites prevents lipodystrophy and ensures proper absorption."
+  },
+  {
+    "id": 49,
+    "question": "Which complication is most likely with immobility?",
+    "choices": {
+      "A": "Pressure injuries",
+      "B": "Hypermetabolism",
+      "C": "Increased muscle strength",
+      "D": "Improved lung expansion"
+    },
+    "answer": "A",
+    "answer_explanation": "Immobility increases the risk of pressure ulcers and pneumonia."
+  },
+  {
+    "id": 50,
+    "question": "Which is the priority assessment for a patient receiving digoxin?",
+    "choices": {
+      "A": "Apical pulse",
+      "B": "Respiratory rate",
+      "C": "Blood glucose",
+      "D": "Temperature"
+    },
+    "answer": "A",
+    "answer_explanation": "Digoxin can cause bradycardia; always check the apical pulse before administration."
+  }
+]

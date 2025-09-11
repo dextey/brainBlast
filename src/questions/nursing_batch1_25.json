@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Which is the safest patient identifier before medication administration?",
+    "choices": {
+      "A": "Ask the patient to state their name and DOB",
+      "B": "Room number and bed label",
+      "C": "Facial recognition by staff",
+      "D": "Nursing handover sheet"
+    },
+    "answer": "A",
+    "answer_explanation": "Use two identifiers: name and date of birth (or ID band), not room or visual recognition."
+  },
+  {
+    "id": 2,
+    "question": "Which position reduces the risk of aspiration during enteral feeding?",
+    "choices": {
+      "A": "Semi-Fowler’s at 30–45°",
+      "B": "Supine at 0°",
+      "C": "Trendelenburg",
+      "D": "Prone"
+    },
+    "answer": "A",
+    "answer_explanation": "Elevating the head of the bed to 30–45° decreases aspiration risk during feeding."
+  },
+  {
+    "id": 3,
+    "question": "After thyroidectomy, which finding is a priority to report immediately?",
+    "choices": {
+      "A": "Stridor and difficulty breathing",
+      "B": "Slight hoarseness",
+      "C": "Mild sore throat",
+      "D": "Small amount of serous drainage"
+    },
+    "answer": "A",
+    "answer_explanation": "Stridor indicates airway obstruction and is a medical emergency."
+  },
+  {
+    "id": 4,
+    "question": "Which finding is most concerning in a post-operative patient?",
+    "choices": {
+      "A": "Urine output 15 mL/hr",
+      "B": "Mild incisional pain",
+      "C": "Temperature 37.6°C",
+      "D": "Blood glucose 7 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Oliguria suggests impaired renal perfusion and requires urgent evaluation."
+  },
+  {
+    "id": 5,
+    "question": "Which oxygen delivery device provides the highest concentration of oxygen?",
+    "choices": {
+      "A": "Non-rebreather mask",
+      "B": "Nasal cannula",
+      "C": "Simple face mask",
+      "D": "Venturi mask"
+    },
+    "answer": "A",
+    "answer_explanation": "Non-rebreather masks deliver high FiO2, up to ~95%."
+  },
+  {
+    "id": 6,
+    "question": "Which infection requires airborne precautions?",
+    "choices": {
+      "A": "Pulmonary tuberculosis",
+      "B": "Influenza",
+      "C": "C. difficile",
+      "D": "Scabies"
+    },
+    "answer": "A",
+    "answer_explanation": "TB spreads via airborne droplets; requires N95 mask and negative pressure room."
+  },
+  {
+    "id": 7,
+    "question": "Which hand hygiene method is recommended for C. difficile infection?",
+    "choices": {
+      "A": "Soap and water",
+      "B": "Alcohol-based hand rub",
+      "C": "Wiping with paper towel",
+      "D": "Hand sanitizer spray"
+    },
+    "answer": "A",
+    "answer_explanation": "Soap and water is required as alcohol rubs do not kill C. difficile spores."
+  },
+  {
+    "id": 8,
+    "question": "Which assessment is the highest priority for a patient receiving IV morphine?",
+    "choices": {
+      "A": "Respiratory rate",
+      "B": "Bowel sounds",
+      "C": "Urine output",
+      "D": "Skin turgor"
+    },
+    "answer": "A",
+    "answer_explanation": "Opioids depress the respiratory center; always monitor RR closely."
+  },
+  {
+    "id": 9,
+    "question": "Which patient should the nurse see first?",
+    "choices": {
+      "A": "Post-op patient with SpO2 85%",
+      "B": "Diabetic patient with blood glucose 12 mmol/L",
+      "C": "Elderly patient with constipation",
+      "D": "Teenager with sprained ankle"
+    },
+    "answer": "A",
+    "answer_explanation": "Hypoxemia is life-threatening and takes priority over stable conditions."
+  },
+  {
+    "id": 10,
+    "question": "Which sign indicates hypocalcemia?",
+    "choices": {
+      "A": "Positive Chvostek’s sign",
+      "B": "Bounding pulses",
+      "C": "Bradycardia",
+      "D": "Warm flushed skin"
+    },
+    "answer": "A",
+    "answer_explanation": "Chvostek’s and Trousseau’s signs indicate low calcium levels."
+  },
+  {
+    "id": 11,
+    "question": "Which action should the nurse take first when a patient develops shortness of breath after a blood transfusion?",
+    "choices": {
+      "A": "Stop the transfusion immediately",
+      "B": "Give antihistamine",
+      "C": "Call the physician",
+      "D": "Check the temperature"
+    },
+    "answer": "A",
+    "answer_explanation": "Stop the transfusion at once, keep IV open with saline, and monitor the patient."
+  },
+  {
+    "id": 12,
+    "question": "Which lab finding indicates hyponatremia?",
+    "choices": {
+      "A": "Serum sodium 125 mmol/L",
+      "B": "Serum sodium 138 mmol/L",
+      "C": "Serum sodium 145 mmol/L",
+      "D": "Serum sodium 150 mmol/L"
+    },
+    "answer": "A",
+    "answer_explanation": "Normal sodium is 135–145 mmol/L. A value of 125 is below normal (hyponatremia)."
+  },
+  {
+    "id": 13,
+    "question": "Which patient is most at risk for developing hypokalemia?",
+    "choices": {
+      "A": "A patient on loop diuretics",
+      "B": "A patient with renal failure",
+      "C": "A patient on spironolactone",
+      "D": "A patient receiving potassium supplements"
+    },
+    "answer": "A",
+    "answer_explanation": "Loop diuretics (like furosemide) increase potassium excretion, leading to hypokalemia."
+  },
+  {
+    "id": 14,
+    "question": "Which finding in a post-op thyroidectomy patient requires immediate intervention?",
+    "choices": {
+      "A": "Sudden difficulty swallowing",
+      "B": "Slight sore throat",
+      "C": "Small serosanguineous drainage",
+      "D": "Mild hoarseness"
+    },
+    "answer": "A",
+    "answer_explanation": "Difficulty swallowing may indicate airway obstruction from edema or hematoma."
+  },
+  {
+    "id": 15,
+    "question": "Which nursing action prevents pressure injuries in bedridden patients?",
+    "choices": {
+      "A": "Reposition every 2 hours",
+      "B": "Massage reddened skin",
+      "C": "Apply donut-shaped cushions",
+      "D": "Restrict fluids"
+    },
+    "answer": "A",
+    "answer_explanation": "Frequent repositioning reduces prolonged pressure and prevents ulcers."
+  },
+  {
+    "id": 16,
+    "question": "Which patient condition requires droplet precautions?",
+    "choices": {
+      "A": "Influenza",
+      "B": "Tuberculosis",
+      "C": "C. difficile",
+      "D": "Scabies"
+    },
+    "answer": "A",
+    "answer_explanation": "Influenza is spread by droplets; TB is airborne, C. diff and scabies are contact."
+  },
+  {
+    "id": 17,
+    "question": "What is the nurse’s best action for a patient with suspected pulmonary embolism?",
+    "choices": {
+      "A": "Administer oxygen and notify physician",
+      "B": "Encourage ambulation",
+      "C": "Give a glass of water",
+      "D": "Reassure and observe"
+    },
+    "answer": "A",
+    "answer_explanation": "Oxygen and rapid physician notification are critical for suspected PE."
+  },
+  {
+    "id": 18,
+    "question": "Which lab value indicates good diabetic control?",
+    "choices": {
+      "A": "HbA1c 6%",
+      "B": "HbA1c 9%",
+      "C": "HbA1c 11%",
+      "D": "HbA1c 13%"
+    },
+    "answer": "A",
+    "answer_explanation": "An HbA1c of ≤7% indicates good long-term glucose control."
+  },
+  {
+    "id": 19,
+    "question": "Which electrolyte imbalance can cause peaked T waves on ECG?",
+    "choices": {
+      "A": "Hyperkalemia",
+      "B": "Hypokalemia",
+      "C": "Hyponatremia",
+      "D": "Hypercalcemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Hyperkalemia is classically associated with peaked T waves."
+  },
+  {
+    "id": 20,
+    "question": "Which nursing action prevents catheter-associated UTI?",
+    "choices": {
+      "A": "Remove catheter as soon as possible",
+      "B": "Change catheter daily",
+      "C": "Irrigate catheter routinely",
+      "D": "Keep bag above bladder level"
+    },
+    "answer": "A",
+    "answer_explanation": "The most effective prevention is early removal and aseptic technique."
+  },
+  {
+    "id": 21,
+    "question": "Which symptom is a hallmark of hypoglycemia?",
+    "choices": {
+      "A": "Sweating and tremors",
+      "B": "Polyuria",
+      "C": "Weight gain",
+      "D": "Slow wound healing"
+    },
+    "answer": "A",
+    "answer_explanation": "Sweating, tremors, palpitations, and confusion are classic for hypoglycemia."
+  },
+  {
+    "id": 22,
+    "question": "Which electrolyte imbalance is common in patients with Diabetic Ketoacidosis (DKA)?",
+    "choices": {
+      "A": "Hyperkalemia",
+      "B": "Hypocalcemia",
+      "C": "Hypernatremia",
+      "D": "Hypomagnesemia"
+    },
+    "answer": "A",
+    "answer_explanation": "Potassium shifts out of cells in DKA, causing hyperkalemia."
+  },
+  {
+    "id": 23,
+    "question": "Which complication is most important to monitor for after a thyroidectomy?",
+    "choices": {
+      "A": "Airway obstruction",
+      "B": "Constipation",
+      "C": "Hypoglycemia",
+      "D": "Infection"
+    },
+    "answer": "A",
+    "answer_explanation": "Airway compromise from edema or hematoma is life-threatening."
+  },
+  {
+    "id": 24,
+    "question": "Which is the first nursing action when a patient reports new chest pain?",
+    "choices": {
+      "A": "Assess airway, breathing, circulation",
+      "B": "Call family",
+      "C": "Give oral fluids",
+      "D": "Document and monitor"
+    },
+    "answer": "A",
+    "answer_explanation": "Always assess ABCs first when new chest pain occurs."
+  },
+  {
+    "id": 25,
+    "question": "Which vital sign pattern is most concerning for sepsis?",
+    "choices": {
+      "A": "Temperature 39°C, HR 120, BP 88/50",
+      "B": "Temperature 37°C, HR 88, BP 120/80",
+      "C": "Temperature 36.5°C, HR 75, BP 130/85",
+      "D": "Temperature 37.2°C, HR 70, BP 110/70"
+    },
+    "answer": "A",
+    "answer_explanation": "Fever, tachycardia, and hypotension are hallmark signs of sepsis."
+  }
+]
