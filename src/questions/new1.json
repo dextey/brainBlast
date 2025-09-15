@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary purpose of hand hygiene in nursing practice?",
+    "choices": {
+      "A": "To keep the hands clean and soft",
+      "B": "To reduce the risk of transmitting infections",
+      "C": "To meet hospital policy requirements",
+      "D": "To make patients feel comfortable"
+    },
+    "answer": "B",
+    "answer_explanation": "The main goal of hand hygiene is to prevent healthcare-associated infections by reducing transmission of pathogens."
+  },
+  {
+    "id": 2,
+    "question": "Which vital sign measurement is considered abnormal for an adult patient?",
+    "choices": {
+      "A": "Blood pressure 118/78 mmHg",
+      "B": "Pulse 104 beats per minute",
+      "C": "Respiratory rate 18 per minute",
+      "D": "Temperature 36.8°C"
+    },
+    "answer": "B",
+    "answer_explanation": "Normal adult pulse is 60–100 bpm; 104 bpm is tachycardia."
+  },
+  {
+    "id": 3,
+    "question": "A nurse is caring for a patient with oxygen therapy via nasal cannula. What is the maximum flow rate that can be safely delivered?",
+    "choices": {
+      "A": "2 L/min",
+      "B": "6 L/min",
+      "C": "10 L/min",
+      "D": "15 L/min"
+    },
+    "answer": "B",
+    "answer_explanation": "Nasal cannula flow rates are 1–6 L/min; higher flow requires a different device (e.g., mask)."
+  },
+  {
+    "id": 4,
+    "question": "The nurse is preparing to insert a urinary catheter. Which technique is required?",
+    "choices": {
+      "A": "Aseptic technique",
+      "B": "Clean technique",
+      "C": "Hand hygiene only",
+      "D": "Protective isolation technique"
+    },
+    "answer": "A",
+    "answer_explanation": "Urinary catheter insertion requires strict aseptic technique to prevent urinary tract infections."
+  },
+  {
+    "id": 5,
+    "question": "What is the most accurate method of measuring core body temperature?",
+    "choices": {
+      "A": "Oral",
+      "B": "Axillary",
+      "C": "Rectal",
+      "D": "Tympanic"
+    },
+    "answer": "C",
+    "answer_explanation": "Rectal temperature measurement is considered the gold standard for core body temperature."
+  },
+  {
+    "id": 6,
+    "question": "A patient with COPD is experiencing shortness of breath. Which oxygen delivery device is most appropriate?",
+    "choices": {
+      "A": "Non-rebreather mask at 15 L/min",
+      "B": "Simple face mask at 10 L/min",
+      "C": "Nasal cannula at 2 L/min",
+      "D": "Venturi mask at 24%–28% FiO₂"
+    },
+    "answer": "D",
+    "answer_explanation": "COPD patients need controlled low oxygen concentrations; a Venturi mask allows precise FiO₂ delivery."
+  },
+  {
+    "id": 7,
+    "question": "Which electrolyte imbalance is most likely in a patient receiving loop diuretics such as furosemide?",
+    "choices": {
+      "A": "Hyperkalemia",
+      "B": "Hypokalemia",
+      "C": "Hypernatremia",
+      "D": "Hypercalcemia"
+    },
+    "answer": "B",
+    "answer_explanation": "Loop diuretics increase potassium excretion, leading to hypokalemia."
+  },
+  {
+    "id": 8,
+    "question": "A patient with diabetes is found unconscious with cold, clammy skin. What is the priority nursing action?",
+    "choices": {
+      "A": "Administer oral glucose immediately",
+      "B": "Check blood glucose level",
+      "C": "Start IV insulin infusion",
+      "D": "Place the patient in Trendelenburg position"
+    },
+    "answer": "B",
+    "answer_explanation": "Always confirm hypoglycemia with a glucose check before intervention; if confirmed, give glucose."
+  },
+  {
+    "id": 9,
+    "question": "Which sign is most characteristic of left-sided heart failure?",
+    "choices": {
+      "A": "Peripheral edema",
+      "B": "Jugular vein distension",
+      "C": "Pulmonary crackles",
+      "D": "Hepatomegaly"
+    },
+    "answer": "C",
+    "answer_explanation": "Left-sided heart failure causes pulmonary congestion, leading to crackles on auscultation."
+  },
+  {
+    "id": 10,
+    "question": "A nurse is monitoring a patient with chest tube drainage. Which finding should be reported immediately?",
+    "choices": {
+      "A": "Continuous bubbling in the water seal chamber",
+      "B": "Fluctuations with respiration",
+      "C": "Small amount of serosanguinous drainage",
+      "D": "Tidaling movement in the chamber"
+    },
+    "answer": "A",
+    "answer_explanation": "Continuous bubbling indicates an air leak and must be reported promptly."
+  },
+  {
+    "id": 11,
+    "question": "What is the recommended first action when a patient is found unresponsive without breathing?",
+    "choices": {
+      "A": "Start chest compressions",
+      "B": "Check carotid pulse",
+      "C": "Call for help and activate emergency response",
+      "D": "Give rescue breaths"
+    },
+    "answer": "C",
+    "answer_explanation": "According to BLS guidelines, the first action is to call for help/activate emergency response before compressions."
+  },
+  {
+    "id": 12,
+    "question": "Which lab finding indicates therapeutic effect of warfarin therapy?",
+    "choices": {
+      "A": "PT/INR 2–3",
+      "B": "Platelet count 150,000/mm³",
+      "C": "aPTT 30 seconds",
+      "D": "Hemoglobin 14 g/dL"
+    },
+    "answer": "A",
+    "answer_explanation": "Warfarin effectiveness is monitored using PT/INR; therapeutic range is 2–3."
+  },
+  {
+    "id": 13,
+    "question": "Which intervention is most appropriate for a patient experiencing a tonic-clonic seizure?",
+    "choices": {
+      "A": "Hold the patient down firmly",
+      "B": "Insert a tongue depressor",
+      "C": "Turn the patient on the side",
+      "D": "Give a glass of water"
+    },
+    "answer": "C",
+    "answer_explanation": "Placing the patient on the side maintains airway and prevents aspiration; do not restrain or put objects in mouth."
+  },
+  {
+    "id": 14,
+    "question": "A nurse is caring for a woman in active labor. Which fetal heart rate pattern requires immediate intervention?",
+    "choices": {
+      "A": "Baseline of 140 bpm",
+      "B": "Early decelerations with contractions",
+      "C": "Variable decelerations",
+      "D": "Late decelerations"
+    },
+    "answer": "D",
+    "answer_explanation": "Late decelerations indicate uteroplacental insufficiency and fetal distress; requires immediate intervention."
+  },
+  {
+    "id": 15,
+    "question": "Which immunization is contraindicated during pregnancy?",
+    "choices": {
+      "A": "Influenza inactivated vaccine",
+      "B": "Hepatitis B vaccine",
+      "C": "MMR (measles, mumps, rubella)",
+      "D": "Tetanus toxoid"
+    },
+    "answer": "C",
+    "answer_explanation": "Live vaccines like MMR are contraindicated during pregnancy due to risk of fetal infection."
+  },
+  {
+    "id": 16,
+    "question": "Which position is recommended for a pregnant woman with hypotension after lying supine?",
+    "choices": {
+      "A": "Right lateral position",
+      "B": "Left lateral position",
+      "C": "High Fowler’s position",
+      "D": "Lithotomy position"
+    },
+    "answer": "B",
+    "answer_explanation": "Supine hypotension is relieved by turning to the left lateral position to improve venous return."
+  },
+  {
+    "id": 17,
+    "question": "A newborn’s Apgar score at 1 minute is 8. What is the correct interpretation?",
+    "choices": {
+      "A": "Normal, no intervention needed",
+      "B": "Severe distress, immediate resuscitation",
+      "C": "Moderate distress, oxygen required",
+      "D": "High risk, transfer to NICU"
+    },
+    "answer": "A",
+    "answer_explanation": "Apgar score 7–10 is normal; no immediate intervention needed."
+  },
+  {
+    "id": 18,
+    "question": "Which finding is normal in the immediate postpartum period?",
+    "choices": {
+      "A": "Fundus firm at the umbilicus",
+      "B": "Heavy continuous vaginal bleeding",
+      "C": "Temperature of 39°C",
+      "D": "Blood pressure 90/40 mmHg"
+    },
+    "answer": "A",
+    "answer_explanation": "A firm fundus at the umbilicus is expected after delivery; heavy bleeding or fever is abnormal."
+  },
+  {
+    "id": 19,
+    "question": "What is the most effective health promotion measure to reduce the risk of community-acquired infections?",
+    "choices": {
+      "A": "Routine chest X-rays",
+      "B": "Antibiotic prophylaxis",
+      "C": "Hand hygiene and vaccination",
+      "D": "Wearing surgical masks daily"
+    },
+    "answer": "C",
+    "answer_explanation": "Hand hygiene and vaccination are the best preventive measures against community-acquired infections."
+  },
+  {
+    "id": 20,
+    "question": "A nurse is conducting health teaching for adolescents about substance abuse. Which statement is most accurate?",
+    "choices": {
+      "A": "Marijuana has no long-term effects",
+      "B": "Alcohol is not addictive compared to drugs",
+      "C": "Nicotine is highly addictive and harmful",
+      "D": "Occasional drug use is safe"
+    },
+    "answer": "C",
+    "answer_explanation": "Nicotine is a highly addictive substance and harmful to health, especially in adolescence."
+  },
+  {
+    "id": 21,
+    "question": "Which community health intervention is most effective in preventing the spread of tuberculosis?",
+    "choices": {
+      "A": "Routine blood glucose checks",
+      "B": "Screening and early treatment of contacts",
+      "C": "Annual vision screening",
+      "D": "Encouraging daily exercise"
+    },
+    "answer": "B",
+    "answer_explanation": "TB prevention in the community relies on screening and treating exposed contacts early."
+  },
+  {
+    "id": 22,
+    "question": "A nurse is caring for a psychiatric patient who is pacing, restless, and shouting. What is the first nursing action?",
+    "choices": {
+      "A": "Call security immediately",
+      "B": "Attempt to verbally de-escalate",
+      "C": "Restrain the patient physically",
+      "D": "Give IM sedative without consent"
+    },
+    "answer": "B",
+    "answer_explanation": "Verbal de-escalation and calming techniques are the first approach before restraint or medication."
+  },
+  {
+    "id": 23,
+    "question": "Which symptom is most typical of major depressive disorder?",
+    "choices": {
+      "A": "Elevated mood",
+      "B": "Loss of interest or pleasure",
+      "C": "Rapid speech",
+      "D": "Grandiose thinking"
+    },
+    "answer": "B",
+    "answer_explanation": "Loss of interest (anhedonia) is a hallmark of major depressive disorder."
+  },
+  {
+    "id": 24,
+    "question": "A patient with schizophrenia says, 'The sun talks to me every morning.' What is this an example of?",
+    "choices": {
+      "A": "Hallucination",
+      "B": "Delusion",
+      "C": "Compulsion",
+      "D": "Obsession"
+    },
+    "answer": "B",
+    "answer_explanation": "Believing the sun talks is a fixed false belief, which is a delusion."
+  },
+  {
+    "id": 25,
+    "question": "Which nursing intervention is most effective for preventing suicide in a hospitalized patient?",
+    "choices": {
+      "A": "Allow patient to be alone for reflection",
+      "B": "Remove sharp objects and maintain close supervision",
+      "C": "Encourage journaling about feelings",
+      "D": "Provide group therapy immediately"
+    },
+    "answer": "B",
+    "answer_explanation": "The priority in suicide prevention is safety—removing dangerous objects and ensuring close observation."
+  }
+]

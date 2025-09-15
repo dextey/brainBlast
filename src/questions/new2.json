@@ -1,0 +1,302 @@
+[
+  {
+    "id": 26,
+    "question": "A nurse notes that a patient’s IV site is red, warm, and tender with a palpable cord. What is the best initial action?",
+    "choices": {
+      "A": "Elevate the arm and apply warm compresses",
+      "B": "Continue infusion and document findings",
+      "C": "Irrigate the IV site with saline",
+      "D": "Apply ice pack to the site"
+    },
+    "answer": "A",
+    "answer_explanation": "These are signs of phlebitis; the infusion should be stopped, IV removed, and warm compresses applied to reduce inflammation."
+  },
+  {
+    "id": 27,
+    "question": "While teaching a patient about subcutaneous heparin, which statement indicates a need for further teaching?",
+    "choices": {
+      "A": "I should rotate injection sites in my abdomen.",
+      "B": "I will massage the site after injection to prevent bruising.",
+      "C": "I should use a small-gauge needle for injection.",
+      "D": "I will report any unusual bleeding or bruising to my doctor."
+    },
+    "answer": "B",
+    "answer_explanation": "The site should not be massaged after heparin injection because it increases the risk of hematoma formation."
+  },
+  {
+    "id": 28,
+    "question": "Which nursing action is most important when transferring a patient from bed to wheelchair?",
+    "choices": {
+      "A": "Position the wheelchair on the patient’s weak side",
+      "B": "Ensure the wheelchair brakes are locked",
+      "C": "Use the patient’s gown to provide support",
+      "D": "Pull the patient quickly to reduce effort"
+    },
+    "answer": "B",
+    "answer_explanation": "To prevent falls, always lock wheelchair brakes before transfer. The wheelchair is usually placed on the strong side."
+  },
+  {
+    "id": 29,
+    "question": "A nurse prepares to administer digoxin to a patient. Which assessment finding requires withholding the dose?",
+    "choices": {
+      "A": "Respiratory rate 16/min",
+      "B": "Heart rate 52 bpm",
+      "C": "Blood pressure 120/70 mmHg",
+      "D": "Potassium 4.2 mEq/L"
+    },
+    "answer": "B",
+    "answer_explanation": "Digoxin is withheld if heart rate is <60 bpm to prevent severe bradycardia."
+  },
+  {
+    "id": 30,
+    "question": "Which infection-control practice requires correction by the nurse?",
+    "choices": {
+      "A": "Using alcohol-based sanitizer after removing gloves",
+      "B": "Wearing the same gloves when caring for two patients with MRSA",
+      "C": "Wearing a mask when suctioning a tracheostomy",
+      "D": "Discarding a used needle in a sharps container"
+    },
+    "answer": "B",
+    "answer_explanation": "Gloves must be changed between patients even if they have the same infection to prevent cross-contamination."
+  },
+  {
+    "id": 31,
+    "question": "A patient with chronic kidney disease has pruritus. Which nursing action is most helpful?",
+    "choices": {
+      "A": "Apply moisturizing lotion to skin",
+      "B": "Increase daily protein intake",
+      "C": "Encourage frequent hot showers",
+      "D": "Restrict fluid intake to 1 L/day"
+    },
+    "answer": "A",
+    "answer_explanation": "Moisturizing relieves pruritus caused by uremic toxins. Hot water worsens dryness and itching."
+  },
+  {
+    "id": 32,
+    "question": "Which ECG change is most associated with hypokalemia?",
+    "choices": {
+      "A": "Peaked T waves",
+      "B": "U waves",
+      "C": "Prolonged PR interval",
+      "D": "Widened QRS complex"
+    },
+    "answer": "B",
+    "answer_explanation": "Hypokalemia is characterized by the presence of U waves, flattened T waves, and possible ST depression."
+  },
+  {
+    "id": 33,
+    "question": "A patient with cirrhosis develops confusion, hand tremors, and irritability. What is the likely cause?",
+    "choices": {
+      "A": "Low serum glucose",
+      "B": "Hepatic encephalopathy",
+      "C": "Hypokalemia",
+      "D": "Sepsis"
+    },
+    "answer": "B",
+    "answer_explanation": "Confusion and tremors in cirrhosis indicate hepatic encephalopathy due to accumulation of ammonia."
+  },
+  {
+    "id": 34,
+    "question": "A nurse is caring for a burn patient. Which finding indicates possible hypovolemic shock?",
+    "choices": {
+      "A": "Urine output 55 mL/hr",
+      "B": "Blood pressure 80/50 mmHg",
+      "C": "Pulse 84 bpm",
+      "D": "Warm, moist skin"
+    },
+    "answer": "B",
+    "answer_explanation": "Hypovolemic shock is indicated by hypotension, tachycardia, and low urine output (<30 mL/hr)."
+  },
+  {
+    "id": 35,
+    "question": "Which nursing intervention is most important after thyroidectomy?",
+    "choices": {
+      "A": "Monitor for hoarseness and difficulty breathing",
+      "B": "Encourage early ambulation",
+      "C": "Check for hypoglycemia",
+      "D": "Restrict oral fluids"
+    },
+    "answer": "A",
+    "answer_explanation": "Airway obstruction from swelling or hematoma is the most serious complication after thyroid surgery."
+  },
+  {
+    "id": 36,
+    "question": "A patient with a chest injury develops tracheal deviation and absent breath sounds on one side. What is the priority nursing action?",
+    "choices": {
+      "A": "Prepare for chest tube insertion",
+      "B": "Administer 100% oxygen",
+      "C": "Encourage coughing and deep breathing",
+      "D": "Elevate the head of the bed"
+    },
+    "answer": "A",
+    "answer_explanation": "Tracheal deviation with absent breath sounds indicates tension pneumothorax requiring immediate chest tube insertion."
+  },
+  {
+    "id": 37,
+    "question": "A patient with a history of myocardial infarction suddenly reports chest pain unrelieved by nitroglycerin. What is the priority action?",
+    "choices": {
+      "A": "Administer morphine IV",
+      "B": "Obtain a 12-lead ECG",
+      "C": "Administer aspirin 325 mg",
+      "D": "Notify the physician immediately"
+    },
+    "answer": "B",
+    "answer_explanation": "Obtaining a 12-lead ECG is the immediate priority to assess for reinfarction or acute ischemia."
+  },
+  {
+    "id": 38,
+    "question": "Which assessment finding is most concerning in a patient with acute pancreatitis?",
+    "choices": {
+      "A": "Nausea and vomiting",
+      "B": "Severe epigastric pain",
+      "C": "Bluish discoloration around the umbilicus",
+      "D": "Elevated serum amylase"
+    },
+    "answer": "C",
+    "answer_explanation": "Cullen’s sign (umbilical discoloration) indicates retroperitoneal hemorrhage, a serious complication."
+  },
+  {
+    "id": 39,
+    "question": "A pregnant woman at 36 weeks has blood pressure 160/110, proteinuria, and headache. What is the most likely diagnosis?",
+    "choices": {
+      "A": "Gestational hypertension",
+      "B": "Preeclampsia",
+      "C": "Eclampsia",
+      "D": "Placenta previa"
+    },
+    "answer": "B",
+    "answer_explanation": "Severe hypertension with proteinuria and symptoms indicates preeclampsia; seizures would indicate eclampsia."
+  },
+  {
+    "id": 40,
+    "question": "Which is the priority nursing intervention during a postpartum hemorrhage?",
+    "choices": {
+      "A": "Insert a urinary catheter",
+      "B": "Massage the uterine fundus",
+      "C": "Encourage breastfeeding",
+      "D": "Start IV antibiotics"
+    },
+    "answer": "B",
+    "answer_explanation": "Uterine massage stimulates contraction and is the first intervention for postpartum hemorrhage."
+  },
+  {
+    "id": 41,
+    "question": "A nurse assesses a newborn with nasal flaring, grunting, and intercostal retractions. What condition is suspected?",
+    "choices": {
+      "A": "Neonatal sepsis",
+      "B": "Respiratory distress syndrome",
+      "C": "Hypoglycemia",
+      "D": "Congenital heart defect"
+    },
+    "answer": "B",
+    "answer_explanation": "Classic signs of respiratory distress syndrome include nasal flaring, grunting, and retractions."
+  },
+  {
+    "id": 42,
+    "question": "Which finding is considered abnormal in a 2-day-old newborn?",
+    "choices": {
+      "A": "Milia on the nose",
+      "B": "Yellow skin and sclera",
+      "C": "Startle reflex",
+      "D": "Irregular breathing"
+    },
+    "answer": "B",
+    "answer_explanation": "Jaundice within the first 24 hours or early onset is abnormal and may indicate hemolysis or pathology."
+  },
+  {
+    "id": 43,
+    "question": "A patient in the community asks how to prevent iron-deficiency anemia. Which recommendation is most appropriate?",
+    "choices": {
+      "A": "Increase intake of milk and dairy products",
+      "B": "Eat more red meat and green leafy vegetables",
+      "C": "Take vitamin D supplements daily",
+      "D": "Avoid foods rich in vitamin C"
+    },
+    "answer": "B",
+    "answer_explanation": "Iron-rich foods include red meat and leafy greens; vitamin C helps iron absorption."
+  },
+  {
+    "id": 44,
+    "question": "During a home visit, the nurse finds an elderly patient hoarding expired medications. What is the best intervention?",
+    "choices": {
+      "A": "Report the patient to social services",
+      "B": "Educate the patient about safe medication disposal",
+      "C": "Throw away all medications without consent",
+      "D": "Ignore if the patient feels secure"
+    },
+    "answer": "B",
+    "answer_explanation": "The nurse should educate on safe disposal and encourage compliance without violating autonomy."
+  },
+  {
+    "id": 45,
+    "question": "A psychiatric patient reports hearing voices saying 'You are worthless.' What is the most therapeutic response?",
+    "choices": {
+      "A": "Why are you listening to those voices?",
+      "B": "I don’t hear the voices, but I understand they are real to you.",
+      "C": "Those voices are not real, ignore them.",
+      "D": "Let’s focus on something positive instead."
+    },
+    "answer": "B",
+    "answer_explanation": "This response acknowledges the patient’s experience without reinforcing hallucinations, demonstrating empathy."
+  },
+  {
+    "id": 46,
+    "question": "A nurse suspects child abuse when noticing multiple bruises at different healing stages. What is the priority action?",
+    "choices": {
+      "A": "Document findings and notify authorities",
+      "B": "Ask the parents for an explanation",
+      "C": "Apply warm compresses to bruises",
+      "D": "Confront the child directly"
+    },
+    "answer": "A",
+    "answer_explanation": "Mandatory reporting laws require documentation and reporting suspected abuse immediately."
+  },
+  {
+    "id": 47,
+    "question": "A patient with bipolar disorder is in the manic phase. Which activity is most appropriate?",
+    "choices": {
+      "A": "Group therapy session",
+      "B": "Team sports",
+      "C": "Individual, noncompetitive activity",
+      "D": "Detailed writing assignments"
+    },
+    "answer": "C",
+    "answer_explanation": "Simple, noncompetitive activities reduce overstimulation and are best for patients in mania."
+  },
+  {
+    "id": 48,
+    "question": "Which lab result is most concerning in a patient taking lithium for bipolar disorder?",
+    "choices": {
+      "A": "Serum sodium 140 mEq/L",
+      "B": "Serum lithium 2.0 mEq/L",
+      "C": "Serum potassium 4.1 mEq/L",
+      "D": "Serum creatinine 1.0 mg/dL"
+    },
+    "answer": "B",
+    "answer_explanation": "Therapeutic lithium level is 0.6–1.2 mEq/L; 2.0 mEq/L indicates toxicity."
+  },
+  {
+    "id": 49,
+    "question": "A patient with schizophrenia has been on haloperidol for several months. Which finding requires immediate intervention?",
+    "choices": {
+      "A": "Dry mouth",
+      "B": "Tremors and shuffling gait",
+      "C": "Constipation",
+      "D": "Blurred vision"
+    },
+    "answer": "B",
+    "answer_explanation": "Tremors and shuffling gait indicate extrapyramidal symptoms (Parkinsonism), requiring medication adjustment."
+  },
+  {
+    "id": 50,
+    "question": "During a health campaign, which strategy best reduces the risk of cardiovascular disease in the community?",
+    "choices": {
+      "A": "Routine CT scans for heart disease",
+      "B": "Promoting smoking cessation and healthy diet",
+      "C": "Daily vitamin supplement distribution",
+      "D": "Encouraging routine dental check-ups"
+    },
+    "answer": "B",
+    "answer_explanation": "Smoking cessation, healthy diet, and exercise are the most effective primary prevention measures for cardiovascular disease."
+  }
+]
