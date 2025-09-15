@@ -10,12 +10,21 @@ export default function BatchSelector({ onSelectBatch }) {
     setProgress(saved);
   }, []);
 
+  // ✅ Sort: incomplete/resumable first, completed last
+  const sortedBatches = [...batches].sort((a, b) => {
+    const aCompleted = progress[`batch-${a}`]?.completed || false;
+    const bCompleted = progress[`batch-${b}`]?.completed || false;
+
+    if (aCompleted === bCompleted) return a - b; // keep original order
+    return aCompleted ? 1 : -1; // completed goes last
+  });
+
   return (
     <div className="max-w-2xl mx-auto p-6">
       <h1 className="text-2xl font-bold mb-6">📦 Select a Question Set</h1>
 
       <div className="flex flex-col gap-3">
-        {batches.map((num) => {
+        {sortedBatches.map((num) => {
           const batchKey = `batch-${num}`;
           const batchData = progress[batchKey];
           let hard = null;
@@ -30,25 +39,23 @@ export default function BatchSelector({ onSelectBatch }) {
                 ${batchData?.completed ? "border-green-500" : "border-gray-300"}
                 `}
             >
+              {/* Hard/MATH Ribbon */}
               {hard && (
                 <div
                   className={`px-3 text-white w-15 absolute text-center text-[.71rem] -rotate-90 left-[-23px] rounded-t-lg ${
                     hard === "MATH" ? "bg-blue-400" : "bg-red-400"
-                  }
-                  
-                   ${
-                     batchData?.completed
-                       ? "w-18 left-[-28px]"
-                       : "border-gray-300"
-                   }
-                  `}
+                  } ${
+                    batchData?.completed
+                      ? "w-18 left-[-28px]"
+                      : "border-gray-300"
+                  }`}
                 >
                   {hard}
                 </div>
               )}
-              {/* Title */}
 
-              <h2 className="text-lg font-semibold">Questions Set {num}</h2>
+              {/* Title */}
+              <h2 className="text-lg font-semibold">Question Set {num}</h2>
 
               {/* Status */}
               {batchData?.completed ? (
